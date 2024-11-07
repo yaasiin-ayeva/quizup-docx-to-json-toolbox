@@ -2,7 +2,7 @@ const fs = require('fs');
 
 interface Option {
     text: string;
-    isCorrect?: boolean;
+    isCorrect: number;  // 1 si correct, 0 sinon
 }
 
 interface Question {
@@ -50,7 +50,7 @@ const convertTxtToJson = (inputFile: string, outputFile: string, splitQuestionsN
                     (currentQuestion.options.length === 0 && line.includes('Correct Answer:'));
                 currentQuestion.options.push({
                     text: optionText,
-                    ...(isCorrect && { isCorrect })
+                    isCorrect: isCorrect ? 1 : 0  // 1 si correct, 0 sinon
                 });
             }
         } else if (line.includes('Correct Answer:')) {
@@ -60,7 +60,7 @@ const convertTxtToJson = (inputFile: string, outputFile: string, splitQuestionsN
                     option.text.toLowerCase().includes(correctAnswerText.toLowerCase())
                 );
                 if (correctOption) {
-                    correctOption.isCorrect = true;
+                    correctOption.isCorrect = 1;
                 }
             }
         } else if (line.includes('Answer:')) {
@@ -70,7 +70,7 @@ const convertTxtToJson = (inputFile: string, outputFile: string, splitQuestionsN
                     option.text.toLowerCase().includes(correctAnswerText.toLowerCase())
                 );
                 if (correctOption) {
-                    correctOption.isCorrect = true;
+                    correctOption.isCorrect = 1;
                 }
             }
         }
@@ -91,9 +91,14 @@ const convertTxtToJson = (inputFile: string, outputFile: string, splitQuestionsN
         for (let i = 0; i < splitQuestionsNumber; i++) {
             generateOutput(questions.slice(i * middle, (i + 1) * middle), `${outputFile}${i + 1}.json`);
         }
-
     } else {
         generateOutput(questions);
+    }
+}
+
+const bulkConversion = (inputFiles: string[], splitQuestionsNumber: number = 1): void => {
+    for (const inputFile of inputFiles) {
+        convertTxtToJson(inputFile, `${inputFile}.json`, splitQuestionsNumber);
     }
 }
 
@@ -105,6 +110,10 @@ let input = "";
 // });
 // convertTxtToJson(input, outputFile, 2);
 
-const outputFile = './output.json';
+// const outputFile = './output.json';
 
-convertTxtToJson(inputFile, outputFile, 2);
+// convertTxtToJson(inputFile, outputFile, 2);
+
+
+const inputFiles = ['./input1.txt', './input2.txt', './input3.txt', './input4.txt'];
+bulkConversion(inputFiles, 2);

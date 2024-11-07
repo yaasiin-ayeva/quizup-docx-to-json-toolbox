@@ -3,20 +3,24 @@
     "text": "What is the primary objective of an audit?",
     "options": [
       {
-        "text": "To prepare tax returns"
+        "text": "To prepare tax returns",
+        "required": 0
       },
       {
-        "text": "To express an opinion on financial statements"
+        "text": "To express an opinion on financial statements",
+        "required": 0
       },
       {
-        "text": "To evaluate employee performance"
+        "text": "To evaluate employee performance",
+        "required": 0
       },
       {
-        "text": "To set budgetary goals"
+        "text": "To set budgetary goals",
+        "required": 0
       },
       {
         "text": "Correct Answer: To express an opinion on financial statements",
-        "isCorrect": true
+        "required": 1
       }
     ]
   },
@@ -24,20 +28,24 @@
     "text": "Which of the following distinguishes an internal audit from an external audit?",
     "options": [
       {
-        "text": "Internal audits are always more thorough."
+        "text": "Internal audits are always more thorough.",
+        "required": 0
       },
       {
-        "text": "Internal audits are conducted by external firms."
+        "text": "Internal audits are conducted by external firms.",
+        "required": 0
       },
       {
-        "text": "Internal audits focus on operational efficiency and compliance."
+        "text": "Internal audits focus on operational efficiency and compliance.",
+        "required": 0
       },
       {
-        "text": "Internal audits do not require documentation."
+        "text": "Internal audits do not require documentation.",
+        "required": 0
       },
       {
         "text": "Correct Answer: Internal audits focus on operational efficiency and compliance.",
-        "isCorrect": true
+        "required": 1
       }
     ]
   },
@@ -45,20 +53,24 @@
     "text": "What is the purpose of a risk assessment in an audit?",
     "options": [
       {
-        "text": "To prepare financial statements"
+        "text": "To prepare financial statements",
+        "required": 0
       },
       {
-        "text": "To identify and evaluate risks of material misstatement"
+        "text": "To identify and evaluate risks of material misstatement",
+        "required": 0
       },
       {
-        "text": "To manage cash flow"
+        "text": "To manage cash flow",
+        "required": 0
       },
       {
-        "text": "To calculate tax liabilities"
+        "text": "To calculate tax liabilities",
+        "required": 0
       },
       {
         "text": "Correct Answer: To identify and evaluate risks of material misstatement",
-        "isCorrect": true
+        "required": 1
       }
     ]
   },
@@ -66,20 +78,24 @@
     "text": "What is the significance of materiality in an audit?",
     "options": [
       {
-        "text": "It determines the budget for the audit."
+        "text": "It determines the budget for the audit.",
+        "required": 0
       },
       {
-        "text": "It identifies which transactions to audit."
+        "text": "It identifies which transactions to audit.",
+        "required": 0
       },
       {
-        "text": "It establishes the threshold for errors that affect financial statements."
+        "text": "It establishes the threshold for errors that affect financial statements.",
+        "required": 0
       },
       {
-        "text": "It sets deadlines for audit completion."
+        "text": "It sets deadlines for audit completion.",
+        "required": 0
       },
       {
         "text": "Correct Answer: It establishes the threshold for errors that affect financial statements.",
-        "isCorrect": true
+        "required": 1
       }
     ]
   },
@@ -87,20 +103,24 @@
     "text": "Which of the following is NOT a method for gathering audit evidence?",
     "options": [
       {
-        "text": "Inspection"
+        "text": "Inspection",
+        "required": 0
       },
       {
-        "text": "Observation"
+        "text": "Observation",
+        "required": 0
       },
       {
-        "text": "Supposition"
+        "text": "Supposition",
+        "required": 0
       },
       {
-        "text": "Inquiry"
+        "text": "Inquiry",
+        "required": 0
       },
       {
         "text": "Correct Answer: Supposition",
-        "isCorrect": true
+        "required": 1
       }
     ]
   },
@@ -108,20 +128,24 @@
     "text": "What is a management representation letter?",
     "options": [
       {
-        "text": "A document that outlines the audit scope"
+        "text": "A document that outlines the audit scope",
+        "required": 0
       },
       {
-        "text": "A letter from management confirming the accuracy of financial statements"
+        "text": "A letter from management confirming the accuracy of financial statements",
+        "required": 0
       },
       {
-        "text": "A letter from auditors to management regarding findings"
+        "text": "A letter from auditors to management regarding findings",
+        "required": 0
       },
       {
-        "text": "A letter to stakeholders summarizing audit results"
+        "text": "A letter to stakeholders summarizing audit results",
+        "required": 0
       },
       {
         "text": "Correct Answer: A letter from management confirming the accuracy of financial statements",
-        "isCorrect": true
+        "required": 1
       }
     ]
   },
@@ -129,20 +153,24 @@
     "text": "How do auditors assess the effectiveness of internal controls?",
     "options": [
       {
-        "text": "By reviewing financial statements only"
+        "text": "By reviewing financial statements only",
+        "required": 0
       },
       {
-        "text": "By conducting tests of controls"
+        "text": "By conducting tests of controls",
+        "required": 0
       },
       {
-        "text": "By interviewing employees exclusively"
+        "text": "By interviewing employees exclusively",
+        "required": 0
       },
       {
-        "text": "By analyzing market trends"
+        "text": "By analyzing market trends",
+        "required": 0
       },
       {
         "text": "Correct Answer: By conducting tests of controls",
-        "isCorrect": true
+        "required": 1
       }
     ]
   },
@@ -150,20 +178,24 @@
     "text": "What are substantive procedures in an audit?",
     "options": [
       {
-        "text": "Procedures that test the effectiveness of internal controls"
+        "text": "Procedures that test the effectiveness of internal controls",
+        "required": 0
       },
       {
-        "text": "Procedures that gather direct evidence about financial statement assertions"
+        "text": "Procedures that gather direct evidence about financial statement assertions",
+        "required": 0
       },
       {
-        "text": "Procedures used for planning the audit"
+        "text": "Procedures used for planning the audit",
+        "required": 0
       },
       {
-        "text": "Procedures that determine the auditor's independence"
+        "text": "Procedures that determine the auditor's independence",
+        "required": 0
       },
       {
         "text": "Correct Answer: Procedures that gather direct evidence about financial statement assertions",
-        "isCorrect": true
+        "required": 1
       }
     ]
   },
@@ -171,20 +203,24 @@
     "text": "What is the purpose of analytical procedures during an audit?",
     "options": [
       {
-        "text": "To physically count inventory"
+        "text": "To physically count inventory",
+        "required": 0
       },
       {
-        "text": "To evaluate financial information by studying relationships"
+        "text": "To evaluate financial information by studying relationships",
+        "required": 0
       },
       {
-        "text": "To prepare tax returns"
+        "text": "To prepare tax returns",
+        "required": 0
       },
       {
-        "text": "To manage cash flow"
+        "text": "To manage cash flow",
+        "required": 0
       },
       {
         "text": "Correct Answer: To evaluate financial information by studying relationships",
-        "isCorrect": true
+        "required": 1
       }
     ]
   },
@@ -192,20 +228,24 @@
     "text": "How is the auditor's report structured?",
     "options": [
       {
-        "text": "Introduction, findings, conclusions"
+        "text": "Introduction, findings, conclusions",
+        "required": 0
       },
       {
-        "text": "Opinion, basis for opinion, and key audit matters"
+        "text": "Opinion, basis for opinion, and key audit matters",
+        "required": 0
       },
       {
-        "text": "Findings, recommendations, summary"
+        "text": "Findings, recommendations, summary",
+        "required": 0
       },
       {
-        "text": "Introduction, financial statements, summary"
+        "text": "Introduction, financial statements, summary",
+        "required": 0
       },
       {
         "text": "Correct Answer: Opinion, basis for opinion, and key audit matters",
-        "isCorrect": true
+        "required": 1
       }
     ]
   },
@@ -213,17 +253,20 @@
     "text": "Which of the following is a key responsibility of the external auditor?",
     "options": [
       {
-        "text": "Making managerial decisions"
+        "text": "Making managerial decisions",
+        "required": 0
       },
       {
-        "text": "Ensuring the financial statements are accurate"
+        "text": "Ensuring the financial statements are accurate",
+        "required": 0
       },
       {
         "text": "Providing an independent opinion on the financial statements",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "Preparing the company's financial statements"
+        "text": "Preparing the company's financial statements",
+        "required": 0
       }
     ]
   },
@@ -231,17 +274,20 @@
     "text": "What is a key audit matter (KAM)?",
     "options": [
       {
-        "text": "A routine audit observation"
+        "text": "A routine audit observation",
+        "required": 0
       },
       {
         "text": "An area of the audit that was of most significance to the auditor",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "An item listed on the balance sheet"
+        "text": "An item listed on the balance sheet",
+        "required": 0
       },
       {
-        "text": "An unresolved issue in the financial statements"
+        "text": "An unresolved issue in the financial statements",
+        "required": 0
       }
     ]
   },
@@ -249,17 +295,20 @@
     "text": "Which of the following describes audit evidence that is both relevant and reliable?",
     "options": [
       {
-        "text": "Evidence that is easily obtained"
+        "text": "Evidence that is easily obtained",
+        "required": 0
       },
       {
         "text": "Evidence that directly supports audit conclusions",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "Evidence from a third-party expert"
+        "text": "Evidence from a third-party expert",
+        "required": 0
       },
       {
-        "text": "Evidence generated internally without any verification"
+        "text": "Evidence generated internally without any verification",
+        "required": 0
       }
     ]
   },
@@ -267,17 +316,20 @@
     "text": "How do auditors typically respond to identified audit risks?",
     "options": [
       {
-        "text": "By reducing the scope of the audit"
+        "text": "By reducing the scope of the audit",
+        "required": 0
       },
       {
         "text": "By designing appropriate audit procedures to address the risks",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "By extending the deadline for the audit"
+        "text": "By extending the deadline for the audit",
+        "required": 0
       },
       {
-        "text": "By ignoring immaterial risks"
+        "text": "By ignoring immaterial risks",
+        "required": 0
       }
     ]
   },
@@ -285,17 +337,20 @@
     "text": "What is an auditor's primary concern when auditing revenue transactions?",
     "options": [
       {
-        "text": "That revenue is recorded before cash is received"
+        "text": "That revenue is recorded before cash is received",
+        "required": 0
       },
       {
         "text": "That revenue is recognized in accordance with applicable accounting standards",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "That revenue is recognized only after payment is received"
+        "text": "That revenue is recognized only after payment is received",
+        "required": 0
       },
       {
-        "text": "That revenue is not recorded in the income statement"
+        "text": "That revenue is not recorded in the income statement",
+        "required": 0
       }
     ]
   },
@@ -303,17 +358,20 @@
     "text": "Which of the following is a form of audit risk?",
     "options": [
       {
-        "text": "Financial risk"
+        "text": "Financial risk",
+        "required": 0
       },
       {
         "text": "Detection risk",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "Management risk"
+        "text": "Management risk",
+        "required": 0
       },
       {
-        "text": "Performance risk"
+        "text": "Performance risk",
+        "required": 0
       }
     ]
   },
@@ -321,17 +379,20 @@
     "text": "What is audit sampling?",
     "options": [
       {
-        "text": "Testing the entire population of transactions"
+        "text": "Testing the entire population of transactions",
+        "required": 0
       },
       {
         "text": "Selecting a representative sample of transactions to audit",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "Testing only the smallest transactions"
+        "text": "Testing only the smallest transactions",
+        "required": 0
       },
       {
-        "text": "Randomly auditing one transaction from each department"
+        "text": "Randomly auditing one transaction from each department",
+        "required": 0
       }
     ]
   },
@@ -339,17 +400,20 @@
     "text": "Which of the following is an inherent limitation of an audit?",
     "options": [
       {
-        "text": "Auditors are required to detect every fraud"
+        "text": "Auditors are required to detect every fraud",
+        "required": 0
       },
       {
-        "text": "Auditors can only audit transactions above a certain value"
+        "text": "Auditors can only audit transactions above a certain value",
+        "required": 0
       },
       {
         "text": "Auditors may not detect all material misstatements due to limitations in internal controls and fraud concealment",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "Auditors must rely on management's judgment for audit opinions"
+        "text": "Auditors must rely on management's judgment for audit opinions",
+        "required": 0
       }
     ]
   },
@@ -357,17 +421,20 @@
     "text": "What is the role of a working paper in an audit?",
     "options": [
       {
-        "text": "To present the company's financial position"
+        "text": "To present the company's financial position",
+        "required": 0
       },
       {
         "text": "To document the audit procedures and evidence gathered",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "To communicate audit findings to the board"
+        "text": "To communicate audit findings to the board",
+        "required": 0
       },
       {
-        "text": "To inform external stakeholders about the audit process"
+        "text": "To inform external stakeholders about the audit process",
+        "required": 0
       }
     ]
   },
@@ -375,17 +442,20 @@
     "text": "What is an audit assertion?",
     "options": [
       {
-        "text": "A client's statement about the purpose of the audit"
+        "text": "A client's statement about the purpose of the audit",
+        "required": 0
       },
       {
         "text": "A representation made by management regarding the financial statements",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "An auditor's opinion about financial misstatements"
+        "text": "An auditor's opinion about financial misstatements",
+        "required": 0
       },
       {
-        "text": "An independent assessment of the company's risks"
+        "text": "An independent assessment of the company's risks",
+        "required": 0
       }
     ]
   },
@@ -393,17 +463,20 @@
     "text": "Which of the following is a type of substantive audit procedure?",
     "options": [
       {
-        "text": "Testing controls"
+        "text": "Testing controls",
+        "required": 0
       },
       {
-        "text": "Performing a walkthrough of the client's operations"
+        "text": "Performing a walkthrough of the client's operations",
+        "required": 0
       },
       {
         "text": "Confirming account balances with third parties",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "Identifying audit risks"
+        "text": "Identifying audit risks",
+        "required": 0
       }
     ]
   },
@@ -411,17 +484,20 @@
     "text": "What is the purpose of vouching in an audit?",
     "options": [
       {
-        "text": "To ensure compliance with tax laws"
+        "text": "To ensure compliance with tax laws",
+        "required": 0
       },
       {
         "text": "To verify the existence of transactions by checking source documents",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "To validate management's assumptions"
+        "text": "To validate management's assumptions",
+        "required": 0
       },
       {
-        "text": "To calculate variances in the financial statements"
+        "text": "To calculate variances in the financial statements",
+        "required": 0
       }
     ]
   },
@@ -429,17 +505,20 @@
     "text": "Which of the following is considered a limitation of internal controls?",
     "options": [
       {
-        "text": "They are designed by external auditors"
+        "text": "They are designed by external auditors",
+        "required": 0
       },
       {
         "text": "They can be overridden by management",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "They always detect fraud"
+        "text": "They always detect fraud",
+        "required": 0
       },
       {
-        "text": "They prevent all errors in financial statements"
+        "text": "They prevent all errors in financial statements",
+        "required": 0
       }
     ]
   },
@@ -447,17 +526,20 @@
     "text": "What is the purpose of a review engagement?",
     "options": [
       {
-        "text": "To provide an absolute assurance on financial statements"
+        "text": "To provide an absolute assurance on financial statements",
+        "required": 0
       },
       {
         "text": "To provide limited assurance that no material modifications are needed",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "To detect fraud and errors in financial reporting"
+        "text": "To detect fraud and errors in financial reporting",
+        "required": 0
       },
       {
-        "text": "To prepare financial statements for tax purposes"
+        "text": "To prepare financial statements for tax purposes",
+        "required": 0
       }
     ]
   },
@@ -465,17 +547,20 @@
     "text": "How should an auditor handle a situation where fraud is detected during an audit?",
     "options": [
       {
-        "text": "Ignore the fraud if it is immaterial"
+        "text": "Ignore the fraud if it is immaterial",
+        "required": 0
       },
       {
         "text": "Report it to management and those charged with governance",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "Continue the audit without reporting"
+        "text": "Continue the audit without reporting",
+        "required": 0
       },
       {
-        "text": "Modify the financial statements directly"
+        "text": "Modify the financial statements directly",
+        "required": 0
       }
     ]
   },
@@ -483,17 +568,20 @@
     "text": "Which of the following procedures would an auditor most likely perform when reviewing the client's accounts payable?",
     "options": [
       {
-        "text": "Confirmation with the bank"
+        "text": "Confirmation with the bank",
+        "required": 0
       },
       {
         "text": "Confirming unpaid invoices with suppliers",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "Reviewing payroll records"
+        "text": "Reviewing payroll records",
+        "required": 0
       },
       {
-        "text": "Evaluating marketing expenses"
+        "text": "Evaluating marketing expenses",
+        "required": 0
       }
     ]
   },
@@ -501,17 +589,20 @@
     "text": "What is the auditor's responsibility with regard to subsequent events?",
     "options": [
       {
-        "text": "To ignore all events after the balance sheet date"
+        "text": "To ignore all events after the balance sheet date",
+        "required": 0
       },
       {
         "text": "To evaluate events that may affect the financial statements or the auditor's report",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "To prepare future forecasts based on subsequent events"
+        "text": "To prepare future forecasts based on subsequent events",
+        "required": 0
       },
       {
-        "text": "To update the financial statements after the audit report is issued"
+        "text": "To update the financial statements after the audit report is issued",
+        "required": 0
       }
     ]
   },
@@ -519,17 +610,20 @@
     "text": "What is a walkthrough in an audit context?",
     "options": [
       {
-        "text": "A physical inspection of the client's facilities"
+        "text": "A physical inspection of the client's facilities",
+        "required": 0
       },
       {
         "text": "A step-by-step review of a transaction from initiation to completion to assess internal controls",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "A preliminary meeting with management"
+        "text": "A preliminary meeting with management",
+        "required": 0
       },
       {
-        "text": "A final review of the financial statements before issuing the audit report"
+        "text": "A final review of the financial statements before issuing the audit report",
+        "required": 0
       }
     ]
   },
@@ -538,16 +632,19 @@
     "options": [
       {
         "text": "Auditors must be free from bias and cannot have any financial interest in the client",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "Auditors can offer consulting services to their audit clients"
+        "text": "Auditors can offer consulting services to their audit clients",
+        "required": 0
       },
       {
-        "text": "Auditors should only work for clients they have personal relationships with"
+        "text": "Auditors should only work for clients they have personal relationships with",
+        "required": 0
       },
       {
-        "text": "Auditors must follow management's instructions during the audit"
+        "text": "Auditors must follow management's instructions during the audit",
+        "required": 0
       }
     ]
   },
@@ -555,17 +652,20 @@
     "text": "Which of the following is a key component of audit planning?",
     "options": [
       {
-        "text": "Issuing the audit opinion"
+        "text": "Issuing the audit opinion",
+        "required": 0
       },
       {
-        "text": "Setting the audit fees"
+        "text": "Setting the audit fees",
+        "required": 0
       },
       {
         "text": "Assessing the risks of material misstatement",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "Reviewing the audit report with management"
+        "text": "Reviewing the audit report with management",
+        "required": 0
       }
     ]
   },
@@ -574,16 +674,19 @@
     "options": [
       {
         "text": "To identify, assess, and evaluate whether they are disclosed and conducted at arm's length",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "To ignore them unless requested by management"
+        "text": "To ignore them unless requested by management",
+        "required": 0
       },
       {
-        "text": "To provide legal advice on such transactions"
+        "text": "To provide legal advice on such transactions",
+        "required": 0
       },
       {
-        "text": "To treat them as standard business transactions"
+        "text": "To treat them as standard business transactions",
+        "required": 0
       }
     ]
   },
@@ -591,17 +694,20 @@
     "text": "What is the significance of audit documentation?",
     "options": [
       {
-        "text": "It is only required for tax audits"
+        "text": "It is only required for tax audits",
+        "required": 0
       },
       {
         "text": "It serves as evidence of the auditor's work and supports audit conclusions",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "It is prepared solely for the client's internal use"
+        "text": "It is prepared solely for the client's internal use",
+        "required": 0
       },
       {
-        "text": "It is optional for external auditors"
+        "text": "It is optional for external auditors",
+        "required": 0
       }
     ]
   },
@@ -609,17 +715,20 @@
     "text": "How can an auditor ensure the reliability of audit evidence?",
     "options": [
       {
-        "text": "By only using evidence provided by management"
+        "text": "By only using evidence provided by management",
+        "required": 0
       },
       {
         "text": "By gathering evidence from multiple independent sources",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "By conducting the audit remotely"
+        "text": "By conducting the audit remotely",
+        "required": 0
       },
       {
-        "text": "By relying solely on electronic records"
+        "text": "By relying solely on electronic records",
+        "required": 0
       }
     ]
   },
@@ -627,17 +736,20 @@
     "text": "Which of the following is NOT typically part of an audit engagement letter?",
     "options": [
       {
-        "text": "The objective and scope of the audit"
+        "text": "The objective and scope of the audit",
+        "required": 0
       },
       {
-        "text": "The responsibilities of management"
+        "text": "The responsibilities of management",
+        "required": 0
       },
       {
         "text": "The auditor's opinion on financial statements",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "The auditor's responsibilities"
+        "text": "The auditor's responsibilities",
+        "required": 0
       }
     ]
   },
@@ -645,17 +757,20 @@
     "text": "Which of the following is a limitation of analytical procedures in an audit?",
     "options": [
       {
-        "text": "They do not provide insights into significant variances"
+        "text": "They do not provide insights into significant variances",
+        "required": 0
       },
       {
-        "text": "They cannot be used in all areas of the audit"
+        "text": "They cannot be used in all areas of the audit",
+        "required": 0
       },
       {
         "text": "They rely on the auditor's professional judgment, which can lead to errors",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "They require a significant amount of transaction testing"
+        "text": "They require a significant amount of transaction testing",
+        "required": 0
       }
     ]
   },
@@ -663,17 +778,20 @@
     "text": "What is the primary purpose of performing an analytical review in an audit?",
     "options": [
       {
-        "text": "To assess management's performance"
+        "text": "To assess management's performance",
+        "required": 0
       },
       {
-        "text": "To evaluate the accuracy of the financial statements"
+        "text": "To evaluate the accuracy of the financial statements",
+        "required": 0
       },
       {
         "text": "To identify areas of risk and unusual trends",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "To confirm the existence of inventory"
+        "text": "To confirm the existence of inventory",
+        "required": 0
       }
     ]
   },
@@ -681,16 +799,20 @@
     "text": "What is the primary purpose of performing an analytical review in an audit?",
     "options": [
       {
-        "text": "To assess management's performance"
+        "text": "To assess management's performance",
+        "required": 0
       },
       {
-        "text": "To evaluate the accuracy of the financial statements"
+        "text": "To evaluate the accuracy of the financial statements",
+        "required": 0
       },
       {
-        "text": "To identify areas of risk and unusual trends"
+        "text": "To identify areas of risk and unusual trends",
+        "required": 0
       },
       {
-        "text": "To confirm the existence of inventory"
+        "text": "To confirm the existence of inventory",
+        "required": 0
       }
     ]
   },
@@ -698,16 +820,20 @@
     "text": "Which of the following is an example of an analytical procedure?",
     "options": [
       {
-        "text": "Physical inspection of assets"
+        "text": "Physical inspection of assets",
+        "required": 0
       },
       {
-        "text": "Ratio analysis of financial data"
+        "text": "Ratio analysis of financial data",
+        "required": 0
       },
       {
-        "text": "Confirming receivables with customers"
+        "text": "Confirming receivables with customers",
+        "required": 0
       },
       {
-        "text": "Testing internal controls"
+        "text": "Testing internal controls",
+        "required": 0
       }
     ]
   },
@@ -715,16 +841,20 @@
     "text": "In an analytical review, what is the comparison of financial statement data to industry averages intended to achieve?",
     "options": [
       {
-        "text": "Determine if the company is in compliance with tax regulations"
+        "text": "Determine if the company is in compliance with tax regulations",
+        "required": 0
       },
       {
-        "text": "Identify unusual variances or trends that warrant further investigation"
+        "text": "Identify unusual variances or trends that warrant further investigation",
+        "required": 0
       },
       {
-        "text": "Ensure that the company is profitable"
+        "text": "Ensure that the company is profitable",
+        "required": 0
       },
       {
-        "text": "Verify the accuracy of inventory counts"
+        "text": "Verify the accuracy of inventory counts",
+        "required": 0
       }
     ]
   },
@@ -732,16 +862,20 @@
     "text": "Which of the following is an advantage of using analytical procedures in an audit?",
     "options": [
       {
-        "text": "They provide direct evidence of a company's financial position"
+        "text": "They provide direct evidence of a company's financial position",
+        "required": 0
       },
       {
-        "text": "They help reduce the need for detailed substantive testing"
+        "text": "They help reduce the need for detailed substantive testing",
+        "required": 0
       },
       {
-        "text": "They guarantee the accuracy of financial statements"
+        "text": "They guarantee the accuracy of financial statements",
+        "required": 0
       },
       {
-        "text": "They can replace audit sampling"
+        "text": "They can replace audit sampling",
+        "required": 0
       }
     ]
   },
@@ -749,16 +883,20 @@
     "text": "Which financial statement ratio is commonly used in analytical review to assess a company's liquidity?",
     "options": [
       {
-        "text": "Profit margin"
+        "text": "Profit margin",
+        "required": 0
       },
       {
-        "text": "Debt-to-equity ratio"
+        "text": "Debt-to-equity ratio",
+        "required": 0
       },
       {
-        "text": "Current ratio"
+        "text": "Current ratio",
+        "required": 0
       },
       {
-        "text": "Return on equity"
+        "text": "Return on equity",
+        "required": 0
       }
     ]
   },
@@ -766,16 +904,20 @@
     "text": "When performing analytical procedures, auditors compare financial statement data to:",
     "options": [
       {
-        "text": "Other audits performed during the year"
+        "text": "Other audits performed during the year",
+        "required": 0
       },
       {
-        "text": "Historical data, industry data, or expected outcomes"
+        "text": "Historical data, industry data, or expected outcomes",
+        "required": 0
       },
       {
-        "text": "The client's budget for the upcoming year"
+        "text": "The client's budget for the upcoming year",
+        "required": 0
       },
       {
-        "text": "Benchmark data from other audit firms"
+        "text": "Benchmark data from other audit firms",
+        "required": 0
       }
     ]
   },
@@ -783,16 +925,20 @@
     "text": "Which of the following is most likely to be identified through an analytical review?",
     "options": [
       {
-        "text": "Misclassification of expenses"
+        "text": "Misclassification of expenses",
+        "required": 0
       },
       {
-        "text": "Fraudulent transactions in cash disbursements"
+        "text": "Fraudulent transactions in cash disbursements",
+        "required": 0
       },
       {
-        "text": "Duplicate payment to a vendor"
+        "text": "Duplicate payment to a vendor",
+        "required": 0
       },
       {
-        "text": "Overstated inventory levels"
+        "text": "Overstated inventory levels",
+        "required": 0
       }
     ]
   },
@@ -800,16 +946,20 @@
     "text": "What is the auditor's primary goal when using analytical procedures at the planning stage of an audit?",
     "options": [
       {
-        "text": "To form a basis for the audit opinion"
+        "text": "To form a basis for the audit opinion",
+        "required": 0
       },
       {
-        "text": "To gather direct evidence of misstatements"
+        "text": "To gather direct evidence of misstatements",
+        "required": 0
       },
       {
-        "text": "To assess the risk of material misstatement"
+        "text": "To assess the risk of material misstatement",
+        "required": 0
       },
       {
-        "text": "To calculate the audit fees"
+        "text": "To calculate the audit fees",
+        "required": 0
       }
     ]
   },
@@ -817,16 +967,20 @@
     "text": "Which of the following is a common analytical procedure for testing revenue?",
     "options": [
       {
-        "text": "Comparing revenue growth rates with industry averages"
+        "text": "Comparing revenue growth rates with industry averages",
+        "required": 0
       },
       {
-        "text": "Physically inspecting sales records"
+        "text": "Physically inspecting sales records",
+        "required": 0
       },
       {
-        "text": "Confirming outstanding balances with customers"
+        "text": "Confirming outstanding balances with customers",
+        "required": 0
       },
       {
-        "text": "Reviewing contracts with suppliers"
+        "text": "Reviewing contracts with suppliers",
+        "required": 0
       }
     ]
   },
@@ -834,16 +988,20 @@
     "text": "Which of the following is NOT a typical source of information for performing analytical procedures?",
     "options": [
       {
-        "text": "Internal company reports"
+        "text": "Internal company reports",
+        "required": 0
       },
       {
-        "text": "External confirmation letters"
+        "text": "External confirmation letters",
+        "required": 0
       },
       {
-        "text": "Industry benchmarks"
+        "text": "Industry benchmarks",
+        "required": 0
       },
       {
-        "text": "Historical financial data"
+        "text": "Historical financial data",
+        "required": 0
       }
     ]
   },
@@ -851,16 +1009,20 @@
     "text": "What is the primary limitation of using analytical procedures?",
     "options": [
       {
-        "text": "They are costly to perform"
+        "text": "They are costly to perform",
+        "required": 0
       },
       {
-        "text": "They provide indirect evidence of misstatements"
+        "text": "They provide indirect evidence of misstatements",
+        "required": 0
       },
       {
-        "text": "They require extensive documentation"
+        "text": "They require extensive documentation",
+        "required": 0
       },
       {
-        "text": "They are not suitable for all audit engagements"
+        "text": "They are not suitable for all audit engagements",
+        "required": 0
       }
     ]
   },
@@ -868,16 +1030,20 @@
     "text": "How can auditors improve the reliability of analytical procedures?",
     "options": [
       {
-        "text": "By using more complex financial models"
+        "text": "By using more complex financial models",
+        "required": 0
       },
       {
-        "text": "By relying solely on historical data"
+        "text": "By relying solely on historical data",
+        "required": 0
       },
       {
-        "text": "By supplementing them with other audit procedures, such as tests of details"
+        "text": "By supplementing them with other audit procedures, such as tests of details",
+        "required": 0
       },
       {
-        "text": "By ignoring management's assumptions"
+        "text": "By ignoring management's assumptions",
+        "required": 0
       }
     ]
   },
@@ -885,16 +1051,20 @@
     "text": "When using analytical procedures in substantive testing, auditors must:",
     "options": [
       {
-        "text": "Document the reasons for any unexpected variances identified"
+        "text": "Document the reasons for any unexpected variances identified",
+        "required": 0
       },
       {
-        "text": "Disregard differences that fall below the materiality threshold"
+        "text": "Disregard differences that fall below the materiality threshold",
+        "required": 0
       },
       {
-        "text": "Use only current-year financial data"
+        "text": "Use only current-year financial data",
+        "required": 0
       },
       {
-        "text": "Focus on transactions with related parties"
+        "text": "Focus on transactions with related parties",
+        "required": 0
       }
     ]
   },
@@ -902,16 +1072,20 @@
     "text": "Which of the following is a qualitative analytical procedure used in audits?",
     "options": [
       {
-        "text": "Review of major contracts"
+        "text": "Review of major contracts",
+        "required": 0
       },
       {
-        "text": "Assessment of the tone at the top and ethical culture"
+        "text": "Assessment of the tone at the top and ethical culture",
+        "required": 0
       },
       {
-        "text": "Calculation of profitability ratios"
+        "text": "Calculation of profitability ratios",
+        "required": 0
       },
       {
-        "text": "Comparison of expense trends over time"
+        "text": "Comparison of expense trends over time",
+        "required": 0
       }
     ]
   },
@@ -919,16 +1093,20 @@
     "text": "When should an auditor apply analytical procedures in the audit process?",
     "options": [
       {
-        "text": "Only at the planning stage"
+        "text": "Only at the planning stage",
+        "required": 0
       },
       {
-        "text": "At the planning, substantive, and final review stages"
+        "text": "At the planning, substantive, and final review stages",
+        "required": 0
       },
       {
-        "text": "Only during substantive testing"
+        "text": "Only during substantive testing",
+        "required": 0
       },
       {
-        "text": "Only when testing internal controls"
+        "text": "Only when testing internal controls",
+        "required": 0
       }
     ]
   },
@@ -936,16 +1114,20 @@
     "text": "An unexpected increase in gross profit margin in comparison to the prior year may suggest:",
     "options": [
       {
-        "text": "Understatement of revenue"
+        "text": "Understatement of revenue",
+        "required": 0
       },
       {
-        "text": "Overstatement of expenses"
+        "text": "Overstatement of expenses",
+        "required": 0
       },
       {
-        "text": "Understatement of cost of goods sold"
+        "text": "Understatement of cost of goods sold",
+        "required": 0
       },
       {
-        "text": "Overstatement of liabilities"
+        "text": "Overstatement of liabilities",
+        "required": 0
       }
     ]
   },
@@ -953,16 +1135,20 @@
     "text": "Which of the following describes a common method used in analytical procedures for comparing financial data?",
     "options": [
       {
-        "text": "External confirmation of balances"
+        "text": "External confirmation of balances",
+        "required": 0
       },
       {
-        "text": "Trend analysis"
+        "text": "Trend analysis",
+        "required": 0
       },
       {
-        "text": "Internal audit reports"
+        "text": "Internal audit reports",
+        "required": 0
       },
       {
-        "text": "Interviewing senior management"
+        "text": "Interviewing senior management",
+        "required": 0
       }
     ]
   },
@@ -970,16 +1156,20 @@
     "text": "Which of the following is NOT typically used as a basis for comparison in analytical procedures?",
     "options": [
       {
-        "text": "Prior-period data"
+        "text": "Prior-period data",
+        "required": 0
       },
       {
-        "text": "Financial information of comparable companies"
+        "text": "Financial information of comparable companies",
+        "required": 0
       },
       {
-        "text": "Current-period budgeted data"
+        "text": "Current-period budgeted data",
+        "required": 0
       },
       {
-        "text": "Client's bank statements"
+        "text": "Client's bank statements",
+        "required": 0
       }
     ]
   },
@@ -987,16 +1177,20 @@
     "text": "In an audit, the results of analytical procedures can be used to:",
     "options": [
       {
-        "text": "Modify the nature, timing, or extent of substantive audit procedures"
+        "text": "Modify the nature, timing, or extent of substantive audit procedures",
+        "required": 0
       },
       {
-        "text": "Determine whether to issue a disclaimer of opinion"
+        "text": "Determine whether to issue a disclaimer of opinion",
+        "required": 0
       },
       {
-        "text": "Eliminate the need for further audit testing"
+        "text": "Eliminate the need for further audit testing",
+        "required": 0
       },
       {
-        "text": "Replace all substantive audit tests"
+        "text": "Replace all substantive audit tests",
+        "required": 0
       }
     ]
   },
@@ -1004,16 +1198,20 @@
     "text": "Which of the following is an example of a ratio used in analytical procedures to assess a company's profitability?",
     "options": [
       {
-        "text": "Quick ratio"
+        "text": "Quick ratio",
+        "required": 0
       },
       {
-        "text": "Debt-to-equity ratio"
+        "text": "Debt-to-equity ratio",
+        "required": 0
       },
       {
-        "text": "Gross profit margin"
+        "text": "Gross profit margin",
+        "required": 0
       },
       {
-        "text": "Current ratio"
+        "text": "Current ratio",
+        "required": 0
       }
     ]
   },
@@ -1021,16 +1219,20 @@
     "text": "What is the primary objective of audit planning?",
     "options": [
       {
-        "text": "To issue an audit report"
+        "text": "To issue an audit report",
+        "required": 0
       },
       {
-        "text": "To develop an overall audit strategy and plan specific audit procedures"
+        "text": "To develop an overall audit strategy and plan specific audit procedures",
+        "required": 0
       },
       {
-        "text": "To confirm the accuracy of financial statements"
+        "text": "To confirm the accuracy of financial statements",
+        "required": 0
       },
       {
-        "text": "To provide legal advice to the client"
+        "text": "To provide legal advice to the client",
+        "required": 0
       }
     ]
   },
@@ -1038,16 +1240,20 @@
     "text": "In audit planning, determining materiality helps auditors to:",
     "options": [
       {
-        "text": "Identify fraudulent transactions"
+        "text": "Identify fraudulent transactions",
+        "required": 0
       },
       {
-        "text": "Focus on the most significant areas of the audit"
+        "text": "Focus on the most significant areas of the audit",
+        "required": 0
       },
       {
-        "text": "Confirm every transaction in the financial statements"
+        "text": "Confirm every transaction in the financial statements",
+        "required": 0
       },
       {
-        "text": "Test internal controls"
+        "text": "Test internal controls",
+        "required": 0
       }
     ]
   },
@@ -1055,16 +1261,20 @@
     "text": "Which of the following factors should be considered when determining materiality during audit planning?",
     "options": [
       {
-        "text": "The legal structure of the company"
+        "text": "The legal structure of the company",
+        "required": 0
       },
       {
-        "text": "The auditor's experience with the client"
+        "text": "The auditor's experience with the client",
+        "required": 0
       },
       {
-        "text": "The company's industry and regulatory environment"
+        "text": "The company's industry and regulatory environment",
+        "required": 0
       },
       {
-        "text": "The accounting software used by the client"
+        "text": "The accounting software used by the client",
+        "required": 0
       }
     ]
   },
@@ -1072,16 +1282,20 @@
     "text": "Audit risk is the risk that:",
     "options": [
       {
-        "text": "The client will not cooperate with the auditor"
+        "text": "The client will not cooperate with the auditor",
+        "required": 0
       },
       {
-        "text": "The auditor will fail to detect a material misstatement"
+        "text": "The auditor will fail to detect a material misstatement",
+        "required": 0
       },
       {
-        "text": "The client's financial statements are not prepared on time"
+        "text": "The client's financial statements are not prepared on time",
+        "required": 0
       },
       {
-        "text": "The auditor will complete the audit within the deadline"
+        "text": "The auditor will complete the audit within the deadline",
+        "required": 0
       }
     ]
   },
@@ -1089,16 +1303,20 @@
     "text": "What is the purpose of an engagement letter in an audit?",
     "options": [
       {
-        "text": "To provide the audit report to management"
+        "text": "To provide the audit report to management",
+        "required": 0
       },
       {
-        "text": "To formalize the terms of the audit engagement"
+        "text": "To formalize the terms of the audit engagement",
+        "required": 0
       },
       {
-        "text": "To summarize the auditor's findings"
+        "text": "To summarize the auditor's findings",
+        "required": 0
       },
       {
-        "text": "To inform the client about audit risks"
+        "text": "To inform the client about audit risks",
+        "required": 0
       }
     ]
   },
@@ -1106,16 +1324,20 @@
     "text": "During the planning stage, auditors typically assess which type of risks?",
     "options": [
       {
-        "text": "Internal and external audit risks"
+        "text": "Internal and external audit risks",
+        "required": 0
       },
       {
-        "text": "Inherent, control, and detection risks"
+        "text": "Inherent, control, and detection risks",
+        "required": 0
       },
       {
-        "text": "Financial and operational risks"
+        "text": "Financial and operational risks",
+        "required": 0
       },
       {
-        "text": "Market and business risks"
+        "text": "Market and business risks",
+        "required": 0
       }
     ]
   },
@@ -1123,16 +1345,20 @@
     "text": "The assessment of a client's internal control system is important during audit planning because it helps the auditor to:",
     "options": [
       {
-        "text": "Determine whether the client is financially stable"
+        "text": "Determine whether the client is financially stable",
+        "required": 0
       },
       {
-        "text": "Decide whether to rely on the internal controls for audit evidence"
+        "text": "Decide whether to rely on the internal controls for audit evidence",
+        "required": 0
       },
       {
-        "text": "Verify all transactions in the financial statements"
+        "text": "Verify all transactions in the financial statements",
+        "required": 0
       },
       {
-        "text": "Ensure that the audit is completed within budget"
+        "text": "Ensure that the audit is completed within budget",
+        "required": 0
       }
     ]
   },
@@ -1140,16 +1366,20 @@
     "text": "Which of the following is typically included in an audit plan?",
     "options": [
       {
-        "text": "Audit procedures to be performed in specific areas"
+        "text": "Audit procedures to be performed in specific areas",
+        "required": 0
       },
       {
-        "text": "The client's budget for the upcoming year"
+        "text": "The client's budget for the upcoming year",
+        "required": 0
       },
       {
-        "text": "Tax planning strategies for the client"
+        "text": "Tax planning strategies for the client",
+        "required": 0
       },
       {
-        "text": "The company's profit forecasts"
+        "text": "The company's profit forecasts",
+        "required": 0
       }
     ]
   },
@@ -1157,16 +1387,20 @@
     "text": "Which of the following should an auditor do before beginning detailed audit procedures?",
     "options": [
       {
-        "text": "Review the previous year's audit report"
+        "text": "Review the previous year's audit report",
+        "required": 0
       },
       {
-        "text": "Test the company's entire internal control system"
+        "text": "Test the company's entire internal control system",
+        "required": 0
       },
       {
-        "text": "Establish an overall audit strategy and plan specific audit tests"
+        "text": "Establish an overall audit strategy and plan specific audit tests",
+        "required": 0
       },
       {
-        "text": "Obtain management's representations on all financial data"
+        "text": "Obtain management's representations on all financial data",
+        "required": 0
       }
     ]
   },
@@ -1174,16 +1408,20 @@
     "text": "Which of the following is NOT a factor that affects audit risk?",
     "options": [
       {
-        "text": "The company's internal controls"
+        "text": "The company's internal controls",
+        "required": 0
       },
       {
-        "text": "The auditor's experience with the client"
+        "text": "The auditor's experience with the client",
+        "required": 0
       },
       {
-        "text": "The size of the company's financial transactions"
+        "text": "The size of the company's financial transactions",
+        "required": 0
       },
       {
-        "text": "The company's regulatory environment"
+        "text": "The company's regulatory environment",
+        "required": 0
       }
     ]
   },
@@ -1191,16 +1429,20 @@
     "text": "Effective communication with the client during an audit is important because it:",
     "options": [
       {
-        "text": "Provides the client with financial advice"
+        "text": "Provides the client with financial advice",
+        "required": 0
       },
       {
-        "text": "Reduces the risk of misunderstandings"
+        "text": "Reduces the risk of misunderstandings",
+        "required": 0
       },
       {
-        "text": "Allows the client to control the scope of the audit"
+        "text": "Allows the client to control the scope of the audit",
+        "required": 0
       },
       {
-        "text": "Ensures the auditor can share confidential information"
+        "text": "Ensures the auditor can share confidential information",
+        "required": 0
       }
     ]
   },
@@ -1208,16 +1450,20 @@
     "text": "Which of the following is typically included in a management letter?",
     "options": [
       {
-        "text": "A summary of the audit findings and recommendations for improvement"
+        "text": "A summary of the audit findings and recommendations for improvement",
+        "required": 0
       },
       {
-        "text": "The auditor's opinion on the financial statements"
+        "text": "The auditor's opinion on the financial statements",
+        "required": 0
       },
       {
-        "text": "The client's tax planning strategies"
+        "text": "The client's tax planning strategies",
+        "required": 0
       },
       {
-        "text": "The final audit report for the board of directors"
+        "text": "The final audit report for the board of directors",
+        "required": 0
       }
     ]
   },
@@ -1225,16 +1471,20 @@
     "text": "During the audit, what type of communication is required between the auditor and those charged with governance?",
     "options": [
       {
-        "text": "Monthly updates on audit procedures"
+        "text": "Monthly updates on audit procedures",
+        "required": 0
       },
       {
-        "text": "Significant audit findings, including issues related to internal controls"
+        "text": "Significant audit findings, including issues related to internal controls",
+        "required": 0
       },
       {
-        "text": "Weekly emails on audit progress"
+        "text": "Weekly emails on audit progress",
+        "required": 0
       },
       {
-        "text": "Final audit report only"
+        "text": "Final audit report only",
+        "required": 0
       }
     ]
   },
@@ -1242,16 +1492,20 @@
     "text": "How can an auditor best ensure that management understands the audit process and its outcomes?",
     "options": [
       {
-        "text": "By discussing the audit plan and significant findings throughout the audit"
+        "text": "By discussing the audit plan and significant findings throughout the audit",
+        "required": 0
       },
       {
-        "text": "By issuing the audit report as quickly as possible"
+        "text": "By issuing the audit report as quickly as possible",
+        "required": 0
       },
       {
-        "text": "By allowing management to review all work papers"
+        "text": "By allowing management to review all work papers",
+        "required": 0
       },
       {
-        "text": "By providing a detailed explanation of materiality and audit risk"
+        "text": "By providing a detailed explanation of materiality and audit risk",
+        "required": 0
       }
     ]
   },
@@ -1259,16 +1513,20 @@
     "text": "Which of the following is a key benefit of ongoing communication with the client during the audit?",
     "options": [
       {
-        "text": "It allows the auditor to obtain legal advice from the client"
+        "text": "It allows the auditor to obtain legal advice from the client",
+        "required": 0
       },
       {
-        "text": "It helps the auditor to identify areas where the client needs financial assistance"
+        "text": "It helps the auditor to identify areas where the client needs financial assistance",
+        "required": 0
       },
       {
-        "text": "It enhances the auditor's understanding of the client's business"
+        "text": "It enhances the auditor's understanding of the client's business",
+        "required": 0
       },
       {
-        "text": "It reduces the scope of the audit procedures required"
+        "text": "It reduces the scope of the audit procedures required",
+        "required": 0
       }
     ]
   },
@@ -1276,16 +1534,20 @@
     "text": "The auditor is required to communicate what kind of matters to those charged with governance?",
     "options": [
       {
-        "text": "Legal matters regarding the company's operations"
+        "text": "Legal matters regarding the company's operations",
+        "required": 0
       },
       {
-        "text": "Issues of fraud and material misstatements"
+        "text": "Issues of fraud and material misstatements",
+        "required": 0
       },
       {
-        "text": "The client's budget for the next fiscal year"
+        "text": "The client's budget for the next fiscal year",
+        "required": 0
       },
       {
-        "text": "Changes in audit personnel"
+        "text": "Changes in audit personnel",
+        "required": 0
       }
     ]
   },
@@ -1293,16 +1555,20 @@
     "text": "Which of the following is NOT a component of communication with the client during the audit?",
     "options": [
       {
-        "text": "Engagement letter"
+        "text": "Engagement letter",
+        "required": 0
       },
       {
-        "text": "Auditor's report"
+        "text": "Auditor's report",
+        "required": 0
       },
       {
-        "text": "Internal audit schedule"
+        "text": "Internal audit schedule",
+        "required": 0
       },
       {
-        "text": "Management letter"
+        "text": "Management letter",
+        "required": 0
       }
     ]
   },
@@ -1310,16 +1576,20 @@
     "text": "Which of the following communication methods can be used during the audit process?",
     "options": [
       {
-        "text": "Oral communication only"
+        "text": "Oral communication only",
+        "required": 0
       },
       {
-        "text": "Written, oral, and electronic communication"
+        "text": "Written, oral, and electronic communication",
+        "required": 0
       },
       {
-        "text": "Written communication only"
+        "text": "Written communication only",
+        "required": 0
       },
       {
-        "text": "Electronic communication only"
+        "text": "Electronic communication only",
+        "required": 0
       }
     ]
   },
@@ -1327,16 +1597,20 @@
     "text": "Which of the following should be discussed with the client at the planning stage of an audit?",
     "options": [
       {
-        "text": "The auditor's detailed testing procedures"
+        "text": "The auditor's detailed testing procedures",
+        "required": 0
       },
       {
-        "text": "The expected completion date of the audit"
+        "text": "The expected completion date of the audit",
+        "required": 0
       },
       {
-        "text": "The audit report findings"
+        "text": "The audit report findings",
+        "required": 0
       },
       {
-        "text": "Recommendations for improving the company's profitability"
+        "text": "Recommendations for improving the company's profitability",
+        "required": 0
       }
     ]
   },
@@ -1344,16 +1618,20 @@
     "text": "When should auditors communicate significant audit findings to the client?",
     "options": [
       {
-        "text": "At the end of the audit"
+        "text": "At the end of the audit",
+        "required": 0
       },
       {
-        "text": "As they are discovered throughout the audit process"
+        "text": "As they are discovered throughout the audit process",
+        "required": 0
       },
       {
-        "text": "Only if they relate to fraud"
+        "text": "Only if they relate to fraud",
+        "required": 0
       },
       {
-        "text": "During the final audit meeting with management"
+        "text": "During the final audit meeting with management",
+        "required": 0
       }
     ]
   },
@@ -1361,16 +1639,20 @@
     "text": "The auditor communicates identified misstatements to management for:",
     "options": [
       {
-        "text": "Reclassification and restatement of the financial statements"
+        "text": "Reclassification and restatement of the financial statements",
+        "required": 0
       },
       {
-        "text": "Analysis of audit fees"
+        "text": "Analysis of audit fees",
+        "required": 0
       },
       {
-        "text": "The purpose of discussing corrective action and obtaining explanations"
+        "text": "The purpose of discussing corrective action and obtaining explanations",
+        "required": 0
       },
       {
-        "text": "Documenting the client's financial reporting performance"
+        "text": "Documenting the client's financial reporting performance",
+        "required": 0
       }
     ]
   },
@@ -1378,16 +1660,20 @@
     "text": "Which of the following is the most appropriate timing for an exit meeting with the client?",
     "options": [
       {
-        "text": "At the start of the audit"
+        "text": "At the start of the audit",
+        "required": 0
       },
       {
-        "text": "During the planning phase"
+        "text": "During the planning phase",
+        "required": 0
       },
       {
-        "text": "After the auditor has completed fieldwork and before the final report is issued"
+        "text": "After the auditor has completed fieldwork and before the final report is issued",
+        "required": 0
       },
       {
-        "text": "After the audit report is submitted to the board"
+        "text": "After the audit report is submitted to the board",
+        "required": 0
       }
     ]
   },
@@ -1395,16 +1681,20 @@
     "text": "The management representation letter is signed by:",
     "options": [
       {
-        "text": "The auditor"
+        "text": "The auditor",
+        "required": 0
       },
       {
-        "text": "The company's shareholders"
+        "text": "The company's shareholders",
+        "required": 0
       },
       {
-        "text": "The client's management"
+        "text": "The client's management",
+        "required": 0
       },
       {
-        "text": "The external auditor and internal auditor"
+        "text": "The external auditor and internal auditor",
+        "required": 0
       }
     ]
   },
@@ -1412,16 +1702,20 @@
     "text": "Which of the following is NOT a common topic discussed during the audit planning meeting with the client?",
     "options": [
       {
-        "text": "Audit timeline"
+        "text": "Audit timeline",
+        "required": 0
       },
       {
-        "text": "Areas of audit focus"
+        "text": "Areas of audit focus",
+        "required": 0
       },
       {
-        "text": "The auditor's legal opinions on business contracts"
+        "text": "The auditor's legal opinions on business contracts",
+        "required": 0
       },
       {
-        "text": "Expected audit deliverables"
+        "text": "Expected audit deliverables",
+        "required": 0
       }
     ]
   },
@@ -1429,16 +1723,20 @@
     "text": "Why is it important for the auditor to maintain clear communication with the client throughout the audit process?",
     "options": [
       {
-        "text": "To prevent disputes and misunderstandings related to audit results"
+        "text": "To prevent disputes and misunderstandings related to audit results",
+        "required": 0
       },
       {
-        "text": "To offer tax planning advice"
+        "text": "To offer tax planning advice",
+        "required": 0
       },
       {
-        "text": "To enable the client to reduce audit fees"
+        "text": "To enable the client to reduce audit fees",
+        "required": 0
       },
       {
-        "text": "To ensure the client provides the auditor with all required documents"
+        "text": "To ensure the client provides the auditor with all required documents",
+        "required": 0
       }
     ]
   },
@@ -1446,16 +1744,20 @@
     "text": "Which of the following best describes the purpose of an engagement letter in an audit?",
     "options": [
       {
-        "text": "To inform management of audit recommendations"
+        "text": "To inform management of audit recommendations",
+        "required": 0
       },
       {
-        "text": "To confirm the auditor's responsibilities and terms of engagement"
+        "text": "To confirm the auditor's responsibilities and terms of engagement",
+        "required": 0
       },
       {
-        "text": "To outline the timeline for completing the audit"
+        "text": "To outline the timeline for completing the audit",
+        "required": 0
       },
       {
-        "text": "To communicate the audit fee structure to the client"
+        "text": "To communicate the audit fee structure to the client",
+        "required": 0
       }
     ]
   },
@@ -1463,16 +1765,20 @@
     "text": "Which of the following should be communicated to those charged with governance at the conclusion of the audit?",
     "options": [
       {
-        "text": "The auditor's planned procedures for future audits"
+        "text": "The auditor's planned procedures for future audits",
+        "required": 0
       },
       {
-        "text": "The auditor's overall view of the company's profitability"
+        "text": "The auditor's overall view of the company's profitability",
+        "required": 0
       },
       {
-        "text": "The auditor's significant findings, including adjustments and misstatements"
+        "text": "The auditor's significant findings, including adjustments and misstatements",
+        "required": 0
       },
       {
-        "text": "Recommendations for changes to the company's legal structure"
+        "text": "Recommendations for changes to the company's legal structure",
+        "required": 0
       }
     ]
   },
@@ -1480,16 +1786,20 @@
     "text": "Which of the following is a common type of communication between the auditor and the client during the audit process?",
     "options": [
       {
-        "text": "Preliminary findings memos"
+        "text": "Preliminary findings memos",
+        "required": 0
       },
       {
-        "text": "Legal opinions on contract disputes"
+        "text": "Legal opinions on contract disputes",
+        "required": 0
       },
       {
-        "text": "Management compensation reports"
+        "text": "Management compensation reports",
+        "required": 0
       },
       {
-        "text": "Internal control questionnaires"
+        "text": "Internal control questionnaires",
+        "required": 0
       }
     ]
   },
@@ -1497,16 +1807,20 @@
     "text": "Which of the following matters would an auditor typically discuss with the client's audit committee?",
     "options": [
       {
-        "text": "Audit scope and significant audit findings"
+        "text": "Audit scope and significant audit findings",
+        "required": 0
       },
       {
-        "text": "The client's tax planning strategy"
+        "text": "The client's tax planning strategy",
+        "required": 0
       },
       {
-        "text": "The auditor's compensation"
+        "text": "The auditor's compensation",
+        "required": 0
       },
       {
-        "text": "Hiring decisions for the client's finance team"
+        "text": "Hiring decisions for the client's finance team",
+        "required": 0
       }
     ]
   },
@@ -1514,16 +1828,20 @@
     "text": "In what format is the management representation letter typically provided to the auditor?",
     "options": [
       {
-        "text": "Verbal agreement"
+        "text": "Verbal agreement",
+        "required": 0
       },
       {
-        "text": "Written document signed by management"
+        "text": "Written document signed by management",
+        "required": 0
       },
       {
-        "text": "Electronic communication only"
+        "text": "Electronic communication only",
+        "required": 0
       },
       {
-        "text": "Recorded video conference"
+        "text": "Recorded video conference",
+        "required": 0
       }
     ]
   },
@@ -1531,17 +1849,20 @@
     "text": "What is professional skepticism in auditing?",
     "options": [
       {
-        "text": "Trusting the client's financial statements"
+        "text": "Trusting the client's financial statements",
+        "required": 0
       },
       {
-        "text": "Assuming that fraud always exists"
+        "text": "Assuming that fraud always exists",
+        "required": 0
       },
       {
         "text": "An attitude that includes a questioning mind and a critical assessment of audit evidence",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "Blindly following the client's explanations"
+        "text": "Blindly following the client's explanations",
+        "required": 0
       }
     ]
   },
@@ -1549,17 +1870,20 @@
     "text": "Why is professional skepticism important during an audit?",
     "options": [
       {
-        "text": "It helps the auditor identify potential conflicts of interest"
+        "text": "It helps the auditor identify potential conflicts of interest",
+        "required": 0
       },
       {
-        "text": "It ensures the auditor maintains independence from management"
+        "text": "It ensures the auditor maintains independence from management",
+        "required": 0
       },
       {
         "text": "It enables the auditor to assess the likelihood of material misstatements",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "It ensures compliance with regulatory requirements"
+        "text": "It ensures compliance with regulatory requirements",
+        "required": 0
       }
     ]
   },
@@ -1567,17 +1891,20 @@
     "text": "Which of the following is a characteristic of professional skepticism?",
     "options": [
       {
-        "text": "Automatically trusting the client's management"
+        "text": "Automatically trusting the client's management",
+        "required": 0
       },
       {
-        "text": "Relying solely on past audit experiences"
+        "text": "Relying solely on past audit experiences",
+        "required": 0
       },
       {
         "text": "A mindset that recognizes the possibility of misstatement due to error or fraud",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "Overlooking small discrepancies in the financial statements"
+        "text": "Overlooking small discrepancies in the financial statements",
+        "required": 0
       }
     ]
   },
@@ -1585,17 +1912,20 @@
     "text": "Which of the following best demonstrates professional skepticism?",
     "options": [
       {
-        "text": "Accepting the client's explanations without further inquiry"
+        "text": "Accepting the client's explanations without further inquiry",
+        "required": 0
       },
       {
         "text": "Investigating discrepancies in bank reconciliations and confirming balances independently",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "Not considering internal control weaknesses because they existed in prior audits"
+        "text": "Not considering internal control weaknesses because they existed in prior audits",
+        "required": 0
       },
       {
-        "text": "Relying only on the external confirmations received from third parties"
+        "text": "Relying only on the external confirmations received from third parties",
+        "required": 0
       }
     ]
   },
@@ -1603,17 +1933,20 @@
     "text": "What action can undermine professional skepticism during an audit?",
     "options": [
       {
-        "text": "Relying on external confirmations"
+        "text": "Relying on external confirmations",
+        "required": 0
       },
       {
-        "text": "Having a questioning mind"
+        "text": "Having a questioning mind",
+        "required": 0
       },
       {
         "text": "Assuming management is honest without corroborating evidence",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "Evaluating audit evidence critically"
+        "text": "Evaluating audit evidence critically",
+        "required": 0
       }
     ]
   },
@@ -1621,17 +1954,20 @@
     "text": "What is the primary purpose of audit sampling?",
     "options": [
       {
-        "text": "To test 100% of transactions"
+        "text": "To test 100% of transactions",
+        "required": 0
       },
       {
-        "text": "To reduce the amount of work required by auditors"
+        "text": "To reduce the amount of work required by auditors",
+        "required": 0
       },
       {
         "text": "To allow auditors to draw conclusions about a population based on a subset of items",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "To ensure that all transactions are free from error"
+        "text": "To ensure that all transactions are free from error",
+        "required": 0
       }
     ]
   },
@@ -1639,17 +1975,20 @@
     "text": "Which of the following sampling methods is used when every item in a population has an equal chance of being selected?",
     "options": [
       {
-        "text": "Judgmental sampling"
+        "text": "Judgmental sampling",
+        "required": 0
       },
       {
         "text": "Random sampling",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "Haphazard sampling"
+        "text": "Haphazard sampling",
+        "required": 0
       },
       {
-        "text": "Block sampling"
+        "text": "Block sampling",
+        "required": 0
       }
     ]
   },
@@ -1657,17 +1996,20 @@
     "text": "Which of the following is a characteristic of statistical sampling in auditing?",
     "options": [
       {
-        "text": "The use of the auditor's judgment to select samples"
+        "text": "The use of the auditor's judgment to select samples",
+        "required": 0
       },
       {
         "text": "The application of probability theory to evaluate results",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "Selecting the first 20 transactions in a population"
+        "text": "Selecting the first 20 transactions in a population",
+        "required": 0
       },
       {
-        "text": "Testing only the largest transactions in the population"
+        "text": "Testing only the largest transactions in the population",
+        "required": 0
       }
     ]
   },
@@ -1675,17 +2017,20 @@
     "text": "Non-statistical sampling differs from statistical sampling in that:",
     "options": [
       {
-        "text": "It does not rely on the auditor's judgment"
+        "text": "It does not rely on the auditor's judgment",
+        "required": 0
       },
       {
         "text": "It cannot be used to quantify sampling risk",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "It uses random number generation for sample selection"
+        "text": "It uses random number generation for sample selection",
+        "required": 0
       },
       {
-        "text": "It provides more accurate results than statistical sampling"
+        "text": "It provides more accurate results than statistical sampling",
+        "required": 0
       }
     ]
   },
@@ -1693,17 +2038,20 @@
     "text": "When an auditor uses non-statistical sampling, the sample size is determined by:",
     "options": [
       {
-        "text": "Random number tables"
+        "text": "Random number tables",
+        "required": 0
       },
       {
-        "text": "The application of probability theory"
+        "text": "The application of probability theory",
+        "required": 0
       },
       {
         "text": "The auditor's judgment based on the risk of material misstatement",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "Block sampling methods"
+        "text": "Block sampling methods",
+        "required": 0
       }
     ]
   },
@@ -1711,17 +2059,20 @@
     "text": "What is the primary risk of relying on a sample that is not representative of the population?",
     "options": [
       {
-        "text": "The auditor may overestimate materiality"
+        "text": "The auditor may overestimate materiality",
+        "required": 0
       },
       {
         "text": "The audit report may contain incorrect findings",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "The auditor will complete the audit faster than expected"
+        "text": "The auditor will complete the audit faster than expected",
+        "required": 0
       },
       {
-        "text": "The financial statements will appear more accurate than they are"
+        "text": "The financial statements will appear more accurate than they are",
+        "required": 0
       }
     ]
   },
@@ -1730,16 +2081,19 @@
     "options": [
       {
         "text": "To examine internal controls",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "To calculate the company's profits"
+        "text": "To calculate the company's profits",
+        "required": 0
       },
       {
-        "text": "To confirm management's representations"
+        "text": "To confirm management's representations",
+        "required": 0
       },
       {
-        "text": "To prepare financial statements"
+        "text": "To prepare financial statements",
+        "required": 0
       }
     ]
   },
@@ -1747,17 +2101,20 @@
     "text": "Professional due care in auditing requires auditors to:",
     "options": [
       {
-        "text": "Maintain confidentiality at all times"
+        "text": "Maintain confidentiality at all times",
+        "required": 0
       },
       {
         "text": "Perform the audit to the best of their ability with diligence and competence",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "Trust management's explanations without verification"
+        "text": "Trust management's explanations without verification",
+        "required": 0
       },
       {
-        "text": "Complete the audit in the shortest time possible"
+        "text": "Complete the audit in the shortest time possible",
+        "required": 0
       }
     ]
   },
@@ -1765,17 +2122,20 @@
     "text": "Which of the following best describes the concept of due care?",
     "options": [
       {
-        "text": "Performing an audit in a careless manner"
+        "text": "Performing an audit in a careless manner",
+        "required": 0
       },
       {
         "text": "Adhering to all applicable auditing standards and regulations",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "Submitting the audit report late"
+        "text": "Submitting the audit report late",
+        "required": 0
       },
       {
-        "text": "Relying solely on management's representations"
+        "text": "Relying solely on management's representations",
+        "required": 0
       }
     ]
   },
@@ -1784,16 +2144,19 @@
     "options": [
       {
         "text": "Completing the audit without reviewing the client's significant estimates",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "Gathering sufficient and appropriate audit evidence"
+        "text": "Gathering sufficient and appropriate audit evidence",
+        "required": 0
       },
       {
-        "text": "Evaluating the client's internal controls"
+        "text": "Evaluating the client's internal controls",
+        "required": 0
       },
       {
-        "text": "Performing audit procedures to detect material misstatements"
+        "text": "Performing audit procedures to detect material misstatements",
+        "required": 0
       }
     ]
   },
@@ -1801,17 +2164,20 @@
     "text": "Professional due care requires auditors to consider which of the following in every audit?",
     "options": [
       {
-        "text": "The size of the audit fee"
+        "text": "The size of the audit fee",
+        "required": 0
       },
       {
         "text": "The need for independence and objectivity",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "The financial condition of the audit client"
+        "text": "The financial condition of the audit client",
+        "required": 0
       },
       {
-        "text": "The auditor's experience with similar clients"
+        "text": "The auditor's experience with similar clients",
+        "required": 0
       }
     ]
   },
@@ -1820,16 +2186,19 @@
     "options": [
       {
         "text": "Exercising professional skepticism",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "Accepting the client's internal controls without testing"
+        "text": "Accepting the client's internal controls without testing",
+        "required": 0
       },
       {
-        "text": "Delegating all critical audit tasks to junior staff"
+        "text": "Delegating all critical audit tasks to junior staff",
+        "required": 0
       },
       {
-        "text": "Completing the audit quickly to reduce costs"
+        "text": "Completing the audit quickly to reduce costs",
+        "required": 0
       }
     ]
   },
@@ -1837,17 +2206,20 @@
     "text": "An auditor exercises professional due care by:",
     "options": [
       {
-        "text": "Ensuring that all audit work is conducted within budget"
+        "text": "Ensuring that all audit work is conducted within budget",
+        "required": 0
       },
       {
         "text": "Applying sound judgment and adhering to auditing standards",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "Delegating difficult tasks to untrained staff"
+        "text": "Delegating difficult tasks to untrained staff",
+        "required": 0
       },
       {
-        "text": "Relying solely on previous audit results"
+        "text": "Relying solely on previous audit results",
+        "required": 0
       }
     ]
   },
@@ -1855,17 +2227,20 @@
     "text": "Assertions about classes of transactions include:",
     "options": [
       {
-        "text": "Existence and occurrence"
+        "text": "Existence and occurrence",
+        "required": 0
       },
       {
-        "text": "Completeness and accuracy"
+        "text": "Completeness and accuracy",
+        "required": 0
       },
       {
-        "text": "Presentation and disclosure"
+        "text": "Presentation and disclosure",
+        "required": 0
       },
       {
         "text": "Cutoff and classification",
-        "isCorrect": true
+        "required": 1
       }
     ]
   },
@@ -1873,17 +2248,20 @@
     "text": "The assertion that tests whether all assets are recorded at proper values is called:",
     "options": [
       {
-        "text": "Completeness"
+        "text": "Completeness",
+        "required": 0
       },
       {
         "text": "Valuation and allocation",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "Existence"
+        "text": "Existence",
+        "required": 0
       },
       {
-        "text": "Rights and obligations"
+        "text": "Rights and obligations",
+        "required": 0
       }
     ]
   },
@@ -1891,17 +2269,20 @@
     "text": "Which assertion is concerned with whether recorded transactions have actually occurred?",
     "options": [
       {
-        "text": "Completeness"
+        "text": "Completeness",
+        "required": 0
       },
       {
-        "text": "Accuracy"
+        "text": "Accuracy",
+        "required": 0
       },
       {
         "text": "Occurrence",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "Classification"
+        "text": "Classification",
+        "required": 0
       }
     ]
   },
@@ -1909,17 +2290,20 @@
     "text": "Testing the completeness assertion ensures that:",
     "options": [
       {
-        "text": "Transactions are recorded in the correct period"
+        "text": "Transactions are recorded in the correct period",
+        "required": 0
       },
       {
-        "text": "All disclosures have been made in the financial statements"
+        "text": "All disclosures have been made in the financial statements",
+        "required": 0
       },
       {
         "text": "No transactions have been omitted from the accounting records",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "Transactions are accurately classified in the financial statements"
+        "text": "Transactions are accurately classified in the financial statements",
+        "required": 0
       }
     ]
   },
@@ -1928,16 +2312,19 @@
     "options": [
       {
         "text": "Confirming that recorded assets actually exist",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "Verifying that the company's liabilities are properly valued"
+        "text": "Verifying that the company's liabilities are properly valued",
+        "required": 0
       },
       {
-        "text": "Ensuring that transactions are classified correctly"
+        "text": "Ensuring that transactions are classified correctly",
+        "required": 0
       },
       {
-        "text": "Checking that all transactions have been recorded"
+        "text": "Checking that all transactions have been recorded",
+        "required": 0
       }
     ]
   },
@@ -1946,16 +2333,19 @@
     "options": [
       {
         "text": "That all recorded transactions actually happened",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "That all transactions are recorded in the correct accounts"
+        "text": "That all transactions are recorded in the correct accounts",
+        "required": 0
       },
       {
-        "text": "That the financial statements are presented fairly"
+        "text": "That the financial statements are presented fairly",
+        "required": 0
       },
       {
-        "text": "That all required disclosures are made"
+        "text": "That all required disclosures are made",
+        "required": 0
       }
     ]
   },
@@ -1963,17 +2353,20 @@
     "text": "Which assertion ensures that transactions are classified appropriately in the financial statements?",
     "options": [
       {
-        "text": "Accuracy"
+        "text": "Accuracy",
+        "required": 0
       },
       {
         "text": "Classification",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "Completeness"
+        "text": "Completeness",
+        "required": 0
       },
       {
-        "text": "Cutoff"
+        "text": "Cutoff",
+        "required": 0
       }
     ]
   },
@@ -1981,17 +2374,20 @@
     "text": "Which of the following is NOT an assertion related to account balances?",
     "options": [
       {
-        "text": "Existence"
+        "text": "Existence",
+        "required": 0
       },
       {
-        "text": "Rights and obligations"
+        "text": "Rights and obligations",
+        "required": 0
       },
       {
-        "text": "Completeness"
+        "text": "Completeness",
+        "required": 0
       },
       {
         "text": "Accuracy",
-        "isCorrect": true
+        "required": 1
       }
     ]
   },
@@ -1999,17 +2395,20 @@
     "text": "Which audit procedure is most appropriate to test the valuation and allocation assertion for inventory?",
     "options": [
       {
-        "text": "Physical inspection of inventory"
+        "text": "Physical inspection of inventory",
+        "required": 0
       },
       {
-        "text": "Obtaining a copy of the sales forecast"
+        "text": "Obtaining a copy of the sales forecast",
+        "required": 0
       },
       {
         "text": "Reviewing the company's valuation methodology",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "Performing a cutoff test"
+        "text": "Performing a cutoff test",
+        "required": 0
       }
     ]
   },
@@ -2018,16 +2417,19 @@
     "options": [
       {
         "text": "Transactions are recorded in the proper period",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "Transactions are properly classified"
+        "text": "Transactions are properly classified",
+        "required": 0
       },
       {
-        "text": "All assets are valued correctly"
+        "text": "All assets are valued correctly",
+        "required": 0
       },
       {
-        "text": "All transactions occurred as reported"
+        "text": "All transactions occurred as reported",
+        "required": 0
       }
     ]
   },
@@ -2036,16 +2438,19 @@
     "options": [
       {
         "text": "Examine purchase contracts and title deeds",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "Confirm receivables with customers"
+        "text": "Confirm receivables with customers",
+        "required": 0
       },
       {
-        "text": "Count physical assets"
+        "text": "Count physical assets",
+        "required": 0
       },
       {
-        "text": "Verify asset depreciation calculations"
+        "text": "Verify asset depreciation calculations",
+        "required": 0
       }
     ]
   },
@@ -2053,17 +2458,20 @@
     "text": "Which of the following best describes testing the accuracy assertion?",
     "options": [
       {
-        "text": "Verifying that transactions are recorded in the correct accounts"
+        "text": "Verifying that transactions are recorded in the correct accounts",
+        "required": 0
       },
       {
         "text": "Ensuring that amounts are recorded at appropriate amounts",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "Checking that no transactions have been omitted"
+        "text": "Checking that no transactions have been omitted",
+        "required": 0
       },
       {
-        "text": "Confirming that recorded transactions actually happened"
+        "text": "Confirming that recorded transactions actually happened",
+        "required": 0
       }
     ]
   },
@@ -2071,17 +2479,20 @@
     "text": "What is the best method to gather sufficient audit evidence?",
     "options": [
       {
-        "text": "A. Relying solely on management inquiry"
+        "text": "A. Relying solely on management inquiry",
+        "required": 0
       },
       {
         "text": "B. Using a mix of evidence-gathering techniques such as inspection and analytical procedures",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "C. Observing client meetings"
+        "text": "C. Observing client meetings",
+        "required": 0
       },
       {
-        "text": "D. Asking management to provide all evidence"
+        "text": "D. Asking management to provide all evidence",
+        "required": 0
       }
     ]
   },
@@ -2089,17 +2500,20 @@
     "text": "Which of the following indicates a lack of due professional care?",
     "options": [
       {
-        "text": "A. Documenting discrepancies found during the audit"
+        "text": "A. Documenting discrepancies found during the audit",
+        "required": 0
       },
       {
         "text": "B. Relying on management explanations without follow-up",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "C. Reviewing internal controls regularly"
+        "text": "C. Reviewing internal controls regularly",
+        "required": 0
       },
       {
-        "text": "D. Obtaining external confirmations for key balances"
+        "text": "D. Obtaining external confirmations for key balances",
+        "required": 0
       }
     ]
   },
@@ -2107,17 +2521,20 @@
     "text": "Which of the following demonstrates professional skepticism?",
     "options": [
       {
-        "text": "A. Accepting management estimates without question"
+        "text": "A. Accepting management estimates without question",
+        "required": 0
       },
       {
         "text": "B. Questioning management's explanations when inconsistent with evidence",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "C. Not investigating unusual transactions"
+        "text": "C. Not investigating unusual transactions",
+        "required": 0
       },
       {
-        "text": "D. Ignoring audit discrepancies due to time constraints"
+        "text": "D. Ignoring audit discrepancies due to time constraints",
+        "required": 0
       }
     ]
   },
@@ -2125,17 +2542,20 @@
     "text": "What should an auditor do if they are unsure about the correct interpretation of GAAP?",
     "options": [
       {
-        "text": "A. Apply personal judgment"
+        "text": "A. Apply personal judgment",
+        "required": 0
       },
       {
         "text": "B. Ask management for clarification",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "C. Seek technical guidance from experts"
+        "text": "C. Seek technical guidance from experts",
+        "required": 0
       },
       {
-        "text": "D. Ignore the issue"
+        "text": "D. Ignore the issue",
+        "required": 0
       }
     ]
   },
@@ -2143,17 +2563,20 @@
     "text": "What is critical when designing an audit program for engagements involving nonroutine transactions?",
     "options": [
       {
-        "text": "A. Relying on prior year's audit program"
+        "text": "A. Relying on prior year's audit program",
+        "required": 0
       },
       {
         "text": "B. Using standardized procedures only",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "C. Tailoring the program to address inherent risks of complex transactions"
+        "text": "C. Tailoring the program to address inherent risks of complex transactions",
+        "required": 0
       },
       {
-        "text": "D. Skipping audit planning"
+        "text": "D. Skipping audit planning",
+        "required": 0
       }
     ]
   },
@@ -2162,16 +2585,19 @@
     "options": [
       {
         "text": "A. Inquiry is subjective and may not provide sufficient audit evidence",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "B. Inquiry is the only required evidence"
+        "text": "B. Inquiry is the only required evidence",
+        "required": 0
       },
       {
-        "text": "C. Inquiry is always conclusive"
+        "text": "C. Inquiry is always conclusive",
+        "required": 0
       },
       {
-        "text": "D. Inquiry is too time-consuming"
+        "text": "D. Inquiry is too time-consuming",
+        "required": 0
       }
     ]
   },
@@ -2179,17 +2605,20 @@
     "text": "What additional procedure can be used to test management estimates?",
     "options": [
       {
-        "text": "A. Solely relying on past estimates"
+        "text": "A. Solely relying on past estimates",
+        "required": 0
       },
       {
         "text": "B. Performing sensitivity analysis and independent evaluations",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "C. Only using historical data"
+        "text": "C. Only using historical data",
+        "required": 0
       },
       {
-        "text": "D. Ignoring management estimates if they appear reasonable"
+        "text": "D. Ignoring management estimates if they appear reasonable",
+        "required": 0
       }
     ]
   },
@@ -2197,17 +2626,20 @@
     "text": "If confirmations are not returned, what alternative procedures can be used?",
     "options": [
       {
-        "text": "A. Ignore the confirmation process"
+        "text": "A. Ignore the confirmation process",
+        "required": 0
       },
       {
         "text": "B. Review subsequent cash receipts and vouch transactions",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "C. Request that the client handle follow-up"
+        "text": "C. Request that the client handle follow-up",
+        "required": 0
       },
       {
-        "text": "D. Reconfirm with other stakeholders"
+        "text": "D. Reconfirm with other stakeholders",
+        "required": 0
       }
     ]
   },
@@ -2216,16 +2648,19 @@
     "options": [
       {
         "text": "A. Reviewing client contracts and legal filings",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "B. Relying only on management's statement"
+        "text": "B. Relying only on management's statement",
+        "required": 0
       },
       {
-        "text": "C. Ignoring potential related parties"
+        "text": "C. Ignoring potential related parties",
+        "required": 0
       },
       {
-        "text": "D. Relying on internal controls only"
+        "text": "D. Relying on internal controls only",
+        "required": 0
       }
     ]
   },
@@ -2234,16 +2669,19 @@
     "options": [
       {
         "text": "A. When controls are fully reliable",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "B. When internal control weaknesses are identified"
+        "text": "B. When internal control weaknesses are identified",
+        "required": 0
       },
       {
-        "text": "C. When management insists on reliance"
+        "text": "C. When management insists on reliance",
+        "required": 0
       },
       {
-        "text": "D. When control documentation is incomplete"
+        "text": "D. When control documentation is incomplete",
+        "required": 0
       }
     ]
   },
@@ -2251,17 +2689,20 @@
     "text": "What should be avoided in the governance communication letter?",
     "options": [
       {
-        "text": "A. Clear explanation of key audit matters"
+        "text": "A. Clear explanation of key audit matters",
+        "required": 0
       },
       {
         "text": "B. Excessive use of technical jargon",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "C. Highlighting material audit risks"
+        "text": "C. Highlighting material audit risks",
+        "required": 0
       },
       {
-        "text": "D. Communicating control deficiencies"
+        "text": "D. Communicating control deficiencies",
+        "required": 0
       }
     ]
   },
@@ -2269,17 +2710,20 @@
     "text": "How can an auditor ensure consistency among engagement letter, audit opinion, and management representation letter?",
     "options": [
       {
-        "text": "A. Skipping final review"
+        "text": "A. Skipping final review",
+        "required": 0
       },
       {
         "text": "B. Regular review and cross-checking these documents",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "C. Ignoring differences in wording"
+        "text": "C. Ignoring differences in wording",
+        "required": 0
       },
       {
-        "text": "D. Only reviewing the engagement letter"
+        "text": "D. Only reviewing the engagement letter",
+        "required": 0
       }
     ]
   },
@@ -2288,16 +2732,19 @@
     "options": [
       {
         "text": "A. ASC 842/IFRS 16",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "B. SAS 99"
+        "text": "B. SAS 99",
+        "required": 0
       },
       {
-        "text": "C. ASC 450"
+        "text": "C. ASC 450",
+        "required": 0
       },
       {
-        "text": "D. PCAOB 14"
+        "text": "D. PCAOB 14",
+        "required": 0
       }
     ]
   },
@@ -2306,16 +2753,19 @@
     "options": [
       {
         "text": "A. Maturity dates and any restrictions on selling",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "B. Client's preference"
+        "text": "B. Client's preference",
+        "required": 0
       },
       {
-        "text": "C. Management estimates"
+        "text": "C. Management estimates",
+        "required": 0
       },
       {
-        "text": "D. Market price movements only"
+        "text": "D. Market price movements only",
+        "required": 0
       }
     ]
   },
@@ -2324,16 +2774,19 @@
     "options": [
       {
         "text": "A. Loan agreements and repayment schedules",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "B. Client bank statements"
+        "text": "B. Client bank statements",
+        "required": 0
       },
       {
-        "text": "C. Tax returns"
+        "text": "C. Tax returns",
+        "required": 0
       },
       {
-        "text": "D. Supplier invoices"
+        "text": "D. Supplier invoices",
+        "required": 0
       }
     ]
   },
@@ -2342,16 +2795,19 @@
     "options": [
       {
         "text": "A. It overlooks assertion-specific risks like completeness and accuracy",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "B. It increases audit fees"
+        "text": "B. It increases audit fees",
+        "required": 0
       },
       {
-        "text": "C. It results in over-testing transactions"
+        "text": "C. It results in over-testing transactions",
+        "required": 0
       },
       {
-        "text": "D. It simplifies the audit process"
+        "text": "D. It simplifies the audit process",
+        "required": 0
       }
     ]
   },
@@ -2360,16 +2816,19 @@
     "options": [
       {
         "text": "A. Investigate further and consult legal counsel if needed",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "B. Ignore if immaterial"
+        "text": "B. Ignore if immaterial",
+        "required": 0
       },
       {
-        "text": "C. Automatically issue a qualified opinion"
+        "text": "C. Automatically issue a qualified opinion",
+        "required": 0
       },
       {
-        "text": "D. Disclose to the client and continue"
+        "text": "D. Disclose to the client and continue",
+        "required": 0
       }
     ]
   },
@@ -2378,16 +2837,19 @@
     "options": [
       {
         "text": "A. Review classification of operating, investing, and financing activities",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "B. Exclude cash flow testing"
+        "text": "B. Exclude cash flow testing",
+        "required": 0
       },
       {
-        "text": "C. Only rely on management classifications"
+        "text": "C. Only rely on management classifications",
+        "required": 0
       },
       {
-        "text": "D. Perform minimal testing on cash flows"
+        "text": "D. Perform minimal testing on cash flows",
+        "required": 0
       }
     ]
   },
@@ -2396,16 +2858,19 @@
     "options": [
       {
         "text": "A. Allows stakeholders to make year-over-year comparisons",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "B. Increases audit complexity"
+        "text": "B. Increases audit complexity",
+        "required": 0
       },
       {
-        "text": "C. Minimizes auditor responsibility"
+        "text": "C. Minimizes auditor responsibility",
+        "required": 0
       },
       {
-        "text": "D. Ensures greater profits for clients"
+        "text": "D. Ensures greater profits for clients",
+        "required": 0
       }
     ]
   },
@@ -2414,16 +2879,19 @@
     "options": [
       {
         "text": "A. Cross-check financial statements against the report before finalizing",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "B. Avoid reviewing the report before submission"
+        "text": "B. Avoid reviewing the report before submission",
+        "required": 0
       },
       {
-        "text": "C. Delegate review to junior staff"
+        "text": "C. Delegate review to junior staff",
+        "required": 0
       },
       {
-        "text": "D. Skip the introductory paragraph entirely"
+        "text": "D. Skip the introductory paragraph entirely",
+        "required": 0
       }
     ]
   },
@@ -2432,16 +2900,19 @@
     "options": [
       {
         "text": "A. Complete and accurate disclosure of funding and obligations",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "B. Ignoring the requirements"
+        "text": "B. Ignoring the requirements",
+        "required": 0
       },
       {
-        "text": "C. Only disclosing costs incurred"
+        "text": "C. Only disclosing costs incurred",
+        "required": 0
       },
       {
-        "text": "D. Excluding future obligations"
+        "text": "D. Excluding future obligations",
+        "required": 0
       }
     ]
   },
@@ -2450,16 +2921,19 @@
     "options": [
       {
         "text": "A. It helps stakeholders understand how funds are allocated to programs",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "B. It is optional"
+        "text": "B. It is optional",
+        "required": 0
       },
       {
-        "text": "C. It simplifies accounting"
+        "text": "C. It simplifies accounting",
+        "required": 0
       },
       {
-        "text": "D. It is required only for government entities"
+        "text": "D. It is required only for government entities",
+        "required": 0
       }
     ]
   },
@@ -2468,16 +2942,19 @@
     "options": [
       {
         "text": "A. Nature and amounts of donor-restricted assets",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "B. General financial position only"
+        "text": "B. General financial position only",
+        "required": 0
       },
       {
-        "text": "C. Future donations"
+        "text": "C. Future donations",
+        "required": 0
       },
       {
-        "text": "D. Nothing"
+        "text": "D. Nothing",
+        "required": 0
       }
     ]
   },
@@ -2486,16 +2963,19 @@
     "options": [
       {
         "text": "A. Endowment purpose, changes in value, and any restrictions",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "B. Endowment location"
+        "text": "B. Endowment location",
+        "required": 0
       },
       {
-        "text": "C. The name of the donor only"
+        "text": "C. The name of the donor only",
+        "required": 0
       },
       {
-        "text": "D. Endowment location and value only"
+        "text": "D. Endowment location and value only",
+        "required": 0
       }
     ]
   },
@@ -2504,16 +2984,19 @@
     "options": [
       {
         "text": "A. During nonroutine, complex transactions",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "B. In routine, simple transactions"
+        "text": "B. In routine, simple transactions",
+        "required": 0
       },
       {
-        "text": "C. When controls are strong"
+        "text": "C. When controls are strong",
+        "required": 0
       },
       {
-        "text": "D. In a small client's routine operations"
+        "text": "D. In a small client's routine operations",
+        "required": 0
       }
     ]
   },
@@ -2522,16 +3005,19 @@
     "options": [
       {
         "text": "A. It is subjective and not corroborative",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "B. It is always sufficient"
+        "text": "B. It is always sufficient",
+        "required": 0
       },
       {
-        "text": "C. Inquiry alone provides conclusive evidence"
+        "text": "C. Inquiry alone provides conclusive evidence",
+        "required": 0
       },
       {
-        "text": "D. Inquiry eliminates the need for testing"
+        "text": "D. Inquiry eliminates the need for testing",
+        "required": 0
       }
     ]
   },
@@ -2540,16 +3026,19 @@
     "options": [
       {
         "text": "A. It ensures accurate representation of funds and prevents misstatement",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "B. It is not important for NFPs"
+        "text": "B. It is not important for NFPs",
+        "required": 0
       },
       {
-        "text": "C. It simplifies the financial statements"
+        "text": "C. It simplifies the financial statements",
+        "required": 0
       },
       {
-        "text": "D. It is only necessary for government entities"
+        "text": "D. It is only necessary for government entities",
+        "required": 0
       }
     ]
   },
@@ -2558,16 +3047,19 @@
     "options": [
       {
         "text": "A. Ensuring that all cash is deposited immediately upon receipt",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "B. Maintaining high cash reserves to avoid audits"
+        "text": "B. Maintaining high cash reserves to avoid audits",
+        "required": 0
       },
       {
-        "text": "C. Using cash only for operational expenses"
+        "text": "C. Using cash only for operational expenses",
+        "required": 0
       },
       {
-        "text": "D. Limiting cash inflow to improve efficiency"
+        "text": "D. Limiting cash inflow to improve efficiency",
+        "required": 0
       }
     ]
   },
@@ -2576,16 +3068,19 @@
     "options": [
       {
         "text": "A. As temporarily or permanently restricted net assets based on donor stipulations",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "B. As unrestricted net assets"
+        "text": "B. As unrestricted net assets",
+        "required": 0
       },
       {
-        "text": "C. Only in footnotes"
+        "text": "C. Only in footnotes",
+        "required": 0
       },
       {
-        "text": "D. Ignored in the financial statements"
+        "text": "D. Ignored in the financial statements",
+        "required": 0
       }
     ]
   },
@@ -2594,16 +3089,19 @@
     "options": [
       {
         "text": "A. Conditions and restrictions associated with the grant",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "B. Only the amount received"
+        "text": "B. Only the amount received",
+        "required": 0
       },
       {
-        "text": "C. The donor's identity"
+        "text": "C. The donor's identity",
+        "required": 0
       },
       {
-        "text": "D. Previous years' revenue recognition practices"
+        "text": "D. Previous years' revenue recognition practices",
+        "required": 0
       }
     ]
   },
@@ -2612,16 +3110,19 @@
     "options": [
       {
         "text": "A. Only if the services are essential and can be measured reliably",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "B. Not recorded at all"
+        "text": "B. Not recorded at all",
+        "required": 0
       },
       {
-        "text": "C. Recorded at the minimum wage rate"
+        "text": "C. Recorded at the minimum wage rate",
+        "required": 0
       },
       {
-        "text": "D. Recorded as an expense regardless of value"
+        "text": "D. Recorded as an expense regardless of value",
+        "required": 0
       }
     ]
   },
@@ -2630,16 +3131,19 @@
     "options": [
       {
         "text": "A. Verifying compliance with grant conditions and restrictions",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "B. Assuming all grants are spent as intended"
+        "text": "B. Assuming all grants are spent as intended",
+        "required": 0
       },
       {
-        "text": "C. Relying solely on management representations"
+        "text": "C. Relying solely on management representations",
+        "required": 0
       },
       {
-        "text": "D. Ignoring grant documentation if it's not material"
+        "text": "D. Ignoring grant documentation if it's not material",
+        "required": 0
       }
     ]
   },
@@ -2648,16 +3152,19 @@
     "options": [
       {
         "text": "A. Full disclosure of the nature and extent of transactions",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "B. No need for disclosure if not material"
+        "text": "B. No need for disclosure if not material",
+        "required": 0
       },
       {
-        "text": "C. Only disclosing transactions over a certain amount"
+        "text": "C. Only disclosing transactions over a certain amount",
+        "required": 0
       },
       {
-        "text": "D. Only disclosing transactions with board members"
+        "text": "D. Only disclosing transactions with board members",
+        "required": 0
       }
     ]
   },
@@ -2666,16 +3173,19 @@
     "options": [
       {
         "text": "A. When services are provided to members",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "B. At the time of receipt only"
+        "text": "B. At the time of receipt only",
+        "required": 0
       },
       {
-        "text": "C. Only at the end of the fiscal year"
+        "text": "C. Only at the end of the fiscal year",
+        "required": 0
       },
       {
-        "text": "D. When the board approves the budget"
+        "text": "D. When the board approves the budget",
+        "required": 0
       }
     ]
   },
@@ -2684,16 +3194,19 @@
     "options": [
       {
         "text": "A. They can influence revenue forecasts and funding availability",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "B. They have no impact on financial reporting"
+        "text": "B. They have no impact on financial reporting",
+        "required": 0
       },
       {
-        "text": "C. They only affect for-profit organizations"
+        "text": "C. They only affect for-profit organizations",
+        "required": 0
       },
       {
-        "text": "D. They simplify reporting requirements"
+        "text": "D. They simplify reporting requirements",
+        "required": 0
       }
     ]
   },
@@ -2702,16 +3215,19 @@
     "options": [
       {
         "text": "A. At fair value at the time of donation",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "B. At the original purchase price of the donor"
+        "text": "B. At the original purchase price of the donor",
+        "required": 0
       },
       {
-        "text": "C. At zero value"
+        "text": "C. At zero value",
+        "required": 0
       },
       {
-        "text": "D. Based on previous appraisals"
+        "text": "D. Based on previous appraisals",
+        "required": 0
       }
     ]
   },
@@ -2720,16 +3236,19 @@
     "options": [
       {
         "text": "A. Form 990",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "B. Form 1040"
+        "text": "B. Form 1040",
+        "required": 0
       },
       {
-        "text": "C. Form 1065"
+        "text": "C. Form 1065",
+        "required": 0
       },
       {
-        "text": "D. Form W-2"
+        "text": "D. Form W-2",
+        "required": 0
       }
     ]
   },
@@ -2737,16 +3256,20 @@
     "text": "Why is segregation of duties important in NFP financial management?",
     "options": [
       {
-        "text": "A. To reduce the risk of errors and fraud"
+        "text": "A. To reduce the risk of errors and fraud",
+        "required": 0
       },
       {
-        "text": "B. It is not important for small NFPs"
+        "text": "B. It is not important for small NFPs",
+        "required": 0
       },
       {
-        "text": "C. To increase operational efficiency"
+        "text": "C. To increase operational efficiency",
+        "required": 0
       },
       {
-        "text": "D. It complicates financial management"
+        "text": "D. It complicates financial management",
+        "required": 0
       }
     ]
   },
@@ -2755,16 +3278,19 @@
     "options": [
       {
         "text": "A. Separately from program expenses to provide transparency",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "B. Combined with program expenses"
+        "text": "B. Combined with program expenses",
+        "required": 0
       },
       {
-        "text": "C. Ignored if under a certain threshold"
+        "text": "C. Ignored if under a certain threshold",
+        "required": 0
       },
       {
-        "text": "D. Only disclosed in footnotes"
+        "text": "D. Only disclosed in footnotes",
+        "required": 0
       }
     ]
   },
@@ -2773,16 +3299,19 @@
     "options": [
       {
         "text": "A. To ensure compliance and safeguard assets",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "B. To reduce staff workload"
+        "text": "B. To reduce staff workload",
+        "required": 0
       },
       {
-        "text": "C. To increase donor contributions"
+        "text": "C. To increase donor contributions",
+        "required": 0
       },
       {
-        "text": "D. To simplify financial reporting"
+        "text": "D. To simplify financial reporting",
+        "required": 0
       }
     ]
   },
@@ -2791,16 +3320,19 @@
     "options": [
       {
         "text": "A. To determine the effectiveness of internal controls",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "B. To detect all instances of fraud"
+        "text": "B. To detect all instances of fraud",
+        "required": 0
       },
       {
-        "text": "C. To assess the risk of material misstatement due to fraud"
+        "text": "C. To assess the risk of material misstatement due to fraud",
+        "required": 0
       },
       {
-        "text": "D. To provide assurance that no fraud exists"
+        "text": "D. To provide assurance that no fraud exists",
+        "required": 0
       }
     ]
   },
@@ -2809,16 +3341,19 @@
     "options": [
       {
         "text": "A. When there is a material misstatement that the management refuses to correct",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "B. When there are significant doubts about the entity's ability to continue as a going concern"
+        "text": "B. When there are significant doubts about the entity's ability to continue as a going concern",
+        "required": 0
       },
       {
-        "text": "C. When the financial statements are presented fairly in all material respects"
+        "text": "C. When the financial statements are presented fairly in all material respects",
+        "required": 0
       },
       {
-        "text": "D. When there is a lack of sufficient audit evidence"
+        "text": "D. When there is a lack of sufficient audit evidence",
+        "required": 0
       }
     ]
   },
@@ -2826,17 +3361,20 @@
     "text": "What does the term 'professional skepticism' refer to in auditing?",
     "options": [
       {
-        "text": "A. Trusting management's assertions without evidence"
+        "text": "A. Trusting management's assertions without evidence",
+        "required": 0
       },
       {
         "text": "B. Maintaining an attitude that includes questioning mind and critical assessment",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "C. Conducting audits in a relaxed manner"
+        "text": "C. Conducting audits in a relaxed manner",
+        "required": 0
       },
       {
-        "text": "D. Assuming all financial information provided is accurate"
+        "text": "D. Assuming all financial information provided is accurate",
+        "required": 0
       }
     ]
   },
@@ -2844,17 +3382,20 @@
     "text": "Which of the following is a significant risk that requires special audit consideration?",
     "options": [
       {
-        "text": "A. Routine cash transactions"
+        "text": "A. Routine cash transactions",
+        "required": 0
       },
       {
         "text": "B. Management override of controls",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "C. Consistency in accounting policies"
+        "text": "C. Consistency in accounting policies",
+        "required": 0
       },
       {
-        "text": "D. Timeliness of financial reporting"
+        "text": "D. Timeliness of financial reporting",
+        "required": 0
       }
     ]
   },
@@ -2862,17 +3403,20 @@
     "text": "What is the primary focus of substantive tests?",
     "options": [
       {
-        "text": "A. To evaluate the design of internal controls"
+        "text": "A. To evaluate the design of internal controls",
+        "required": 0
       },
       {
         "text": "B. To gather evidence regarding the assertions in financial statements",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "C. To assess the effectiveness of management's decisions"
+        "text": "C. To assess the effectiveness of management's decisions",
+        "required": 0
       },
       {
-        "text": "D. To review compliance with laws and regulations"
+        "text": "D. To review compliance with laws and regulations",
+        "required": 0
       }
     ]
   },
@@ -2880,17 +3424,20 @@
     "text": "Which accounting principle requires that expenses be matched with revenues?",
     "options": [
       {
-        "text": "A. Historical Cost Principle"
+        "text": "A. Historical Cost Principle",
+        "required": 0
       },
       {
         "text": "B. Matching Principle",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "C. Consistency Principle"
+        "text": "C. Consistency Principle",
+        "required": 0
       },
       {
-        "text": "D. Revenue Recognition Principle"
+        "text": "D. Revenue Recognition Principle",
+        "required": 0
       }
     ]
   },
@@ -2898,17 +3445,20 @@
     "text": "How should an auditor respond to identified deficiencies in internal control?",
     "options": [
       {
-        "text": "A. Ignore them if they are not material"
+        "text": "A. Ignore them if they are not material",
+        "required": 0
       },
       {
         "text": "B. Report them only if they are significant",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "C. Document and communicate them to management and those charged with governance"
+        "text": "C. Document and communicate them to management and those charged with governance",
+        "required": 0
       },
       {
-        "text": "D. Immediately change the internal controls without consultation"
+        "text": "D. Immediately change the internal controls without consultation",
+        "required": 0
       }
     ]
   },
@@ -2917,16 +3467,19 @@
     "options": [
       {
         "text": "A. When internal audit findings are aligned with external audit objectives",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "B. When the internal audit department has a strong reputation"
+        "text": "B. When the internal audit department has a strong reputation",
+        "required": 0
       },
       {
-        "text": "C. When the internal audit has been conducted recently"
+        "text": "C. When the internal audit has been conducted recently",
+        "required": 0
       },
       {
-        "text": "D. All of the above"
+        "text": "D. All of the above",
+        "required": 0
       }
     ]
   },
@@ -2934,17 +3487,20 @@
     "text": "What is the effect of a client's refusal to provide access to certain financial records during an audit?",
     "options": [
       {
-        "text": "A. The audit will proceed without those records"
+        "text": "A. The audit will proceed without those records",
+        "required": 0
       },
       {
         "text": "B. The auditor may need to modify their opinion due to insufficient evidence",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "C. The auditor can still issue a clean opinion"
+        "text": "C. The auditor can still issue a clean opinion",
+        "required": 0
       },
       {
-        "text": "D. The auditor will end the engagement immediately"
+        "text": "D. The auditor will end the engagement immediately",
+        "required": 0
       }
     ]
   },
@@ -2953,16 +3509,19 @@
     "options": [
       {
         "text": "A. Sending confirmation requests to customers",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "B. Reviewing sales orders and invoices"
+        "text": "B. Reviewing sales orders and invoices",
+        "required": 0
       },
       {
-        "text": "C. Analyzing cash receipts after year-end"
+        "text": "C. Analyzing cash receipts after year-end",
+        "required": 0
       },
       {
-        "text": "D. Relying solely on management's internal reports"
+        "text": "D. Relying solely on management's internal reports",
+        "required": 0
       }
     ]
   },
@@ -2971,16 +3530,19 @@
     "options": [
       {
         "text": "A. Trend analysis over several years",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "B. Vertical analysis of the income statement"
+        "text": "B. Vertical analysis of the income statement",
+        "required": 0
       },
       {
-        "text": "C. Ratio analysis compared to industry benchmarks"
+        "text": "C. Ratio analysis compared to industry benchmarks",
+        "required": 0
       },
       {
-        "text": "D. All of the above"
+        "text": "D. All of the above",
+        "required": 0
       }
     ]
   },
@@ -2988,17 +3550,20 @@
     "text": "Which standard governs the communication of internal control deficiencies to management?",
     "options": [
       {
-        "text": "A. AICPA Code of Conduct"
+        "text": "A. AICPA Code of Conduct",
+        "required": 0
       },
       {
         "text": "B. GAAS (Generally Accepted Auditing Standards)",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "C. SAS (Statements on Auditing Standards)"
+        "text": "C. SAS (Statements on Auditing Standards)",
+        "required": 0
       },
       {
-        "text": "D. IFRS (International Financial Reporting Standards)"
+        "text": "D. IFRS (International Financial Reporting Standards)",
+        "required": 0
       }
     ]
   },
@@ -3006,17 +3571,20 @@
     "text": "Under which condition is it acceptable to use sampling in an audit?",
     "options": [
       {
-        "text": "A. When the population is small"
+        "text": "A. When the population is small",
+        "required": 0
       },
       {
         "text": "B. When evidence cannot be obtained by other means",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "C. When the population is homogeneous"
+        "text": "C. When the population is homogeneous",
+        "required": 0
       },
       {
-        "text": "D. When there is a high level of assurance required"
+        "text": "D. When there is a high level of assurance required",
+        "required": 0
       }
     ]
   },
@@ -3025,16 +3593,19 @@
     "options": [
       {
         "text": "A. Existence",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "B. Completeness"
+        "text": "B. Completeness",
+        "required": 0
       },
       {
-        "text": "C. Rights and obligations"
+        "text": "C. Rights and obligations",
+        "required": 0
       },
       {
-        "text": "D. Valuation"
+        "text": "D. Valuation",
+        "required": 0
       }
     ]
   },
@@ -3042,17 +3613,20 @@
     "text": "What is the primary purpose of the governance communications letter issued to those charged with governance?",
     "options": [
       {
-        "text": "A. To summarize audit findings"
+        "text": "A. To summarize audit findings",
+        "required": 0
       },
       {
-        "text": "B. To outline management's responsibilities"
+        "text": "B. To outline management's responsibilities",
+        "required": 0
       },
       {
         "text": "C. To communicate significant deficiencies in internal controls",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "D. To provide an overview of financial performance"
+        "text": "D. To provide an overview of financial performance",
+        "required": 0
       }
     ]
   },
@@ -3060,17 +3634,20 @@
     "text": "What is the best approach for an auditor to manage a client relationship during a contentious audit?",
     "options": [
       {
-        "text": "A. Avoid direct communication to prevent conflict"
+        "text": "A. Avoid direct communication to prevent conflict",
+        "required": 0
       },
       {
         "text": "B. Engage in open and honest dialogue to discuss concerns",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "C. Rely on formal correspondence only"
+        "text": "C. Rely on formal correspondence only",
+        "required": 0
       },
       {
-        "text": "D. Seek to minimize the client's involvement in the audit process"
+        "text": "D. Seek to minimize the client's involvement in the audit process",
+        "required": 0
       }
     ]
   },
@@ -3078,17 +3655,20 @@
     "text": "When a disagreement arises regarding accounting treatment, what is the auditor's best course of action?",
     "options": [
       {
-        "text": "A. Insist on their preferred method and refuse to compromise"
+        "text": "A. Insist on their preferred method and refuse to compromise",
+        "required": 0
       },
       {
         "text": "B. Document the disagreement and seek a resolution through discussion",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "C. Notify regulatory bodies immediately"
+        "text": "C. Notify regulatory bodies immediately",
+        "required": 0
       },
       {
-        "text": "D. Ignore the disagreement if it is not material"
+        "text": "D. Ignore the disagreement if it is not material",
+        "required": 0
       }
     ]
   },
@@ -3096,17 +3676,20 @@
     "text": "What is a primary benefit of continuing professional education (CPE) for auditors?",
     "options": [
       {
-        "text": "A. To maintain personal connections with clients"
+        "text": "A. To maintain personal connections with clients",
+        "required": 0
       },
       {
         "text": "B. To ensure compliance with licensing requirements",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "C. To enhance the auditor's reputation in the community"
+        "text": "C. To enhance the auditor's reputation in the community",
+        "required": 0
       },
       {
-        "text": "D. To reduce the cost of professional liability insurance"
+        "text": "D. To reduce the cost of professional liability insurance",
+        "required": 0
       }
     ]
   },
@@ -3114,17 +3697,20 @@
     "text": "Which of the following topics is most critical for auditors to include in their continuing professional education?",
     "options": [
       {
-        "text": "A. Office management skills"
+        "text": "A. Office management skills",
+        "required": 0
       },
       {
         "text": "B. Changes in accounting standards and regulations",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "C. Personal finance strategies"
+        "text": "C. Personal finance strategies",
+        "required": 0
       },
       {
-        "text": "D. Advanced technology trends unrelated to auditing"
+        "text": "D. Advanced technology trends unrelated to auditing",
+        "required": 0
       }
     ]
   },
@@ -3132,17 +3718,20 @@
     "text": "In resolving audit disputes, what role does effective communication play?",
     "options": [
       {
-        "text": "A. It is secondary to the technical resolution of the issue"
+        "text": "A. It is secondary to the technical resolution of the issue",
+        "required": 0
       },
       {
         "text": "B. It can help clarify misunderstandings and build trust",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "C. It should be avoided to keep discussions professional"
+        "text": "C. It should be avoided to keep discussions professional",
+        "required": 0
       },
       {
-        "text": "D. It is only important if the dispute escalates"
+        "text": "D. It is only important if the dispute escalates",
+        "required": 0
       }
     ]
   },
@@ -3150,17 +3739,20 @@
     "text": "Which document is essential in managing client expectations throughout the audit process?",
     "options": [
       {
-        "text": "A. Management Representation Letter"
+        "text": "A. Management Representation Letter",
+        "required": 0
       },
       {
         "text": "B. Engagement Letter",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "C. Audit Report"
+        "text": "C. Audit Report",
+        "required": 0
       },
       {
-        "text": "D. Governance Communications Letter"
+        "text": "D. Governance Communications Letter",
+        "required": 0
       }
     ]
   },
@@ -3168,17 +3760,20 @@
     "text": "How should an auditor handle a client who consistently disputes audit findings?",
     "options": [
       {
-        "text": "A. Concede to the client's viewpoint to maintain goodwill"
+        "text": "A. Concede to the client's viewpoint to maintain goodwill",
+        "required": 0
       },
       {
         "text": "B. Provide thorough documentation and rationale for findings",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "C. Withdraw from the engagement"
+        "text": "C. Withdraw from the engagement",
+        "required": 0
       },
       {
-        "text": "D. Stop communication and escalate to management"
+        "text": "D. Stop communication and escalate to management",
+        "required": 0
       }
     ]
   },
@@ -3187,16 +3782,19 @@
     "options": [
       {
         "text": "A. Prioritize compliance over relationship building",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "B. Be responsive and accessible to client inquiries"
+        "text": "B. Be responsive and accessible to client inquiries",
+        "required": 0
       },
       {
-        "text": "C. Focus solely on completing the audit efficiently"
+        "text": "C. Focus solely on completing the audit efficiently",
+        "required": 0
       },
       {
-        "text": "D. Minimize interaction with the client until the audit is complete"
+        "text": "D. Minimize interaction with the client until the audit is complete",
+        "required": 0
       }
     ]
   },
@@ -3205,16 +3803,19 @@
     "options": [
       {
         "text": "A. To ensure that the auditor's opinion is not affected",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "B. To foster a better working relationship with the client"
+        "text": "B. To foster a better working relationship with the client",
+        "required": 0
       },
       {
-        "text": "C. To prevent potential legal disputes in the future"
+        "text": "C. To prevent potential legal disputes in the future",
+        "required": 0
       },
       {
-        "text": "D. To enhance the auditor's professional reputation"
+        "text": "D. To enhance the auditor's professional reputation",
+        "required": 0
       }
     ]
   },
@@ -3222,17 +3823,20 @@
     "text": "What type of audit report is typically issued for a nonprofit organization?",
     "options": [
       {
-        "text": "A. Review report"
+        "text": "A. Review report",
+        "required": 0
       },
       {
         "text": "B. Compilation report",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "C. Audit report"
+        "text": "C. Audit report",
+        "required": 0
       },
       {
-        "text": "D. All of the above"
+        "text": "D. All of the above",
+        "required": 0
       }
     ]
   },
@@ -3241,16 +3845,19 @@
     "options": [
       {
         "text": "A. Homeowners Associations",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "B. S Corporations"
+        "text": "B. S Corporations",
+        "required": 0
       },
       {
-        "text": "C. C Corporations"
+        "text": "C. C Corporations",
+        "required": 0
       },
       {
-        "text": "D. Partnerships"
+        "text": "D. Partnerships",
+        "required": 0
       }
     ]
   },
@@ -3258,17 +3865,20 @@
     "text": "Which type of entity is often required to provide annual financial statements to its members?",
     "options": [
       {
-        "text": "A. Nonprofit Organization"
+        "text": "A. Nonprofit Organization",
+        "required": 0
       },
       {
         "text": "B. Homeowners Association",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "C. S Corporation"
+        "text": "C. S Corporation",
+        "required": 0
       },
       {
-        "text": "D. Partnership"
+        "text": "D. Partnership",
+        "required": 0
       }
     ]
   },
@@ -3276,17 +3886,20 @@
     "text": "In which type of organization is the income typically not taxed at the entity level?",
     "options": [
       {
-        "text": "A. C Corporation"
+        "text": "A. C Corporation",
+        "required": 0
       },
       {
-        "text": "B. S Corporation"
+        "text": "B. S Corporation",
+        "required": 0
       },
       {
-        "text": "C. Partnership"
+        "text": "C. Partnership",
+        "required": 0
       },
       {
         "text": "D. Both B and C",
-        "isCorrect": true
+        "required": 1
       }
     ]
   },
@@ -3295,16 +3908,19 @@
     "options": [
       {
         "text": "A. To reduce tax liability",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "B. To provide assurance on the accuracy of financial statements"
+        "text": "B. To provide assurance on the accuracy of financial statements",
+        "required": 0
       },
       {
-        "text": "C. To evaluate management performance"
+        "text": "C. To evaluate management performance",
+        "required": 0
       },
       {
-        "text": "D. To increase revenue"
+        "text": "D. To increase revenue",
+        "required": 0
       }
     ]
   },
@@ -3312,17 +3928,20 @@
     "text": "Which client type often has members rather than shareholders?",
     "options": [
       {
-        "text": "A. C Corporation"
+        "text": "A. C Corporation",
+        "required": 0
       },
       {
         "text": "B. Homeowners Association",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "C. S Corporation"
+        "text": "C. S Corporation",
+        "required": 0
       },
       {
-        "text": "D. Partnership"
+        "text": "D. Partnership",
+        "required": 0
       }
     ]
   },
@@ -3330,17 +3949,20 @@
     "text": "What distinguishes an S Corporation from a C Corporation?",
     "options": [
       {
-        "text": "A. Number of shareholders"
+        "text": "A. Number of shareholders",
+        "required": 0
       },
       {
-        "text": "B. Tax treatment of income"
+        "text": "B. Tax treatment of income",
+        "required": 0
       },
       {
         "text": "C. A&B",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "D. State of incorporation"
+        "text": "D. State of incorporation",
+        "required": 0
       }
     ]
   },
@@ -3349,16 +3971,19 @@
     "options": [
       {
         "text": "A. Evaluating the partnership agreement",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "B. Reviewing individual partners' tax returns"
+        "text": "B. Reviewing individual partners' tax returns",
+        "required": 0
       },
       {
-        "text": "C. Analyzing the entity's overall revenue"
+        "text": "C. Analyzing the entity's overall revenue",
+        "required": 0
       },
       {
-        "text": "D. Ensuring compliance with GAAP"
+        "text": "D. Ensuring compliance with GAAP",
+        "required": 0
       }
     ]
   },
@@ -3366,17 +3991,20 @@
     "text": "For which of the following client types is a compilation engagement least rigorous?",
     "options": [
       {
-        "text": "A. Nonprofit Organizations"
+        "text": "A. Nonprofit Organizations",
+        "required": 0
       },
       {
-        "text": "B. C Corporations"
+        "text": "B. C Corporations",
+        "required": 0
       },
       {
-        "text": "C. Partnerships"
+        "text": "C. Partnerships",
+        "required": 0
       },
       {
         "text": "D. Homeowners Associations",
-        "isCorrect": true
+        "required": 1
       }
     ]
   },
@@ -3384,17 +4012,20 @@
     "text": "What is the main characteristic of a 501(c)(3) organization?",
     "options": [
       {
-        "text": "A. It operates for profit."
+        "text": "A. It operates for profit.",
+        "required": 0
       },
       {
         "text": "B. It is a tax-exempt charitable organization.",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "C. It is subject to corporate taxes."
+        "text": "C. It is subject to corporate taxes.",
+        "required": 0
       },
       {
-        "text": "D. It can distribute profits to members."
+        "text": "D. It can distribute profits to members.",
+        "required": 0
       }
     ]
   },
@@ -3402,17 +4033,20 @@
     "text": "Which of the following is NOT typically a requirement for a C Corporation?",
     "options": [
       {
-        "text": "A. Holding annual shareholder meetings"
+        "text": "A. Holding annual shareholder meetings",
+        "required": 0
       },
       {
         "text": "B. Issuing stock to shareholders",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "C. Maintaining detailed records of partner contributions"
+        "text": "C. Maintaining detailed records of partner contributions",
+        "required": 0
       },
       {
-        "text": "D. Filing Form 1120 with the IRS"
+        "text": "D. Filing Form 1120 with the IRS",
+        "required": 0
       }
     ]
   },
@@ -3420,17 +4054,20 @@
     "text": "In a homeowners association, what is the primary source of revenue?",
     "options": [
       {
-        "text": "A. Grants"
+        "text": "A. Grants",
+        "required": 0
       },
       {
         "text": "B. Member assessments",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "C. Sales of assets"
+        "text": "C. Sales of assets",
+        "required": 0
       },
       {
-        "text": "D. Donations"
+        "text": "D. Donations",
+        "required": 0
       }
     ]
   },
@@ -3438,17 +4075,20 @@
     "text": "What is a common financial statement requirement for S Corporations?",
     "options": [
       {
-        "text": "A. Consolidated financial statements"
+        "text": "A. Consolidated financial statements",
+        "required": 0
       },
       {
         "text": "B. Financial statements prepared according to GAAP",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "C. No financial statements required"
+        "text": "C. No financial statements required",
+        "required": 0
       },
       {
-        "text": "D. Statements prepared solely for tax purposes"
+        "text": "D. Statements prepared solely for tax purposes",
+        "required": 0
       }
     ]
   },
@@ -3456,17 +4096,20 @@
     "text": "What type of assurance is provided by a review engagement?",
     "options": [
       {
-        "text": "A. High level of assurance"
+        "text": "A. High level of assurance",
+        "required": 0
       },
       {
         "text": "B. Moderate level of assurance",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "C. No assurance"
+        "text": "C. No assurance",
+        "required": 0
       },
       {
-        "text": "D. Complete assurance"
+        "text": "D. Complete assurance",
+        "required": 0
       }
     ]
   },
@@ -3474,17 +4117,20 @@
     "text": "For which client type would an auditor typically assess the adherence to specific regulations governing nonprofit activities?",
     "options": [
       {
-        "text": "A. C Corporation"
+        "text": "A. C Corporation",
+        "required": 0
       },
       {
         "text": "B. Nonprofit Organization",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "C. S Corporation"
+        "text": "C. S Corporation",
+        "required": 0
       },
       {
-        "text": "D. Homeowners Association"
+        "text": "D. Homeowners Association",
+        "required": 0
       }
     ]
   },
@@ -3492,16 +4138,20 @@
     "text": "What distinguishes a C Corporation from an S Corporation regarding ownership?",
     "options": [
       {
-        "text": "A. C Corporations can have unlimited shareholders; S Corporations cannot."
+        "text": "A. C Corporations can have unlimited shareholders; S Corporations cannot.",
+        "required": 0
       },
       {
-        "text": "B. S Corporations can issue multiple classes of stock; C Corporations cannot."
+        "text": "B. S Corporations can issue multiple classes of stock; C Corporations cannot.",
+        "required": 0
       },
       {
-        "text": "C. C Corporations have no restrictions on foreign ownership; S Corporations do."
+        "text": "C. C Corporations have no restrictions on foreign ownership; S Corporations do.",
+        "required": 0
       },
       {
-        "text": "D. A & C"
+        "text": "D. A & C",
+        "required": 0
       }
     ]
   },
@@ -3509,17 +4159,20 @@
     "text": "Which client type typically has its income reported on the individual tax returns of its owners?",
     "options": [
       {
-        "text": "A. C Corporation"
+        "text": "A. C Corporation",
+        "required": 0
       },
       {
         "text": "B. S Corporation",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "C. Homeowners Association"
+        "text": "C. Homeowners Association",
+        "required": 0
       },
       {
-        "text": "D. Nonprofit Organization"
+        "text": "D. Nonprofit Organization",
+        "required": 0
       }
     ]
   },
@@ -3528,16 +4181,19 @@
     "options": [
       {
         "text": "A. Based on ownership percentage",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "B. Equally among all partners"
+        "text": "B. Equally among all partners",
+        "required": 0
       },
       {
-        "text": "C. According to the partnership agreement"
+        "text": "C. According to the partnership agreement",
+        "required": 0
       },
       {
-        "text": "D. Based on the amount of capital contributed"
+        "text": "D. Based on the amount of capital contributed",
+        "required": 0
       }
     ]
   },
@@ -3545,17 +4201,20 @@
     "text": "Which of the following statements is true regarding the audit requirements for 501(c)(3) organizations?",
     "options": [
       {
-        "text": "A. They are exempt from audits regardless of revenue."
+        "text": "A. They are exempt from audits regardless of revenue.",
+        "required": 0
       },
       {
         "text": "B. They must conduct an annual audit if their revenue exceeds a certain threshold.",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "C. They only require internal audits."
+        "text": "C. They only require internal audits.",
+        "required": 0
       },
       {
-        "text": "D. Audits are optional for all nonprofit organizations."
+        "text": "D. Audits are optional for all nonprofit organizations.",
+        "required": 0
       }
     ]
   },
@@ -3563,17 +4222,20 @@
     "text": "What is a common reason for conducting a compilation engagement for a small business?",
     "options": [
       {
-        "text": "A. To provide a high level of assurance on financial statements."
+        "text": "A. To provide a high level of assurance on financial statements.",
+        "required": 0
       },
       {
         "text": "B. To meet bank loan requirements.",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "C. To comply with GAAP."
+        "text": "C. To comply with GAAP.",
+        "required": 0
       },
       {
-        "text": "D. To prepare for a federal audit."
+        "text": "D. To prepare for a federal audit.",
+        "required": 0
       }
     ]
   },
@@ -3581,17 +4243,20 @@
     "text": "What is the main purpose of an Employee Benefit Plan audit?",
     "options": [
       {
-        "text": "To ensure employees receive the correct benefits"
+        "text": "To ensure employees receive the correct benefits",
+        "required": 0
       },
       {
-        "text": "To detect fraud in the plan"
+        "text": "To detect fraud in the plan",
+        "required": 0
       },
       {
         "text": "To ensure compliance with ERISA and DOL regulations",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "To analyze employee participation levels"
+        "text": "To analyze employee participation levels",
+        "required": 0
       }
     ]
   },
@@ -3599,17 +4264,20 @@
     "text": "Which organization typically requires an Employee Benefit Plan to undergo an audit?",
     "options": [
       {
-        "text": "IRS"
+        "text": "IRS",
+        "required": 0
       },
       {
         "text": "Department of Labor (DOL)",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "Securities and Exchange Commission (SE"
+        "text": "Securities and Exchange Commission (SE",
+        "required": 0
       },
       {
-        "text": "Internal Revenue Service (IRS)"
+        "text": "Internal Revenue Service (IRS)",
+        "required": 0
       }
     ]
   },
@@ -3618,16 +4286,19 @@
     "options": [
       {
         "text": "100 participants",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "50 participants"
+        "text": "50 participants",
+        "required": 0
       },
       {
-        "text": "250 participants"
+        "text": "250 participants",
+        "required": 0
       },
       {
-        "text": "500 participants"
+        "text": "500 participants",
+        "required": 0
       }
     ]
   },
@@ -3635,17 +4306,20 @@
     "text": "Which form is filed with the Department of Labor that may require an audit attachment?",
     "options": [
       {
-        "text": "Form 1099"
+        "text": "Form 1099",
+        "required": 0
       },
       {
         "text": "Form 5500",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "Form W-2"
+        "text": "Form W-2",
+        "required": 0
       },
       {
-        "text": "Form 940"
+        "text": "Form 940",
+        "required": 0
       }
     ]
   },
@@ -3654,16 +4328,19 @@
     "options": [
       {
         "text": "Investments certified by a qualified institution",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "Administrative expenses"
+        "text": "Administrative expenses",
+        "required": 0
       },
       {
-        "text": "Contributions made by employees"
+        "text": "Contributions made by employees",
+        "required": 0
       },
       {
-        "text": "Plan participant data"
+        "text": "Plan participant data",
+        "required": 0
       }
     ]
   },
@@ -3671,17 +4348,20 @@
     "text": "Which of the following is a common error detected during Employee Benefit Plan audits?",
     "options": [
       {
-        "text": "Overreporting of employee salaries"
+        "text": "Overreporting of employee salaries",
+        "required": 0
       },
       {
         "text": "Incorrect calculation of participant benefits",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "Excessive 401(k) contributions"
+        "text": "Excessive 401(k) contributions",
+        "required": 0
       },
       {
-        "text": "Incomplete Form 1099 filings"
+        "text": "Incomplete Form 1099 filings",
+        "required": 0
       }
     ]
   },
@@ -3690,16 +4370,19 @@
     "options": [
       {
         "text": "To provide records and ensure compliance",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "To audit the plan internally"
+        "text": "To audit the plan internally",
+        "required": 0
       },
       {
-        "text": "To oversee participant eligibility"
+        "text": "To oversee participant eligibility",
+        "required": 0
       },
       {
-        "text": "To invest plan assets"
+        "text": "To invest plan assets",
+        "required": 0
       }
     ]
   },
@@ -3708,16 +4391,19 @@
     "options": [
       {
         "text": "401(k) plans with more than 100 participants",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "Health reimbursement arrangements"
+        "text": "Health reimbursement arrangements",
+        "required": 0
       },
       {
-        "text": "SIMPLE IRAs"
+        "text": "SIMPLE IRAs",
+        "required": 0
       },
       {
-        "text": "Non-qualified deferred compensation plans"
+        "text": "Non-qualified deferred compensation plans",
+        "required": 0
       }
     ]
   },
@@ -3725,16 +4411,20 @@
     "text": "Which organization sets the auditing standards for Employee Benefit Plan audits?",
     "options": [
       {
-        "text": "Internal Revenue Service (IRS)"
+        "text": "Internal Revenue Service (IRS)",
+        "required": 0
       },
       {
-        "text": "Financial Accounting Standards Board (FAS"
+        "text": "Financial Accounting Standards Board (FAS",
+        "required": 0
       },
       {
-        "text": "American Institute of Certified Public Accountants (AICP"
+        "text": "American Institute of Certified Public Accountants (AICP",
+        "required": 0
       },
       {
-        "text": "Securities and Exchange Commission (SE"
+        "text": "Securities and Exchange Commission (SE",
+        "required": 0
       }
     ]
   },
@@ -3742,17 +4432,20 @@
     "text": "What is the most common issue found during audits of employee benefit plans?",
     "options": [
       {
-        "text": "Overstating participant account balances"
+        "text": "Overstating participant account balances",
+        "required": 0
       },
       {
         "text": "Inaccurate reporting of contributions",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "Failing to properly distribute plan benefits"
+        "text": "Failing to properly distribute plan benefits",
+        "required": 0
       },
       {
-        "text": "Lack of participant communications"
+        "text": "Lack of participant communications",
+        "required": 0
       }
     ]
   },
@@ -3760,17 +4453,20 @@
     "text": "What type of audit opinion is issued if there are material misstatements or deficiencies in an Employee Benefit Plan audit?",
     "options": [
       {
-        "text": "Unqualified opinion"
+        "text": "Unqualified opinion",
+        "required": 0
       },
       {
         "text": "Adverse opinion",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "Limited-scope opinion"
+        "text": "Limited-scope opinion",
+        "required": 0
       },
       {
-        "text": "Disclaimer of opinion"
+        "text": "Disclaimer of opinion",
+        "required": 0
       }
     ]
   },
@@ -3779,16 +4475,19 @@
     "options": [
       {
         "text": "Annually",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "Every two years"
+        "text": "Every two years",
+        "required": 0
       },
       {
-        "text": "Every five years"
+        "text": "Every five years",
+        "required": 0
       },
       {
-        "text": "When significant changes are made to the plan"
+        "text": "When significant changes are made to the plan",
+        "required": 0
       }
     ]
   },
@@ -3796,17 +4495,20 @@
     "text": "Who is primarily responsible for the accuracy of Form 5500?",
     "options": [
       {
-        "text": "The auditor"
+        "text": "The auditor",
+        "required": 0
       },
       {
         "text": "The plan administrator",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "The DOL"
+        "text": "The DOL",
+        "required": 0
       },
       {
-        "text": "The plan sponsor"
+        "text": "The plan sponsor",
+        "required": 0
       }
     ]
   },
@@ -3814,17 +4516,20 @@
     "text": "What is a key area of focus in defined contribution plan audits?",
     "options": [
       {
-        "text": "Insurance benefits"
+        "text": "Insurance benefits",
+        "required": 0
       },
       {
         "text": "Participant contributions and account balances",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "Retiree medical benefits"
+        "text": "Retiree medical benefits",
+        "required": 0
       },
       {
-        "text": "Pension obligations"
+        "text": "Pension obligations",
+        "required": 0
       }
     ]
   },
@@ -3832,17 +4537,20 @@
     "text": "What is the penalty for not filing a required audit with Form 5500?",
     "options": [
       {
-        "text": "$100"
+        "text": "$100",
+        "required": 0
       },
       {
-        "text": "$500"
+        "text": "$500",
+        "required": 0
       },
       {
         "text": "Up to $2,500 per day",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "$1,000 annually"
+        "text": "$1,000 annually",
+        "required": 0
       }
     ]
   },
@@ -3851,16 +4559,19 @@
     "options": [
       {
         "text": "Plan financial statements",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "Participant job performance"
+        "text": "Participant job performance",
+        "required": 0
       },
       {
-        "text": "Marketing strategies"
+        "text": "Marketing strategies",
+        "required": 0
       },
       {
-        "text": "Employee satisfaction surveys"
+        "text": "Employee satisfaction surveys",
+        "required": 0
       }
     ]
   },
@@ -3868,17 +4579,20 @@
     "text": "Which type of plan may be subject to excise tax penalties if it fails compliance tests?",
     "options": [
       {
-        "text": "Simple IRA"
+        "text": "Simple IRA",
+        "required": 0
       },
       {
         "text": "401(k) plan",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "Non-qualified deferred compensation"
+        "text": "Non-qualified deferred compensation",
+        "required": 0
       },
       {
-        "text": "Health savings account"
+        "text": "Health savings account",
+        "required": 0
       }
     ]
   },
@@ -3886,17 +4600,20 @@
     "text": "What is the main objective of testing participant data in Employee Benefit Plan audits?",
     "options": [
       {
-        "text": "To evaluate investment performance"
+        "text": "To evaluate investment performance",
+        "required": 0
       },
       {
         "text": "To ensure participant eligibility and contributions are accurate",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "To determine plan profitability"
+        "text": "To determine plan profitability",
+        "required": 0
       },
       {
-        "text": "To track employee satisfaction with the plan"
+        "text": "To track employee satisfaction with the plan",
+        "required": 0
       }
     ]
   },
@@ -3905,16 +4622,19 @@
     "options": [
       {
         "text": "There are minor issues that do not materially affect the plan's financial reporting",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "The plan failed to meet DOL requirements"
+        "text": "The plan failed to meet DOL requirements",
+        "required": 0
       },
       {
-        "text": "The audit was incomplete"
+        "text": "The audit was incomplete",
+        "required": 0
       },
       {
-        "text": "The audit found no issues"
+        "text": "The audit found no issues",
+        "required": 0
       }
     ]
   },
@@ -3922,17 +4642,20 @@
     "text": "What is the impact of a \"limited-scope\" audit?",
     "options": [
       {
-        "text": "The audit covers all plan areas"
+        "text": "The audit covers all plan areas",
+        "required": 0
       },
       {
-        "text": "The plan's investments are audited by the DOL"
+        "text": "The plan's investments are audited by the DOL",
+        "required": 0
       },
       {
         "text": "The auditor is not responsible for auditing certified investment information",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "The audit only covers participant data"
+        "text": "The audit only covers participant data",
+        "required": 0
       }
     ]
   },
@@ -3940,17 +4663,20 @@
     "text": "What is the primary focus of SAS 136?",
     "options": [
       {
-        "text": "Tax audits for small businesses"
+        "text": "Tax audits for small businesses",
+        "required": 0
       },
       {
         "text": "Auditing standards for Employee Benefit Plans",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "Procedures for forensic audits"
+        "text": "Procedures for forensic audits",
+        "required": 0
       },
       {
-        "text": "Internal control assessments for corporations"
+        "text": "Internal control assessments for corporations",
+        "required": 0
       }
     ]
   },
@@ -3958,16 +4684,20 @@
     "text": "Which governing body issued SAS 136?",
     "options": [
       {
-        "text": "Department of Labor (DOL)"
+        "text": "Department of Labor (DOL)",
+        "required": 0
       },
       {
-        "text": "American Institute of Certified Public Accountants (AICP"
+        "text": "American Institute of Certified Public Accountants (AICP",
+        "required": 0
       },
       {
-        "text": "Financial Accounting Standards Board (FAS"
+        "text": "Financial Accounting Standards Board (FAS",
+        "required": 0
       },
       {
-        "text": "Securities and Exchange Commission (SE"
+        "text": "Securities and Exchange Commission (SE",
+        "required": 0
       }
     ]
   },
@@ -3975,17 +4705,20 @@
     "text": "SAS 136 modifies the auditor's report for Employee Benefit Plan audits to explicitly require what?",
     "options": [
       {
-        "text": "Testing of participant contributions"
+        "text": "Testing of participant contributions",
+        "required": 0
       },
       {
         "text": "A statement of the auditor's responsibilities",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "Detailed review of benefit disbursements"
+        "text": "Detailed review of benefit disbursements",
+        "required": 0
       },
       {
-        "text": "A comparison of investment performances"
+        "text": "A comparison of investment performances",
+        "required": 0
       }
     ]
   },
@@ -3994,16 +4727,19 @@
     "options": [
       {
         "text": "Plan management",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "The auditor"
+        "text": "The auditor",
+        "required": 0
       },
       {
-        "text": "The Department of Labor"
+        "text": "The Department of Labor",
+        "required": 0
       },
       {
-        "text": "Plan participants"
+        "text": "Plan participants",
+        "required": 0
       }
     ]
   },
@@ -4011,16 +4747,20 @@
     "text": "What major change does SAS 136 introduce regarding \"limited-scope\" audits?",
     "options": [
       {
-        "text": "Limited-scope audits are eliminated"
+        "text": "Limited-scope audits are eliminated",
+        "required": 0
       },
       {
-        "text": "They are now referred to as \"ERISA Section 103((3)(C) audits\""
+        "text": "They are now referred to as \"ERISA Section 103((3)(C) audits\"",
+        "required": 0
       },
       {
-        "text": "The auditor must review all plan assets"
+        "text": "The auditor must review all plan assets",
+        "required": 0
       },
       {
-        "text": "Limited-scope audits now include participant interviews"
+        "text": "Limited-scope audits now include participant interviews",
+        "required": 0
       }
     ]
   },
@@ -4028,17 +4768,20 @@
     "text": "Under SAS 136, what must the auditor include in the audit report for ERISA Section 103(a)(3)(C) audits?",
     "options": [
       {
-        "text": "A disclaimer of opinion"
+        "text": "A disclaimer of opinion",
+        "required": 0
       },
       {
-        "text": "A qualified opinion"
+        "text": "A qualified opinion",
+        "required": 0
       },
       {
         "text": "A description of the procedures performed on certified investment information",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "A complete review of all participant accounts"
+        "text": "A complete review of all participant accounts",
+        "required": 0
       }
     ]
   },
@@ -4047,16 +4790,19 @@
     "options": [
       {
         "text": "Plan management must acknowledge its responsibility for maintaining plan records",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "Plan management must audit the plan themselves"
+        "text": "Plan management must audit the plan themselves",
+        "required": 0
       },
       {
-        "text": "Plan management must certify participant data"
+        "text": "Plan management must certify participant data",
+        "required": 0
       },
       {
-        "text": "Plan management must submit tax returns along with the audit"
+        "text": "Plan management must submit tax returns along with the audit",
+        "required": 0
       }
     ]
   },
@@ -4064,17 +4810,20 @@
     "text": "SAS 136 requires auditors to assess which of the following for Employee Benefit Plans?",
     "options": [
       {
-        "text": "Investment performance"
+        "text": "Investment performance",
+        "required": 0
       },
       {
-        "text": "Employer match contributions"
+        "text": "Employer match contributions",
+        "required": 0
       },
       {
         "text": "Compliance with plan provisions and ERISA requirements",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "Plan participant satisfaction"
+        "text": "Plan participant satisfaction",
+        "required": 0
       }
     ]
   },
@@ -4082,17 +4831,20 @@
     "text": "Under SAS 136, what is one key area where the auditor must communicate findings to those charged with governance?",
     "options": [
       {
-        "text": "Plan fees"
+        "text": "Plan fees",
+        "required": 0
       },
       {
         "text": "Internal control deficiencies",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "Participant complaints"
+        "text": "Participant complaints",
+        "required": 0
       },
       {
-        "text": "Investment portfolio adjustments"
+        "text": "Investment portfolio adjustments",
+        "required": 0
       }
     ]
   },
@@ -4100,17 +4852,20 @@
     "text": "What is the effective date of SAS 136 for audits of Employee Benefit Plans?",
     "options": [
       {
-        "text": "Periods beginning after December 15, 2019"
+        "text": "Periods beginning after December 15, 2019",
+        "required": 0
       },
       {
         "text": "Periods ending on or after December 15, 2021",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "Periods ending before December 31, 2022"
+        "text": "Periods ending before December 31, 2022",
+        "required": 0
       },
       {
-        "text": "Periods beginning before January 1, 2021"
+        "text": "Periods beginning before January 1, 2021",
+        "required": 0
       }
     ]
   },
@@ -4118,17 +4873,20 @@
     "text": "SAS 136 emphasizes which type of written representation from plan management?",
     "options": [
       {
-        "text": "Employee demographic data"
+        "text": "Employee demographic data",
+        "required": 0
       },
       {
-        "text": "Compliance with health and safety standards"
+        "text": "Compliance with health and safety standards",
+        "required": 0
       },
       {
         "text": "Acknowledgement of responsibility for the plan's financial statements",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "Benefit calculations for participants"
+        "text": "Benefit calculations for participants",
+        "required": 0
       }
     ]
   },
@@ -4137,16 +4895,19 @@
     "options": [
       {
         "text": "Whether the audit complies with ERISA and DOL requirements",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "Whether participant accounts are fully funded"
+        "text": "Whether participant accounts are fully funded",
+        "required": 0
       },
       {
-        "text": "Whether plan participants understand their rights"
+        "text": "Whether plan participants understand their rights",
+        "required": 0
       },
       {
-        "text": "Whether the plan's fees are reasonable"
+        "text": "Whether the plan's fees are reasonable",
+        "required": 0
       }
     ]
   },
@@ -4154,17 +4915,20 @@
     "text": "SAS 136 requires the auditor to gain an understanding of which element of the Employee Benefit Plan?",
     "options": [
       {
-        "text": "The investment strategies"
+        "text": "The investment strategies",
+        "required": 0
       },
       {
         "text": "The plan's internal control structure",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "The number of participants"
+        "text": "The number of participants",
+        "required": 0
       },
       {
-        "text": "The employer's financial condition"
+        "text": "The employer's financial condition",
+        "required": 0
       }
     ]
   },
@@ -4173,16 +4937,19 @@
     "options": [
       {
         "text": "Significant risks identified during the audit",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "Projected participant contributions"
+        "text": "Projected participant contributions",
+        "required": 0
       },
       {
-        "text": "Retirement age of all participants"
+        "text": "Retirement age of all participants",
+        "required": 0
       },
       {
-        "text": "Expected rate of return on plan assets"
+        "text": "Expected rate of return on plan assets",
+        "required": 0
       }
     ]
   },
@@ -4190,17 +4957,20 @@
     "text": "What specific documentation must auditors obtain from plan management under SAS 136?",
     "options": [
       {
-        "text": "Historical investment returns"
+        "text": "Historical investment returns",
+        "required": 0
       },
       {
         "text": "A management representation letter",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "Participant feedback surveys"
+        "text": "Participant feedback surveys",
+        "required": 0
       },
       {
-        "text": "Health and safety reports"
+        "text": "Health and safety reports",
+        "required": 0
       }
     ]
   },
@@ -4209,16 +4979,19 @@
     "options": [
       {
         "text": "It mandates increased communication of audit findings and deficiencies",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "It reduces the communication burden"
+        "text": "It reduces the communication burden",
+        "required": 0
       },
       {
-        "text": "It eliminates the need for management letters"
+        "text": "It eliminates the need for management letters",
+        "required": 0
       },
       {
-        "text": "It limits the auditor's responsibility to financial findings only"
+        "text": "It limits the auditor's responsibility to financial findings only",
+        "required": 0
       }
     ]
   },
@@ -4227,16 +5000,19 @@
     "options": [
       {
         "text": "A description of the audit scope and any limitations",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "A complete audit of all non-certified assets"
+        "text": "A complete audit of all non-certified assets",
+        "required": 0
       },
       {
-        "text": "Testing of 100% of participant transactions"
+        "text": "Testing of 100% of participant transactions",
+        "required": 0
       },
       {
-        "text": "A formal management interview process"
+        "text": "A formal management interview process",
+        "required": 0
       }
     ]
   },
@@ -4244,17 +5020,20 @@
     "text": "What must an auditor evaluate in relation to participant transactions under SAS 136?",
     "options": [
       {
-        "text": "The timing of benefit payouts"
+        "text": "The timing of benefit payouts",
+        "required": 0
       },
       {
-        "text": "The number of loans taken by participants"
+        "text": "The number of loans taken by participants",
+        "required": 0
       },
       {
         "text": "Whether participant transactions comply with plan terms",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "Whether all participants received equal benefits"
+        "text": "Whether all participants received equal benefits",
+        "required": 0
       }
     ]
   },
@@ -4263,16 +5042,19 @@
     "options": [
       {
         "text": "To evaluate whether the plan complies with ERISA and regulatory requirements",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "To ensure plan participants receive timely benefits"
+        "text": "To ensure plan participants receive timely benefits",
+        "required": 0
       },
       {
-        "text": "To recommend changes to plan investments"
+        "text": "To recommend changes to plan investments",
+        "required": 0
       },
       {
-        "text": "To verify the plan's tax-exempt status"
+        "text": "To verify the plan's tax-exempt status",
+        "required": 0
       }
     ]
   },
@@ -4280,17 +5062,20 @@
     "text": "Under SAS 136, the auditor must obtain an understanding of which aspect of the Employee Benefit Plan's operations?",
     "options": [
       {
-        "text": "The employer's financial performance"
+        "text": "The employer's financial performance",
+        "required": 0
       },
       {
-        "text": "Plan participants' satisfaction with the plan"
+        "text": "Plan participants' satisfaction with the plan",
+        "required": 0
       },
       {
         "text": "The plan's eligibility and contribution requirements",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "The employer's pension obligation"
+        "text": "The employer's pension obligation",
+        "required": 0
       }
     ]
   },
@@ -4298,17 +5083,20 @@
     "text": "What is the key objective of SAS 134?",
     "options": [
       {
-        "text": "To eliminate auditor's responsibility for going concern"
+        "text": "To eliminate auditor's responsibility for going concern",
+        "required": 0
       },
       {
         "text": "To improve the transparency and clarity of the auditor's report",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "To limit auditor's liability in the event of financial misstatements"
+        "text": "To limit auditor's liability in the event of financial misstatements",
+        "required": 0
       },
       {
-        "text": "To merge financial and compliance audits"
+        "text": "To merge financial and compliance audits",
+        "required": 0
       }
     ]
   },
@@ -4317,16 +5105,19 @@
     "options": [
       {
         "text": "At the beginning of the report",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "At the end of the report"
+        "text": "At the end of the report",
+        "required": 0
       },
       {
-        "text": "In the middle after the scope paragraph"
+        "text": "In the middle after the scope paragraph",
+        "required": 0
       },
       {
-        "text": "Before the management responsibilities"
+        "text": "Before the management responsibilities",
+        "required": 0
       }
     ]
   },
@@ -4334,17 +5125,20 @@
     "text": "What significant change regarding \"going concern\" was introduced in SAS 134?",
     "options": [
       {
-        "text": "Removal of auditor's responsibility for going concern"
+        "text": "Removal of auditor's responsibility for going concern",
+        "required": 0
       },
       {
         "text": "Clarification of the auditor's responsibility for evaluating going concern",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "Requirement for an audit client to certify its financial stability"
+        "text": "Requirement for an audit client to certify its financial stability",
+        "required": 0
       },
       {
-        "text": "Adding a new section for material weaknesses"
+        "text": "Adding a new section for material weaknesses",
+        "required": 0
       }
     ]
   },
@@ -4352,17 +5146,20 @@
     "text": "Under SAS 134, what key area of responsibility is explicitly detailed for management in the audit report?",
     "options": [
       {
-        "text": "Financial statement preparation only"
+        "text": "Financial statement preparation only",
+        "required": 0
       },
       {
         "text": "Financial statement preparation and internal control",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "External audit procedures"
+        "text": "External audit procedures",
+        "required": 0
       },
       {
-        "text": "Legal compliance"
+        "text": "Legal compliance",
+        "required": 0
       }
     ]
   },
@@ -4371,16 +5168,19 @@
     "options": [
       {
         "text": "Basis for Opinion section",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "Compliance with regulations section"
+        "text": "Compliance with regulations section",
+        "required": 0
       },
       {
-        "text": "Significant Audit Findings section"
+        "text": "Significant Audit Findings section",
+        "required": 0
       },
       {
-        "text": "Materiality Discussion section"
+        "text": "Materiality Discussion section",
+        "required": 0
       }
     ]
   },
@@ -4388,17 +5188,20 @@
     "text": "What is the auditor's responsibility regarding disclosures under SAS 134?",
     "options": [
       {
-        "text": "Ensure the disclosure of proprietary information"
+        "text": "Ensure the disclosure of proprietary information",
+        "required": 0
       },
       {
         "text": "Evaluate whether disclosures are reasonable and clear",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "Recommend additional disclosures"
+        "text": "Recommend additional disclosures",
+        "required": 0
       },
       {
-        "text": "Prepare all required disclosures"
+        "text": "Prepare all required disclosures",
+        "required": 0
       }
     ]
   },
@@ -4407,16 +5210,19 @@
     "options": [
       {
         "text": "Basis for Opinion section",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "Auditor Responsibilities section"
+        "text": "Auditor Responsibilities section",
+        "required": 0
       },
       {
-        "text": "Scope of Audit section"
+        "text": "Scope of Audit section",
+        "required": 0
       },
       {
-        "text": "Management Representation section"
+        "text": "Management Representation section",
+        "required": 0
       }
     ]
   },
@@ -4424,17 +5230,20 @@
     "text": "What type of audit opinion is required if there are material misstatements in financial disclosures?",
     "options": [
       {
-        "text": "Adverse opinion"
+        "text": "Adverse opinion",
+        "required": 0
       },
       {
-        "text": "Disclaimer of opinion"
+        "text": "Disclaimer of opinion",
+        "required": 0
       },
       {
         "text": "Qualified or adverse opinion",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "Unqualified opinion"
+        "text": "Unqualified opinion",
+        "required": 0
       }
     ]
   },
@@ -4442,17 +5251,20 @@
     "text": "Which two key areas does SAS 135 amend from earlier standards?",
     "options": [
       {
-        "text": "Asset valuation and related-party transactions"
+        "text": "Asset valuation and related-party transactions",
+        "required": 0
       },
       {
         "text": "Communication with those charged with governance and related-party transactions",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "Auditor's legal liability and materiality"
+        "text": "Auditor's legal liability and materiality",
+        "required": 0
       },
       {
-        "text": "Documentation of the audit process and client contracts"
+        "text": "Documentation of the audit process and client contracts",
+        "required": 0
       }
     ]
   },
@@ -4460,17 +5272,20 @@
     "text": "Under SAS 135, what is the primary auditor responsibility regarding related-party transactions?",
     "options": [
       {
-        "text": "Ensure the legality of related-party transactions"
+        "text": "Ensure the legality of related-party transactions",
+        "required": 0
       },
       {
         "text": "Evaluate the financial impact of related-party transactions",
-        "isCorrect": true
+        "required": 1
       },
       {
-        "text": "Remove related-party transactions from financial statements"
+        "text": "Remove related-party transactions from financial statements",
+        "required": 0
       },
       {
-        "text": "Disclose all related-party transactions to the SEC"
+        "text": "Disclose all related-party transactions to the SEC",
+        "required": 0
       }
     ]
   }
