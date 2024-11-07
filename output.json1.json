@@ -1,0 +1,4477 @@
+[
+  {
+    "text": "What is the primary objective of an audit?",
+    "options": [
+      {
+        "text": "To prepare tax returns"
+      },
+      {
+        "text": "To express an opinion on financial statements"
+      },
+      {
+        "text": "To evaluate employee performance"
+      },
+      {
+        "text": "To set budgetary goals"
+      },
+      {
+        "text": "Correct Answer: To express an opinion on financial statements",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "text": "Which of the following distinguishes an internal audit from an external audit?",
+    "options": [
+      {
+        "text": "Internal audits are always more thorough."
+      },
+      {
+        "text": "Internal audits are conducted by external firms."
+      },
+      {
+        "text": "Internal audits focus on operational efficiency and compliance."
+      },
+      {
+        "text": "Internal audits do not require documentation."
+      },
+      {
+        "text": "Correct Answer: Internal audits focus on operational efficiency and compliance.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "text": "What is the purpose of a risk assessment in an audit?",
+    "options": [
+      {
+        "text": "To prepare financial statements"
+      },
+      {
+        "text": "To identify and evaluate risks of material misstatement"
+      },
+      {
+        "text": "To manage cash flow"
+      },
+      {
+        "text": "To calculate tax liabilities"
+      },
+      {
+        "text": "Correct Answer: To identify and evaluate risks of material misstatement",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "text": "What is the significance of materiality in an audit?",
+    "options": [
+      {
+        "text": "It determines the budget for the audit."
+      },
+      {
+        "text": "It identifies which transactions to audit."
+      },
+      {
+        "text": "It establishes the threshold for errors that affect financial statements."
+      },
+      {
+        "text": "It sets deadlines for audit completion."
+      },
+      {
+        "text": "Correct Answer: It establishes the threshold for errors that affect financial statements.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "text": "Which of the following is NOT a method for gathering audit evidence?",
+    "options": [
+      {
+        "text": "Inspection"
+      },
+      {
+        "text": "Observation"
+      },
+      {
+        "text": "Supposition"
+      },
+      {
+        "text": "Inquiry"
+      },
+      {
+        "text": "Correct Answer: Supposition",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "text": "What is a management representation letter?",
+    "options": [
+      {
+        "text": "A document that outlines the audit scope"
+      },
+      {
+        "text": "A letter from management confirming the accuracy of financial statements"
+      },
+      {
+        "text": "A letter from auditors to management regarding findings"
+      },
+      {
+        "text": "A letter to stakeholders summarizing audit results"
+      },
+      {
+        "text": "Correct Answer: A letter from management confirming the accuracy of financial statements",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "text": "How do auditors assess the effectiveness of internal controls?",
+    "options": [
+      {
+        "text": "By reviewing financial statements only"
+      },
+      {
+        "text": "By conducting tests of controls"
+      },
+      {
+        "text": "By interviewing employees exclusively"
+      },
+      {
+        "text": "By analyzing market trends"
+      },
+      {
+        "text": "Correct Answer: By conducting tests of controls",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "text": "What are substantive procedures in an audit?",
+    "options": [
+      {
+        "text": "Procedures that test the effectiveness of internal controls"
+      },
+      {
+        "text": "Procedures that gather direct evidence about financial statement assertions"
+      },
+      {
+        "text": "Procedures used for planning the audit"
+      },
+      {
+        "text": "Procedures that determine the auditor's independence"
+      },
+      {
+        "text": "Correct Answer: Procedures that gather direct evidence about financial statement assertions",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "text": "What is the purpose of analytical procedures during an audit?",
+    "options": [
+      {
+        "text": "To physically count inventory"
+      },
+      {
+        "text": "To evaluate financial information by studying relationships"
+      },
+      {
+        "text": "To prepare tax returns"
+      },
+      {
+        "text": "To manage cash flow"
+      },
+      {
+        "text": "Correct Answer: To evaluate financial information by studying relationships",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "text": "How is the auditor's report structured?",
+    "options": [
+      {
+        "text": "Introduction, findings, conclusions"
+      },
+      {
+        "text": "Opinion, basis for opinion, and key audit matters"
+      },
+      {
+        "text": "Findings, recommendations, summary"
+      },
+      {
+        "text": "Introduction, financial statements, summary"
+      },
+      {
+        "text": "Correct Answer: Opinion, basis for opinion, and key audit matters",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "text": "Which of the following is a key responsibility of the external auditor?",
+    "options": [
+      {
+        "text": "Making managerial decisions"
+      },
+      {
+        "text": "Ensuring the financial statements are accurate"
+      },
+      {
+        "text": "Providing an independent opinion on the financial statements",
+        "isCorrect": true
+      },
+      {
+        "text": "Preparing the company's financial statements"
+      }
+    ]
+  },
+  {
+    "text": "What is a key audit matter (KAM)?",
+    "options": [
+      {
+        "text": "A routine audit observation"
+      },
+      {
+        "text": "An area of the audit that was of most significance to the auditor",
+        "isCorrect": true
+      },
+      {
+        "text": "An item listed on the balance sheet"
+      },
+      {
+        "text": "An unresolved issue in the financial statements"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following describes audit evidence that is both relevant and reliable?",
+    "options": [
+      {
+        "text": "Evidence that is easily obtained"
+      },
+      {
+        "text": "Evidence that directly supports audit conclusions",
+        "isCorrect": true
+      },
+      {
+        "text": "Evidence from a third-party expert"
+      },
+      {
+        "text": "Evidence generated internally without any verification"
+      }
+    ]
+  },
+  {
+    "text": "How do auditors typically respond to identified audit risks?",
+    "options": [
+      {
+        "text": "By reducing the scope of the audit"
+      },
+      {
+        "text": "By designing appropriate audit procedures to address the risks",
+        "isCorrect": true
+      },
+      {
+        "text": "By extending the deadline for the audit"
+      },
+      {
+        "text": "By ignoring immaterial risks"
+      }
+    ]
+  },
+  {
+    "text": "What is an auditor's primary concern when auditing revenue transactions?",
+    "options": [
+      {
+        "text": "That revenue is recorded before cash is received"
+      },
+      {
+        "text": "That revenue is recognized in accordance with applicable accounting standards",
+        "isCorrect": true
+      },
+      {
+        "text": "That revenue is recognized only after payment is received"
+      },
+      {
+        "text": "That revenue is not recorded in the income statement"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following is a form of audit risk?",
+    "options": [
+      {
+        "text": "Financial risk"
+      },
+      {
+        "text": "Detection risk",
+        "isCorrect": true
+      },
+      {
+        "text": "Management risk"
+      },
+      {
+        "text": "Performance risk"
+      }
+    ]
+  },
+  {
+    "text": "What is audit sampling?",
+    "options": [
+      {
+        "text": "Testing the entire population of transactions"
+      },
+      {
+        "text": "Selecting a representative sample of transactions to audit",
+        "isCorrect": true
+      },
+      {
+        "text": "Testing only the smallest transactions"
+      },
+      {
+        "text": "Randomly auditing one transaction from each department"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following is an inherent limitation of an audit?",
+    "options": [
+      {
+        "text": "Auditors are required to detect every fraud"
+      },
+      {
+        "text": "Auditors can only audit transactions above a certain value"
+      },
+      {
+        "text": "Auditors may not detect all material misstatements due to limitations in internal controls and fraud concealment",
+        "isCorrect": true
+      },
+      {
+        "text": "Auditors must rely on management's judgment for audit opinions"
+      }
+    ]
+  },
+  {
+    "text": "What is the role of a working paper in an audit?",
+    "options": [
+      {
+        "text": "To present the company's financial position"
+      },
+      {
+        "text": "To document the audit procedures and evidence gathered",
+        "isCorrect": true
+      },
+      {
+        "text": "To communicate audit findings to the board"
+      },
+      {
+        "text": "To inform external stakeholders about the audit process"
+      }
+    ]
+  },
+  {
+    "text": "What is an audit assertion?",
+    "options": [
+      {
+        "text": "A client's statement about the purpose of the audit"
+      },
+      {
+        "text": "A representation made by management regarding the financial statements",
+        "isCorrect": true
+      },
+      {
+        "text": "An auditor's opinion about financial misstatements"
+      },
+      {
+        "text": "An independent assessment of the company's risks"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following is a type of substantive audit procedure?",
+    "options": [
+      {
+        "text": "Testing controls"
+      },
+      {
+        "text": "Performing a walkthrough of the client's operations"
+      },
+      {
+        "text": "Confirming account balances with third parties",
+        "isCorrect": true
+      },
+      {
+        "text": "Identifying audit risks"
+      }
+    ]
+  },
+  {
+    "text": "What is the purpose of vouching in an audit?",
+    "options": [
+      {
+        "text": "To ensure compliance with tax laws"
+      },
+      {
+        "text": "To verify the existence of transactions by checking source documents",
+        "isCorrect": true
+      },
+      {
+        "text": "To validate management's assumptions"
+      },
+      {
+        "text": "To calculate variances in the financial statements"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following is considered a limitation of internal controls?",
+    "options": [
+      {
+        "text": "They are designed by external auditors"
+      },
+      {
+        "text": "They can be overridden by management",
+        "isCorrect": true
+      },
+      {
+        "text": "They always detect fraud"
+      },
+      {
+        "text": "They prevent all errors in financial statements"
+      }
+    ]
+  },
+  {
+    "text": "What is the purpose of a review engagement?",
+    "options": [
+      {
+        "text": "To provide an absolute assurance on financial statements"
+      },
+      {
+        "text": "To provide limited assurance that no material modifications are needed",
+        "isCorrect": true
+      },
+      {
+        "text": "To detect fraud and errors in financial reporting"
+      },
+      {
+        "text": "To prepare financial statements for tax purposes"
+      }
+    ]
+  },
+  {
+    "text": "How should an auditor handle a situation where fraud is detected during an audit?",
+    "options": [
+      {
+        "text": "Ignore the fraud if it is immaterial"
+      },
+      {
+        "text": "Report it to management and those charged with governance",
+        "isCorrect": true
+      },
+      {
+        "text": "Continue the audit without reporting"
+      },
+      {
+        "text": "Modify the financial statements directly"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following procedures would an auditor most likely perform when reviewing the client's accounts payable?",
+    "options": [
+      {
+        "text": "Confirmation with the bank"
+      },
+      {
+        "text": "Confirming unpaid invoices with suppliers",
+        "isCorrect": true
+      },
+      {
+        "text": "Reviewing payroll records"
+      },
+      {
+        "text": "Evaluating marketing expenses"
+      }
+    ]
+  },
+  {
+    "text": "What is the auditor's responsibility with regard to subsequent events?",
+    "options": [
+      {
+        "text": "To ignore all events after the balance sheet date"
+      },
+      {
+        "text": "To evaluate events that may affect the financial statements or the auditor's report",
+        "isCorrect": true
+      },
+      {
+        "text": "To prepare future forecasts based on subsequent events"
+      },
+      {
+        "text": "To update the financial statements after the audit report is issued"
+      }
+    ]
+  },
+  {
+    "text": "What is a walkthrough in an audit context?",
+    "options": [
+      {
+        "text": "A physical inspection of the client's facilities"
+      },
+      {
+        "text": "A step-by-step review of a transaction from initiation to completion to assess internal controls",
+        "isCorrect": true
+      },
+      {
+        "text": "A preliminary meeting with management"
+      },
+      {
+        "text": "A final review of the financial statements before issuing the audit report"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following best describes the concept of audit independence?",
+    "options": [
+      {
+        "text": "Auditors must be free from bias and cannot have any financial interest in the client",
+        "isCorrect": true
+      },
+      {
+        "text": "Auditors can offer consulting services to their audit clients"
+      },
+      {
+        "text": "Auditors should only work for clients they have personal relationships with"
+      },
+      {
+        "text": "Auditors must follow management's instructions during the audit"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following is a key component of audit planning?",
+    "options": [
+      {
+        "text": "Issuing the audit opinion"
+      },
+      {
+        "text": "Setting the audit fees"
+      },
+      {
+        "text": "Assessing the risks of material misstatement",
+        "isCorrect": true
+      },
+      {
+        "text": "Reviewing the audit report with management"
+      }
+    ]
+  },
+  {
+    "text": "What is an auditor's responsibility regarding related party transactions?",
+    "options": [
+      {
+        "text": "To identify, assess, and evaluate whether they are disclosed and conducted at arm's length",
+        "isCorrect": true
+      },
+      {
+        "text": "To ignore them unless requested by management"
+      },
+      {
+        "text": "To provide legal advice on such transactions"
+      },
+      {
+        "text": "To treat them as standard business transactions"
+      }
+    ]
+  },
+  {
+    "text": "What is the significance of audit documentation?",
+    "options": [
+      {
+        "text": "It is only required for tax audits"
+      },
+      {
+        "text": "It serves as evidence of the auditor's work and supports audit conclusions",
+        "isCorrect": true
+      },
+      {
+        "text": "It is prepared solely for the client's internal use"
+      },
+      {
+        "text": "It is optional for external auditors"
+      }
+    ]
+  },
+  {
+    "text": "How can an auditor ensure the reliability of audit evidence?",
+    "options": [
+      {
+        "text": "By only using evidence provided by management"
+      },
+      {
+        "text": "By gathering evidence from multiple independent sources",
+        "isCorrect": true
+      },
+      {
+        "text": "By conducting the audit remotely"
+      },
+      {
+        "text": "By relying solely on electronic records"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following is NOT typically part of an audit engagement letter?",
+    "options": [
+      {
+        "text": "The objective and scope of the audit"
+      },
+      {
+        "text": "The responsibilities of management"
+      },
+      {
+        "text": "The auditor's opinion on financial statements",
+        "isCorrect": true
+      },
+      {
+        "text": "The auditor's responsibilities"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following is a limitation of analytical procedures in an audit?",
+    "options": [
+      {
+        "text": "They do not provide insights into significant variances"
+      },
+      {
+        "text": "They cannot be used in all areas of the audit"
+      },
+      {
+        "text": "They rely on the auditor's professional judgment, which can lead to errors",
+        "isCorrect": true
+      },
+      {
+        "text": "They require a significant amount of transaction testing"
+      }
+    ]
+  },
+  {
+    "text": "What is the primary purpose of performing an analytical review in an audit?",
+    "options": [
+      {
+        "text": "To assess management's performance"
+      },
+      {
+        "text": "To evaluate the accuracy of the financial statements"
+      },
+      {
+        "text": "To identify areas of risk and unusual trends",
+        "isCorrect": true
+      },
+      {
+        "text": "To confirm the existence of inventory"
+      }
+    ]
+  },
+  {
+    "text": "What is the primary purpose of performing an analytical review in an audit?",
+    "options": [
+      {
+        "text": "To assess management's performance"
+      },
+      {
+        "text": "To evaluate the accuracy of the financial statements"
+      },
+      {
+        "text": "To identify areas of risk and unusual trends"
+      },
+      {
+        "text": "To confirm the existence of inventory"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following is an example of an analytical procedure?",
+    "options": [
+      {
+        "text": "Physical inspection of assets"
+      },
+      {
+        "text": "Ratio analysis of financial data"
+      },
+      {
+        "text": "Confirming receivables with customers"
+      },
+      {
+        "text": "Testing internal controls"
+      }
+    ]
+  },
+  {
+    "text": "In an analytical review, what is the comparison of financial statement data to industry averages intended to achieve?",
+    "options": [
+      {
+        "text": "Determine if the company is in compliance with tax regulations"
+      },
+      {
+        "text": "Identify unusual variances or trends that warrant further investigation"
+      },
+      {
+        "text": "Ensure that the company is profitable"
+      },
+      {
+        "text": "Verify the accuracy of inventory counts"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following is an advantage of using analytical procedures in an audit?",
+    "options": [
+      {
+        "text": "They provide direct evidence of a company's financial position"
+      },
+      {
+        "text": "They help reduce the need for detailed substantive testing"
+      },
+      {
+        "text": "They guarantee the accuracy of financial statements"
+      },
+      {
+        "text": "They can replace audit sampling"
+      }
+    ]
+  },
+  {
+    "text": "Which financial statement ratio is commonly used in analytical review to assess a company's liquidity?",
+    "options": [
+      {
+        "text": "Profit margin"
+      },
+      {
+        "text": "Debt-to-equity ratio"
+      },
+      {
+        "text": "Current ratio"
+      },
+      {
+        "text": "Return on equity"
+      }
+    ]
+  },
+  {
+    "text": "When performing analytical procedures, auditors compare financial statement data to:",
+    "options": [
+      {
+        "text": "Other audits performed during the year"
+      },
+      {
+        "text": "Historical data, industry data, or expected outcomes"
+      },
+      {
+        "text": "The client's budget for the upcoming year"
+      },
+      {
+        "text": "Benchmark data from other audit firms"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following is most likely to be identified through an analytical review?",
+    "options": [
+      {
+        "text": "Misclassification of expenses"
+      },
+      {
+        "text": "Fraudulent transactions in cash disbursements"
+      },
+      {
+        "text": "Duplicate payment to a vendor"
+      },
+      {
+        "text": "Overstated inventory levels"
+      }
+    ]
+  },
+  {
+    "text": "What is the auditor's primary goal when using analytical procedures at the planning stage of an audit?",
+    "options": [
+      {
+        "text": "To form a basis for the audit opinion"
+      },
+      {
+        "text": "To gather direct evidence of misstatements"
+      },
+      {
+        "text": "To assess the risk of material misstatement"
+      },
+      {
+        "text": "To calculate the audit fees"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following is a common analytical procedure for testing revenue?",
+    "options": [
+      {
+        "text": "Comparing revenue growth rates with industry averages"
+      },
+      {
+        "text": "Physically inspecting sales records"
+      },
+      {
+        "text": "Confirming outstanding balances with customers"
+      },
+      {
+        "text": "Reviewing contracts with suppliers"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following is NOT a typical source of information for performing analytical procedures?",
+    "options": [
+      {
+        "text": "Internal company reports"
+      },
+      {
+        "text": "External confirmation letters"
+      },
+      {
+        "text": "Industry benchmarks"
+      },
+      {
+        "text": "Historical financial data"
+      }
+    ]
+  },
+  {
+    "text": "What is the primary limitation of using analytical procedures?",
+    "options": [
+      {
+        "text": "They are costly to perform"
+      },
+      {
+        "text": "They provide indirect evidence of misstatements"
+      },
+      {
+        "text": "They require extensive documentation"
+      },
+      {
+        "text": "They are not suitable for all audit engagements"
+      }
+    ]
+  },
+  {
+    "text": "How can auditors improve the reliability of analytical procedures?",
+    "options": [
+      {
+        "text": "By using more complex financial models"
+      },
+      {
+        "text": "By relying solely on historical data"
+      },
+      {
+        "text": "By supplementing them with other audit procedures, such as tests of details"
+      },
+      {
+        "text": "By ignoring management's assumptions"
+      }
+    ]
+  },
+  {
+    "text": "When using analytical procedures in substantive testing, auditors must:",
+    "options": [
+      {
+        "text": "Document the reasons for any unexpected variances identified"
+      },
+      {
+        "text": "Disregard differences that fall below the materiality threshold"
+      },
+      {
+        "text": "Use only current-year financial data"
+      },
+      {
+        "text": "Focus on transactions with related parties"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following is a qualitative analytical procedure used in audits?",
+    "options": [
+      {
+        "text": "Review of major contracts"
+      },
+      {
+        "text": "Assessment of the tone at the top and ethical culture"
+      },
+      {
+        "text": "Calculation of profitability ratios"
+      },
+      {
+        "text": "Comparison of expense trends over time"
+      }
+    ]
+  },
+  {
+    "text": "When should an auditor apply analytical procedures in the audit process?",
+    "options": [
+      {
+        "text": "Only at the planning stage"
+      },
+      {
+        "text": "At the planning, substantive, and final review stages"
+      },
+      {
+        "text": "Only during substantive testing"
+      },
+      {
+        "text": "Only when testing internal controls"
+      }
+    ]
+  },
+  {
+    "text": "An unexpected increase in gross profit margin in comparison to the prior year may suggest:",
+    "options": [
+      {
+        "text": "Understatement of revenue"
+      },
+      {
+        "text": "Overstatement of expenses"
+      },
+      {
+        "text": "Understatement of cost of goods sold"
+      },
+      {
+        "text": "Overstatement of liabilities"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following describes a common method used in analytical procedures for comparing financial data?",
+    "options": [
+      {
+        "text": "External confirmation of balances"
+      },
+      {
+        "text": "Trend analysis"
+      },
+      {
+        "text": "Internal audit reports"
+      },
+      {
+        "text": "Interviewing senior management"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following is NOT typically used as a basis for comparison in analytical procedures?",
+    "options": [
+      {
+        "text": "Prior-period data"
+      },
+      {
+        "text": "Financial information of comparable companies"
+      },
+      {
+        "text": "Current-period budgeted data"
+      },
+      {
+        "text": "Client's bank statements"
+      }
+    ]
+  },
+  {
+    "text": "In an audit, the results of analytical procedures can be used to:",
+    "options": [
+      {
+        "text": "Modify the nature, timing, or extent of substantive audit procedures"
+      },
+      {
+        "text": "Determine whether to issue a disclaimer of opinion"
+      },
+      {
+        "text": "Eliminate the need for further audit testing"
+      },
+      {
+        "text": "Replace all substantive audit tests"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following is an example of a ratio used in analytical procedures to assess a company's profitability?",
+    "options": [
+      {
+        "text": "Quick ratio"
+      },
+      {
+        "text": "Debt-to-equity ratio"
+      },
+      {
+        "text": "Gross profit margin"
+      },
+      {
+        "text": "Current ratio"
+      }
+    ]
+  },
+  {
+    "text": "What is the primary objective of audit planning?",
+    "options": [
+      {
+        "text": "To issue an audit report"
+      },
+      {
+        "text": "To develop an overall audit strategy and plan specific audit procedures"
+      },
+      {
+        "text": "To confirm the accuracy of financial statements"
+      },
+      {
+        "text": "To provide legal advice to the client"
+      }
+    ]
+  },
+  {
+    "text": "In audit planning, determining materiality helps auditors to:",
+    "options": [
+      {
+        "text": "Identify fraudulent transactions"
+      },
+      {
+        "text": "Focus on the most significant areas of the audit"
+      },
+      {
+        "text": "Confirm every transaction in the financial statements"
+      },
+      {
+        "text": "Test internal controls"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following factors should be considered when determining materiality during audit planning?",
+    "options": [
+      {
+        "text": "The legal structure of the company"
+      },
+      {
+        "text": "The auditor's experience with the client"
+      },
+      {
+        "text": "The company's industry and regulatory environment"
+      },
+      {
+        "text": "The accounting software used by the client"
+      }
+    ]
+  },
+  {
+    "text": "Audit risk is the risk that:",
+    "options": [
+      {
+        "text": "The client will not cooperate with the auditor"
+      },
+      {
+        "text": "The auditor will fail to detect a material misstatement"
+      },
+      {
+        "text": "The client's financial statements are not prepared on time"
+      },
+      {
+        "text": "The auditor will complete the audit within the deadline"
+      }
+    ]
+  },
+  {
+    "text": "What is the purpose of an engagement letter in an audit?",
+    "options": [
+      {
+        "text": "To provide the audit report to management"
+      },
+      {
+        "text": "To formalize the terms of the audit engagement"
+      },
+      {
+        "text": "To summarize the auditor's findings"
+      },
+      {
+        "text": "To inform the client about audit risks"
+      }
+    ]
+  },
+  {
+    "text": "During the planning stage, auditors typically assess which type of risks?",
+    "options": [
+      {
+        "text": "Internal and external audit risks"
+      },
+      {
+        "text": "Inherent, control, and detection risks"
+      },
+      {
+        "text": "Financial and operational risks"
+      },
+      {
+        "text": "Market and business risks"
+      }
+    ]
+  },
+  {
+    "text": "The assessment of a client's internal control system is important during audit planning because it helps the auditor to:",
+    "options": [
+      {
+        "text": "Determine whether the client is financially stable"
+      },
+      {
+        "text": "Decide whether to rely on the internal controls for audit evidence"
+      },
+      {
+        "text": "Verify all transactions in the financial statements"
+      },
+      {
+        "text": "Ensure that the audit is completed within budget"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following is typically included in an audit plan?",
+    "options": [
+      {
+        "text": "Audit procedures to be performed in specific areas"
+      },
+      {
+        "text": "The client's budget for the upcoming year"
+      },
+      {
+        "text": "Tax planning strategies for the client"
+      },
+      {
+        "text": "The company's profit forecasts"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following should an auditor do before beginning detailed audit procedures?",
+    "options": [
+      {
+        "text": "Review the previous year's audit report"
+      },
+      {
+        "text": "Test the company's entire internal control system"
+      },
+      {
+        "text": "Establish an overall audit strategy and plan specific audit tests"
+      },
+      {
+        "text": "Obtain management's representations on all financial data"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following is NOT a factor that affects audit risk?",
+    "options": [
+      {
+        "text": "The company's internal controls"
+      },
+      {
+        "text": "The auditor's experience with the client"
+      },
+      {
+        "text": "The size of the company's financial transactions"
+      },
+      {
+        "text": "The company's regulatory environment"
+      }
+    ]
+  },
+  {
+    "text": "Effective communication with the client during an audit is important because it:",
+    "options": [
+      {
+        "text": "Provides the client with financial advice"
+      },
+      {
+        "text": "Reduces the risk of misunderstandings"
+      },
+      {
+        "text": "Allows the client to control the scope of the audit"
+      },
+      {
+        "text": "Ensures the auditor can share confidential information"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following is typically included in a management letter?",
+    "options": [
+      {
+        "text": "A summary of the audit findings and recommendations for improvement"
+      },
+      {
+        "text": "The auditor's opinion on the financial statements"
+      },
+      {
+        "text": "The client's tax planning strategies"
+      },
+      {
+        "text": "The final audit report for the board of directors"
+      }
+    ]
+  },
+  {
+    "text": "During the audit, what type of communication is required between the auditor and those charged with governance?",
+    "options": [
+      {
+        "text": "Monthly updates on audit procedures"
+      },
+      {
+        "text": "Significant audit findings, including issues related to internal controls"
+      },
+      {
+        "text": "Weekly emails on audit progress"
+      },
+      {
+        "text": "Final audit report only"
+      }
+    ]
+  },
+  {
+    "text": "How can an auditor best ensure that management understands the audit process and its outcomes?",
+    "options": [
+      {
+        "text": "By discussing the audit plan and significant findings throughout the audit"
+      },
+      {
+        "text": "By issuing the audit report as quickly as possible"
+      },
+      {
+        "text": "By allowing management to review all work papers"
+      },
+      {
+        "text": "By providing a detailed explanation of materiality and audit risk"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following is a key benefit of ongoing communication with the client during the audit?",
+    "options": [
+      {
+        "text": "It allows the auditor to obtain legal advice from the client"
+      },
+      {
+        "text": "It helps the auditor to identify areas where the client needs financial assistance"
+      },
+      {
+        "text": "It enhances the auditor's understanding of the client's business"
+      },
+      {
+        "text": "It reduces the scope of the audit procedures required"
+      }
+    ]
+  },
+  {
+    "text": "The auditor is required to communicate what kind of matters to those charged with governance?",
+    "options": [
+      {
+        "text": "Legal matters regarding the company's operations"
+      },
+      {
+        "text": "Issues of fraud and material misstatements"
+      },
+      {
+        "text": "The client's budget for the next fiscal year"
+      },
+      {
+        "text": "Changes in audit personnel"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following is NOT a component of communication with the client during the audit?",
+    "options": [
+      {
+        "text": "Engagement letter"
+      },
+      {
+        "text": "Auditor's report"
+      },
+      {
+        "text": "Internal audit schedule"
+      },
+      {
+        "text": "Management letter"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following communication methods can be used during the audit process?",
+    "options": [
+      {
+        "text": "Oral communication only"
+      },
+      {
+        "text": "Written, oral, and electronic communication"
+      },
+      {
+        "text": "Written communication only"
+      },
+      {
+        "text": "Electronic communication only"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following should be discussed with the client at the planning stage of an audit?",
+    "options": [
+      {
+        "text": "The auditor's detailed testing procedures"
+      },
+      {
+        "text": "The expected completion date of the audit"
+      },
+      {
+        "text": "The audit report findings"
+      },
+      {
+        "text": "Recommendations for improving the company's profitability"
+      }
+    ]
+  },
+  {
+    "text": "When should auditors communicate significant audit findings to the client?",
+    "options": [
+      {
+        "text": "At the end of the audit"
+      },
+      {
+        "text": "As they are discovered throughout the audit process"
+      },
+      {
+        "text": "Only if they relate to fraud"
+      },
+      {
+        "text": "During the final audit meeting with management"
+      }
+    ]
+  },
+  {
+    "text": "The auditor communicates identified misstatements to management for:",
+    "options": [
+      {
+        "text": "Reclassification and restatement of the financial statements"
+      },
+      {
+        "text": "Analysis of audit fees"
+      },
+      {
+        "text": "The purpose of discussing corrective action and obtaining explanations"
+      },
+      {
+        "text": "Documenting the client's financial reporting performance"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following is the most appropriate timing for an exit meeting with the client?",
+    "options": [
+      {
+        "text": "At the start of the audit"
+      },
+      {
+        "text": "During the planning phase"
+      },
+      {
+        "text": "After the auditor has completed fieldwork and before the final report is issued"
+      },
+      {
+        "text": "After the audit report is submitted to the board"
+      }
+    ]
+  },
+  {
+    "text": "The management representation letter is signed by:",
+    "options": [
+      {
+        "text": "The auditor"
+      },
+      {
+        "text": "The company's shareholders"
+      },
+      {
+        "text": "The client's management"
+      },
+      {
+        "text": "The external auditor and internal auditor"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following is NOT a common topic discussed during the audit planning meeting with the client?",
+    "options": [
+      {
+        "text": "Audit timeline"
+      },
+      {
+        "text": "Areas of audit focus"
+      },
+      {
+        "text": "The auditor's legal opinions on business contracts"
+      },
+      {
+        "text": "Expected audit deliverables"
+      }
+    ]
+  },
+  {
+    "text": "Why is it important for the auditor to maintain clear communication with the client throughout the audit process?",
+    "options": [
+      {
+        "text": "To prevent disputes and misunderstandings related to audit results"
+      },
+      {
+        "text": "To offer tax planning advice"
+      },
+      {
+        "text": "To enable the client to reduce audit fees"
+      },
+      {
+        "text": "To ensure the client provides the auditor with all required documents"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following best describes the purpose of an engagement letter in an audit?",
+    "options": [
+      {
+        "text": "To inform management of audit recommendations"
+      },
+      {
+        "text": "To confirm the auditor's responsibilities and terms of engagement"
+      },
+      {
+        "text": "To outline the timeline for completing the audit"
+      },
+      {
+        "text": "To communicate the audit fee structure to the client"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following should be communicated to those charged with governance at the conclusion of the audit?",
+    "options": [
+      {
+        "text": "The auditor's planned procedures for future audits"
+      },
+      {
+        "text": "The auditor's overall view of the company's profitability"
+      },
+      {
+        "text": "The auditor's significant findings, including adjustments and misstatements"
+      },
+      {
+        "text": "Recommendations for changes to the company's legal structure"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following is a common type of communication between the auditor and the client during the audit process?",
+    "options": [
+      {
+        "text": "Preliminary findings memos"
+      },
+      {
+        "text": "Legal opinions on contract disputes"
+      },
+      {
+        "text": "Management compensation reports"
+      },
+      {
+        "text": "Internal control questionnaires"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following matters would an auditor typically discuss with the client's audit committee?",
+    "options": [
+      {
+        "text": "Audit scope and significant audit findings"
+      },
+      {
+        "text": "The client's tax planning strategy"
+      },
+      {
+        "text": "The auditor's compensation"
+      },
+      {
+        "text": "Hiring decisions for the client's finance team"
+      }
+    ]
+  },
+  {
+    "text": "In what format is the management representation letter typically provided to the auditor?",
+    "options": [
+      {
+        "text": "Verbal agreement"
+      },
+      {
+        "text": "Written document signed by management"
+      },
+      {
+        "text": "Electronic communication only"
+      },
+      {
+        "text": "Recorded video conference"
+      }
+    ]
+  },
+  {
+    "text": "What is professional skepticism in auditing?",
+    "options": [
+      {
+        "text": "Trusting the client's financial statements"
+      },
+      {
+        "text": "Assuming that fraud always exists"
+      },
+      {
+        "text": "An attitude that includes a questioning mind and a critical assessment of audit evidence",
+        "isCorrect": true
+      },
+      {
+        "text": "Blindly following the client's explanations"
+      }
+    ]
+  },
+  {
+    "text": "Why is professional skepticism important during an audit?",
+    "options": [
+      {
+        "text": "It helps the auditor identify potential conflicts of interest"
+      },
+      {
+        "text": "It ensures the auditor maintains independence from management"
+      },
+      {
+        "text": "It enables the auditor to assess the likelihood of material misstatements",
+        "isCorrect": true
+      },
+      {
+        "text": "It ensures compliance with regulatory requirements"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following is a characteristic of professional skepticism?",
+    "options": [
+      {
+        "text": "Automatically trusting the client's management"
+      },
+      {
+        "text": "Relying solely on past audit experiences"
+      },
+      {
+        "text": "A mindset that recognizes the possibility of misstatement due to error or fraud",
+        "isCorrect": true
+      },
+      {
+        "text": "Overlooking small discrepancies in the financial statements"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following best demonstrates professional skepticism?",
+    "options": [
+      {
+        "text": "Accepting the client's explanations without further inquiry"
+      },
+      {
+        "text": "Investigating discrepancies in bank reconciliations and confirming balances independently",
+        "isCorrect": true
+      },
+      {
+        "text": "Not considering internal control weaknesses because they existed in prior audits"
+      },
+      {
+        "text": "Relying only on the external confirmations received from third parties"
+      }
+    ]
+  },
+  {
+    "text": "What action can undermine professional skepticism during an audit?",
+    "options": [
+      {
+        "text": "Relying on external confirmations"
+      },
+      {
+        "text": "Having a questioning mind"
+      },
+      {
+        "text": "Assuming management is honest without corroborating evidence",
+        "isCorrect": true
+      },
+      {
+        "text": "Evaluating audit evidence critically"
+      }
+    ]
+  },
+  {
+    "text": "What is the primary purpose of audit sampling?",
+    "options": [
+      {
+        "text": "To test 100% of transactions"
+      },
+      {
+        "text": "To reduce the amount of work required by auditors"
+      },
+      {
+        "text": "To allow auditors to draw conclusions about a population based on a subset of items",
+        "isCorrect": true
+      },
+      {
+        "text": "To ensure that all transactions are free from error"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following sampling methods is used when every item in a population has an equal chance of being selected?",
+    "options": [
+      {
+        "text": "Judgmental sampling"
+      },
+      {
+        "text": "Random sampling",
+        "isCorrect": true
+      },
+      {
+        "text": "Haphazard sampling"
+      },
+      {
+        "text": "Block sampling"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following is a characteristic of statistical sampling in auditing?",
+    "options": [
+      {
+        "text": "The use of the auditor's judgment to select samples"
+      },
+      {
+        "text": "The application of probability theory to evaluate results",
+        "isCorrect": true
+      },
+      {
+        "text": "Selecting the first 20 transactions in a population"
+      },
+      {
+        "text": "Testing only the largest transactions in the population"
+      }
+    ]
+  },
+  {
+    "text": "Non-statistical sampling differs from statistical sampling in that:",
+    "options": [
+      {
+        "text": "It does not rely on the auditor's judgment"
+      },
+      {
+        "text": "It cannot be used to quantify sampling risk",
+        "isCorrect": true
+      },
+      {
+        "text": "It uses random number generation for sample selection"
+      },
+      {
+        "text": "It provides more accurate results than statistical sampling"
+      }
+    ]
+  },
+  {
+    "text": "When an auditor uses non-statistical sampling, the sample size is determined by:",
+    "options": [
+      {
+        "text": "Random number tables"
+      },
+      {
+        "text": "The application of probability theory"
+      },
+      {
+        "text": "The auditor's judgment based on the risk of material misstatement",
+        "isCorrect": true
+      },
+      {
+        "text": "Block sampling methods"
+      }
+    ]
+  },
+  {
+    "text": "What is the primary risk of relying on a sample that is not representative of the population?",
+    "options": [
+      {
+        "text": "The auditor may overestimate materiality"
+      },
+      {
+        "text": "The audit report may contain incorrect findings",
+        "isCorrect": true
+      },
+      {
+        "text": "The auditor will complete the audit faster than expected"
+      },
+      {
+        "text": "The financial statements will appear more accurate than they are"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following is a common use of sampling in auditing?",
+    "options": [
+      {
+        "text": "To examine internal controls",
+        "isCorrect": true
+      },
+      {
+        "text": "To calculate the company's profits"
+      },
+      {
+        "text": "To confirm management's representations"
+      },
+      {
+        "text": "To prepare financial statements"
+      }
+    ]
+  },
+  {
+    "text": "Professional due care in auditing requires auditors to:",
+    "options": [
+      {
+        "text": "Maintain confidentiality at all times"
+      },
+      {
+        "text": "Perform the audit to the best of their ability with diligence and competence",
+        "isCorrect": true
+      },
+      {
+        "text": "Trust management's explanations without verification"
+      },
+      {
+        "text": "Complete the audit in the shortest time possible"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following best describes the concept of due care?",
+    "options": [
+      {
+        "text": "Performing an audit in a careless manner"
+      },
+      {
+        "text": "Adhering to all applicable auditing standards and regulations",
+        "isCorrect": true
+      },
+      {
+        "text": "Submitting the audit report late"
+      },
+      {
+        "text": "Relying solely on management's representations"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following actions would violate the auditor's duty of professional due care?",
+    "options": [
+      {
+        "text": "Completing the audit without reviewing the client's significant estimates",
+        "isCorrect": true
+      },
+      {
+        "text": "Gathering sufficient and appropriate audit evidence"
+      },
+      {
+        "text": "Evaluating the client's internal controls"
+      },
+      {
+        "text": "Performing audit procedures to detect material misstatements"
+      }
+    ]
+  },
+  {
+    "text": "Professional due care requires auditors to consider which of the following in every audit?",
+    "options": [
+      {
+        "text": "The size of the audit fee"
+      },
+      {
+        "text": "The need for independence and objectivity",
+        "isCorrect": true
+      },
+      {
+        "text": "The financial condition of the audit client"
+      },
+      {
+        "text": "The auditor's experience with similar clients"
+      }
+    ]
+  },
+  {
+    "text": "What is a key component of exercising due care in an audit?",
+    "options": [
+      {
+        "text": "Exercising professional skepticism",
+        "isCorrect": true
+      },
+      {
+        "text": "Accepting the client's internal controls without testing"
+      },
+      {
+        "text": "Delegating all critical audit tasks to junior staff"
+      },
+      {
+        "text": "Completing the audit quickly to reduce costs"
+      }
+    ]
+  },
+  {
+    "text": "An auditor exercises professional due care by:",
+    "options": [
+      {
+        "text": "Ensuring that all audit work is conducted within budget"
+      },
+      {
+        "text": "Applying sound judgment and adhering to auditing standards",
+        "isCorrect": true
+      },
+      {
+        "text": "Delegating difficult tasks to untrained staff"
+      },
+      {
+        "text": "Relying solely on previous audit results"
+      }
+    ]
+  },
+  {
+    "text": "Assertions about classes of transactions include:",
+    "options": [
+      {
+        "text": "Existence and occurrence"
+      },
+      {
+        "text": "Completeness and accuracy"
+      },
+      {
+        "text": "Presentation and disclosure"
+      },
+      {
+        "text": "Cutoff and classification",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "text": "The assertion that tests whether all assets are recorded at proper values is called:",
+    "options": [
+      {
+        "text": "Completeness"
+      },
+      {
+        "text": "Valuation and allocation",
+        "isCorrect": true
+      },
+      {
+        "text": "Existence"
+      },
+      {
+        "text": "Rights and obligations"
+      }
+    ]
+  },
+  {
+    "text": "Which assertion is concerned with whether recorded transactions have actually occurred?",
+    "options": [
+      {
+        "text": "Completeness"
+      },
+      {
+        "text": "Accuracy"
+      },
+      {
+        "text": "Occurrence",
+        "isCorrect": true
+      },
+      {
+        "text": "Classification"
+      }
+    ]
+  },
+  {
+    "text": "Testing the completeness assertion ensures that:",
+    "options": [
+      {
+        "text": "Transactions are recorded in the correct period"
+      },
+      {
+        "text": "All disclosures have been made in the financial statements"
+      },
+      {
+        "text": "No transactions have been omitted from the accounting records",
+        "isCorrect": true
+      },
+      {
+        "text": "Transactions are accurately classified in the financial statements"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following tests the assertion of existence?",
+    "options": [
+      {
+        "text": "Confirming that recorded assets actually exist",
+        "isCorrect": true
+      },
+      {
+        "text": "Verifying that the company's liabilities are properly valued"
+      },
+      {
+        "text": "Ensuring that transactions are classified correctly"
+      },
+      {
+        "text": "Checking that all transactions have been recorded"
+      }
+    ]
+  },
+  {
+    "text": "What does the occurrence assertion ensure?",
+    "options": [
+      {
+        "text": "That all recorded transactions actually happened",
+        "isCorrect": true
+      },
+      {
+        "text": "That all transactions are recorded in the correct accounts"
+      },
+      {
+        "text": "That the financial statements are presented fairly"
+      },
+      {
+        "text": "That all required disclosures are made"
+      }
+    ]
+  },
+  {
+    "text": "Which assertion ensures that transactions are classified appropriately in the financial statements?",
+    "options": [
+      {
+        "text": "Accuracy"
+      },
+      {
+        "text": "Classification",
+        "isCorrect": true
+      },
+      {
+        "text": "Completeness"
+      },
+      {
+        "text": "Cutoff"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following is NOT an assertion related to account balances?",
+    "options": [
+      {
+        "text": "Existence"
+      },
+      {
+        "text": "Rights and obligations"
+      },
+      {
+        "text": "Completeness"
+      },
+      {
+        "text": "Accuracy",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "text": "Which audit procedure is most appropriate to test the valuation and allocation assertion for inventory?",
+    "options": [
+      {
+        "text": "Physical inspection of inventory"
+      },
+      {
+        "text": "Obtaining a copy of the sales forecast"
+      },
+      {
+        "text": "Reviewing the company's valuation methodology",
+        "isCorrect": true
+      },
+      {
+        "text": "Performing a cutoff test"
+      }
+    ]
+  },
+  {
+    "text": "Testing for cutoff ensures that:",
+    "options": [
+      {
+        "text": "Transactions are recorded in the proper period",
+        "isCorrect": true
+      },
+      {
+        "text": "Transactions are properly classified"
+      },
+      {
+        "text": "All assets are valued correctly"
+      },
+      {
+        "text": "All transactions occurred as reported"
+      }
+    ]
+  },
+  {
+    "text": "To test the assertion of rights and obligations for a company's fixed assets, an auditor should:",
+    "options": [
+      {
+        "text": "Examine purchase contracts and title deeds",
+        "isCorrect": true
+      },
+      {
+        "text": "Confirm receivables with customers"
+      },
+      {
+        "text": "Count physical assets"
+      },
+      {
+        "text": "Verify asset depreciation calculations"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following best describes testing the accuracy assertion?",
+    "options": [
+      {
+        "text": "Verifying that transactions are recorded in the correct accounts"
+      },
+      {
+        "text": "Ensuring that amounts are recorded at appropriate amounts",
+        "isCorrect": true
+      },
+      {
+        "text": "Checking that no transactions have been omitted"
+      },
+      {
+        "text": "Confirming that recorded transactions actually happened"
+      }
+    ]
+  },
+  {
+    "text": "What is the best method to gather sufficient audit evidence?",
+    "options": [
+      {
+        "text": "A. Relying solely on management inquiry"
+      },
+      {
+        "text": "B. Using a mix of evidence-gathering techniques such as inspection and analytical procedures",
+        "isCorrect": true
+      },
+      {
+        "text": "C. Observing client meetings"
+      },
+      {
+        "text": "D. Asking management to provide all evidence"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following indicates a lack of due professional care?",
+    "options": [
+      {
+        "text": "A. Documenting discrepancies found during the audit"
+      },
+      {
+        "text": "B. Relying on management explanations without follow-up",
+        "isCorrect": true
+      },
+      {
+        "text": "C. Reviewing internal controls regularly"
+      },
+      {
+        "text": "D. Obtaining external confirmations for key balances"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following demonstrates professional skepticism?",
+    "options": [
+      {
+        "text": "A. Accepting management estimates without question"
+      },
+      {
+        "text": "B. Questioning management's explanations when inconsistent with evidence",
+        "isCorrect": true
+      },
+      {
+        "text": "C. Not investigating unusual transactions"
+      },
+      {
+        "text": "D. Ignoring audit discrepancies due to time constraints"
+      }
+    ]
+  },
+  {
+    "text": "What should an auditor do if they are unsure about the correct interpretation of GAAP?",
+    "options": [
+      {
+        "text": "A. Apply personal judgment"
+      },
+      {
+        "text": "B. Ask management for clarification",
+        "isCorrect": true
+      },
+      {
+        "text": "C. Seek technical guidance from experts"
+      },
+      {
+        "text": "D. Ignore the issue"
+      }
+    ]
+  },
+  {
+    "text": "What is critical when designing an audit program for engagements involving nonroutine transactions?",
+    "options": [
+      {
+        "text": "A. Relying on prior year's audit program"
+      },
+      {
+        "text": "B. Using standardized procedures only",
+        "isCorrect": true
+      },
+      {
+        "text": "C. Tailoring the program to address inherent risks of complex transactions"
+      },
+      {
+        "text": "D. Skipping audit planning"
+      }
+    ]
+  },
+  {
+    "text": "Why is over-reliance on inquiry as a form of audit evidence problematic?",
+    "options": [
+      {
+        "text": "A. Inquiry is subjective and may not provide sufficient audit evidence",
+        "isCorrect": true
+      },
+      {
+        "text": "B. Inquiry is the only required evidence"
+      },
+      {
+        "text": "C. Inquiry is always conclusive"
+      },
+      {
+        "text": "D. Inquiry is too time-consuming"
+      }
+    ]
+  },
+  {
+    "text": "What additional procedure can be used to test management estimates?",
+    "options": [
+      {
+        "text": "A. Solely relying on past estimates"
+      },
+      {
+        "text": "B. Performing sensitivity analysis and independent evaluations",
+        "isCorrect": true
+      },
+      {
+        "text": "C. Only using historical data"
+      },
+      {
+        "text": "D. Ignoring management estimates if they appear reasonable"
+      }
+    ]
+  },
+  {
+    "text": "If confirmations are not returned, what alternative procedures can be used?",
+    "options": [
+      {
+        "text": "A. Ignore the confirmation process"
+      },
+      {
+        "text": "B. Review subsequent cash receipts and vouch transactions",
+        "isCorrect": true
+      },
+      {
+        "text": "C. Request that the client handle follow-up"
+      },
+      {
+        "text": "D. Reconfirm with other stakeholders"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following best helps in identifying undisclosed related parties?",
+    "options": [
+      {
+        "text": "A. Reviewing client contracts and legal filings",
+        "isCorrect": true
+      },
+      {
+        "text": "B. Relying only on management's statement"
+      },
+      {
+        "text": "C. Ignoring potential related parties"
+      },
+      {
+        "text": "D. Relying on internal controls only"
+      }
+    ]
+  },
+  {
+    "text": "When should an auditor increase substantive testing related to internal controls?",
+    "options": [
+      {
+        "text": "A. When controls are fully reliable",
+        "isCorrect": true
+      },
+      {
+        "text": "B. When internal control weaknesses are identified"
+      },
+      {
+        "text": "C. When management insists on reliance"
+      },
+      {
+        "text": "D. When control documentation is incomplete"
+      }
+    ]
+  },
+  {
+    "text": "What should be avoided in the governance communication letter?",
+    "options": [
+      {
+        "text": "A. Clear explanation of key audit matters"
+      },
+      {
+        "text": "B. Excessive use of technical jargon",
+        "isCorrect": true
+      },
+      {
+        "text": "C. Highlighting material audit risks"
+      },
+      {
+        "text": "D. Communicating control deficiencies"
+      }
+    ]
+  },
+  {
+    "text": "How can an auditor ensure consistency among engagement letter, audit opinion, and management representation letter?",
+    "options": [
+      {
+        "text": "A. Skipping final review"
+      },
+      {
+        "text": "B. Regular review and cross-checking these documents",
+        "isCorrect": true
+      },
+      {
+        "text": "C. Ignoring differences in wording"
+      },
+      {
+        "text": "D. Only reviewing the engagement letter"
+      }
+    ]
+  },
+  {
+    "text": "Which standard governs lease accounting under GAAP/IFRS?",
+    "options": [
+      {
+        "text": "A. ASC 842/IFRS 16",
+        "isCorrect": true
+      },
+      {
+        "text": "B. SAS 99"
+      },
+      {
+        "text": "C. ASC 450"
+      },
+      {
+        "text": "D. PCAOB 14"
+      }
+    ]
+  },
+  {
+    "text": "What should auditors verify when reviewing investment classifications?",
+    "options": [
+      {
+        "text": "A. Maturity dates and any restrictions on selling",
+        "isCorrect": true
+      },
+      {
+        "text": "B. Client's preference"
+      },
+      {
+        "text": "C. Management estimates"
+      },
+      {
+        "text": "D. Market price movements only"
+      }
+    ]
+  },
+  {
+    "text": "What document is crucial to verify the classification of debt?",
+    "options": [
+      {
+        "text": "A. Loan agreements and repayment schedules",
+        "isCorrect": true
+      },
+      {
+        "text": "B. Client bank statements"
+      },
+      {
+        "text": "C. Tax returns"
+      },
+      {
+        "text": "D. Supplier invoices"
+      }
+    ]
+  },
+  {
+    "text": "Why is it risky to assess at the account balance level only?",
+    "options": [
+      {
+        "text": "A. It overlooks assertion-specific risks like completeness and accuracy",
+        "isCorrect": true
+      },
+      {
+        "text": "B. It increases audit fees"
+      },
+      {
+        "text": "C. It results in over-testing transactions"
+      },
+      {
+        "text": "D. It simplifies the audit process"
+      }
+    ]
+  },
+  {
+    "text": "What should an auditor do when noncompliance with laws is suspected?",
+    "options": [
+      {
+        "text": "A. Investigate further and consult legal counsel if needed",
+        "isCorrect": true
+      },
+      {
+        "text": "B. Ignore if immaterial"
+      },
+      {
+        "text": "C. Automatically issue a qualified opinion"
+      },
+      {
+        "text": "D. Disclose to the client and continue"
+      }
+    ]
+  },
+  {
+    "text": "How can auditors prevent classification errors in cash flow statements?",
+    "options": [
+      {
+        "text": "A. Review classification of operating, investing, and financing activities",
+        "isCorrect": true
+      },
+      {
+        "text": "B. Exclude cash flow testing"
+      },
+      {
+        "text": "C. Only rely on management classifications"
+      },
+      {
+        "text": "D. Perform minimal testing on cash flows"
+      }
+    ]
+  },
+  {
+    "text": "What is the importance of accurate comparative financial information?",
+    "options": [
+      {
+        "text": "A. Allows stakeholders to make year-over-year comparisons",
+        "isCorrect": true
+      },
+      {
+        "text": "B. Increases audit complexity"
+      },
+      {
+        "text": "C. Minimizes auditor responsibility"
+      },
+      {
+        "text": "D. Ensures greater profits for clients"
+      }
+    ]
+  },
+  {
+    "text": "How should an auditor prevent misidentification of financial statements in the audit report?",
+    "options": [
+      {
+        "text": "A. Cross-check financial statements against the report before finalizing",
+        "isCorrect": true
+      },
+      {
+        "text": "B. Avoid reviewing the report before submission"
+      },
+      {
+        "text": "C. Delegate review to junior staff"
+      },
+      {
+        "text": "D. Skip the introductory paragraph entirely"
+      }
+    ]
+  },
+  {
+    "text": "What is essential for proper reporting of post-retirement benefits in government entities?",
+    "options": [
+      {
+        "text": "A. Complete and accurate disclosure of funding and obligations",
+        "isCorrect": true
+      },
+      {
+        "text": "B. Ignoring the requirements"
+      },
+      {
+        "text": "C. Only disclosing costs incurred"
+      },
+      {
+        "text": "D. Excluding future obligations"
+      }
+    ]
+  },
+  {
+    "text": "Why is functional expense classification critical for NFP entities?",
+    "options": [
+      {
+        "text": "A. It helps stakeholders understand how funds are allocated to programs",
+        "isCorrect": true
+      },
+      {
+        "text": "B. It is optional"
+      },
+      {
+        "text": "C. It simplifies accounting"
+      },
+      {
+        "text": "D. It is required only for government entities"
+      }
+    ]
+  },
+  {
+    "text": "What should be disclosed about net assets with donor restrictions?",
+    "options": [
+      {
+        "text": "A. Nature and amounts of donor-restricted assets",
+        "isCorrect": true
+      },
+      {
+        "text": "B. General financial position only"
+      },
+      {
+        "text": "C. Future donations"
+      },
+      {
+        "text": "D. Nothing"
+      }
+    ]
+  },
+  {
+    "text": "What must be disclosed for NFP endowments?",
+    "options": [
+      {
+        "text": "A. Endowment purpose, changes in value, and any restrictions",
+        "isCorrect": true
+      },
+      {
+        "text": "B. Endowment location"
+      },
+      {
+        "text": "C. The name of the donor only"
+      },
+      {
+        "text": "D. Endowment location and value only"
+      }
+    ]
+  },
+  {
+    "text": "When are inherent risks highest?",
+    "options": [
+      {
+        "text": "A. During nonroutine, complex transactions",
+        "isCorrect": true
+      },
+      {
+        "text": "B. In routine, simple transactions"
+      },
+      {
+        "text": "C. When controls are strong"
+      },
+      {
+        "text": "D. In a small client's routine operations"
+      }
+    ]
+  },
+  {
+    "text": "Why is relying only on inquiry for audit evidence insufficient?",
+    "options": [
+      {
+        "text": "A. It is subjective and not corroborative",
+        "isCorrect": true
+      },
+      {
+        "text": "B. It is always sufficient"
+      },
+      {
+        "text": "C. Inquiry alone provides conclusive evidence"
+      },
+      {
+        "text": "D. Inquiry eliminates the need for testing"
+      }
+    ]
+  },
+  {
+    "text": "Why is proper reporting of inter-fund balances essential?",
+    "options": [
+      {
+        "text": "A. It ensures accurate representation of funds and prevents misstatement",
+        "isCorrect": true
+      },
+      {
+        "text": "B. It is not important for NFPs"
+      },
+      {
+        "text": "C. It simplifies the financial statements"
+      },
+      {
+        "text": "D. It is only necessary for government entities"
+      }
+    ]
+  },
+  {
+    "text": "What is a critical aspect of cash management for nonprofit organizations (NFPs)?",
+    "options": [
+      {
+        "text": "A. Ensuring that all cash is deposited immediately upon receipt",
+        "isCorrect": true
+      },
+      {
+        "text": "B. Maintaining high cash reserves to avoid audits"
+      },
+      {
+        "text": "C. Using cash only for operational expenses"
+      },
+      {
+        "text": "D. Limiting cash inflow to improve efficiency"
+      }
+    ]
+  },
+  {
+    "text": "How should restricted contributions be reported in NFP financial statements?",
+    "options": [
+      {
+        "text": "A. As temporarily or permanently restricted net assets based on donor stipulations",
+        "isCorrect": true
+      },
+      {
+        "text": "B. As unrestricted net assets"
+      },
+      {
+        "text": "C. Only in footnotes"
+      },
+      {
+        "text": "D. Ignored in the financial statements"
+      }
+    ]
+  },
+  {
+    "text": "What must NFPs consider when recognizing revenue from grants?",
+    "options": [
+      {
+        "text": "A. Conditions and restrictions associated with the grant",
+        "isCorrect": true
+      },
+      {
+        "text": "B. Only the amount received"
+      },
+      {
+        "text": "C. The donor's identity"
+      },
+      {
+        "text": "D. Previous years' revenue recognition practices"
+      }
+    ]
+  },
+  {
+    "text": "How should volunteer services be recorded in NFPs?",
+    "options": [
+      {
+        "text": "A. Only if the services are essential and can be measured reliably",
+        "isCorrect": true
+      },
+      {
+        "text": "B. Not recorded at all"
+      },
+      {
+        "text": "C. Recorded at the minimum wage rate"
+      },
+      {
+        "text": "D. Recorded as an expense regardless of value"
+      }
+    ]
+  },
+  {
+    "text": "Which procedure is critical when auditing grants received by NFPs?",
+    "options": [
+      {
+        "text": "A. Verifying compliance with grant conditions and restrictions",
+        "isCorrect": true
+      },
+      {
+        "text": "B. Assuming all grants are spent as intended"
+      },
+      {
+        "text": "C. Relying solely on management representations"
+      },
+      {
+        "text": "D. Ignoring grant documentation if it's not material"
+      }
+    ]
+  },
+  {
+    "text": "What is essential regarding related party transactions in NFPs?",
+    "options": [
+      {
+        "text": "A. Full disclosure of the nature and extent of transactions",
+        "isCorrect": true
+      },
+      {
+        "text": "B. No need for disclosure if not material"
+      },
+      {
+        "text": "C. Only disclosing transactions over a certain amount"
+      },
+      {
+        "text": "D. Only disclosing transactions with board members"
+      }
+    ]
+  },
+  {
+    "text": "When should NFPs recognize revenue from membership fees?",
+    "options": [
+      {
+        "text": "A. When services are provided to members",
+        "isCorrect": true
+      },
+      {
+        "text": "B. At the time of receipt only"
+      },
+      {
+        "text": "C. Only at the end of the fiscal year"
+      },
+      {
+        "text": "D. When the board approves the budget"
+      }
+    ]
+  },
+  {
+    "text": "How do economic conditions affect NFP financial reporting?",
+    "options": [
+      {
+        "text": "A. They can influence revenue forecasts and funding availability",
+        "isCorrect": true
+      },
+      {
+        "text": "B. They have no impact on financial reporting"
+      },
+      {
+        "text": "C. They only affect for-profit organizations"
+      },
+      {
+        "text": "D. They simplify reporting requirements"
+      }
+    ]
+  },
+  {
+    "text": "How should donated assets be valued in NFP financial statements?",
+    "options": [
+      {
+        "text": "A. At fair value at the time of donation",
+        "isCorrect": true
+      },
+      {
+        "text": "B. At the original purchase price of the donor"
+      },
+      {
+        "text": "C. At zero value"
+      },
+      {
+        "text": "D. Based on previous appraisals"
+      }
+    ]
+  },
+  {
+    "text": "What form is commonly used for tax reporting by NFPs in the U.S.?",
+    "options": [
+      {
+        "text": "A. Form 990",
+        "isCorrect": true
+      },
+      {
+        "text": "B. Form 1040"
+      },
+      {
+        "text": "C. Form 1065"
+      },
+      {
+        "text": "D. Form W-2"
+      }
+    ]
+  },
+  {
+    "text": "Why is segregation of duties important in NFP financial management?",
+    "options": [
+      {
+        "text": "A. To reduce the risk of errors and fraud"
+      },
+      {
+        "text": "B. It is not important for small NFPs"
+      },
+      {
+        "text": "C. To increase operational efficiency"
+      },
+      {
+        "text": "D. It complicates financial management"
+      }
+    ]
+  },
+  {
+    "text": "How should fundraising expenses be reported in NFPs?",
+    "options": [
+      {
+        "text": "A. Separately from program expenses to provide transparency",
+        "isCorrect": true
+      },
+      {
+        "text": "B. Combined with program expenses"
+      },
+      {
+        "text": "C. Ignored if under a certain threshold"
+      },
+      {
+        "text": "D. Only disclosed in footnotes"
+      }
+    ]
+  },
+  {
+    "text": "What is the primary reason for establishing internal controls in NFPs?",
+    "options": [
+      {
+        "text": "A. To ensure compliance and safeguard assets",
+        "isCorrect": true
+      },
+      {
+        "text": "B. To reduce staff workload"
+      },
+      {
+        "text": "C. To increase donor contributions"
+      },
+      {
+        "text": "D. To simplify financial reporting"
+      }
+    ]
+  },
+  {
+    "text": "What is the primary purpose of the auditor's consideration of fraud in the audit?",
+    "options": [
+      {
+        "text": "A. To determine the effectiveness of internal controls",
+        "isCorrect": true
+      },
+      {
+        "text": "B. To detect all instances of fraud"
+      },
+      {
+        "text": "C. To assess the risk of material misstatement due to fraud"
+      },
+      {
+        "text": "D. To provide assurance that no fraud exists"
+      }
+    ]
+  },
+  {
+    "text": "In what situation is an auditor most likely to issue a qualified opinion?",
+    "options": [
+      {
+        "text": "A. When there is a material misstatement that the management refuses to correct",
+        "isCorrect": true
+      },
+      {
+        "text": "B. When there are significant doubts about the entity's ability to continue as a going concern"
+      },
+      {
+        "text": "C. When the financial statements are presented fairly in all material respects"
+      },
+      {
+        "text": "D. When there is a lack of sufficient audit evidence"
+      }
+    ]
+  },
+  {
+    "text": "What does the term 'professional skepticism' refer to in auditing?",
+    "options": [
+      {
+        "text": "A. Trusting management's assertions without evidence"
+      },
+      {
+        "text": "B. Maintaining an attitude that includes questioning mind and critical assessment",
+        "isCorrect": true
+      },
+      {
+        "text": "C. Conducting audits in a relaxed manner"
+      },
+      {
+        "text": "D. Assuming all financial information provided is accurate"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following is a significant risk that requires special audit consideration?",
+    "options": [
+      {
+        "text": "A. Routine cash transactions"
+      },
+      {
+        "text": "B. Management override of controls",
+        "isCorrect": true
+      },
+      {
+        "text": "C. Consistency in accounting policies"
+      },
+      {
+        "text": "D. Timeliness of financial reporting"
+      }
+    ]
+  },
+  {
+    "text": "What is the primary focus of substantive tests?",
+    "options": [
+      {
+        "text": "A. To evaluate the design of internal controls"
+      },
+      {
+        "text": "B. To gather evidence regarding the assertions in financial statements",
+        "isCorrect": true
+      },
+      {
+        "text": "C. To assess the effectiveness of management's decisions"
+      },
+      {
+        "text": "D. To review compliance with laws and regulations"
+      }
+    ]
+  },
+  {
+    "text": "Which accounting principle requires that expenses be matched with revenues?",
+    "options": [
+      {
+        "text": "A. Historical Cost Principle"
+      },
+      {
+        "text": "B. Matching Principle",
+        "isCorrect": true
+      },
+      {
+        "text": "C. Consistency Principle"
+      },
+      {
+        "text": "D. Revenue Recognition Principle"
+      }
+    ]
+  },
+  {
+    "text": "How should an auditor respond to identified deficiencies in internal control?",
+    "options": [
+      {
+        "text": "A. Ignore them if they are not material"
+      },
+      {
+        "text": "B. Report them only if they are significant",
+        "isCorrect": true
+      },
+      {
+        "text": "C. Document and communicate them to management and those charged with governance"
+      },
+      {
+        "text": "D. Immediately change the internal controls without consultation"
+      }
+    ]
+  },
+  {
+    "text": "When is it appropriate for an auditor to rely on internal audit work?",
+    "options": [
+      {
+        "text": "A. When internal audit findings are aligned with external audit objectives",
+        "isCorrect": true
+      },
+      {
+        "text": "B. When the internal audit department has a strong reputation"
+      },
+      {
+        "text": "C. When the internal audit has been conducted recently"
+      },
+      {
+        "text": "D. All of the above"
+      }
+    ]
+  },
+  {
+    "text": "What is the effect of a client's refusal to provide access to certain financial records during an audit?",
+    "options": [
+      {
+        "text": "A. The audit will proceed without those records"
+      },
+      {
+        "text": "B. The auditor may need to modify their opinion due to insufficient evidence",
+        "isCorrect": true
+      },
+      {
+        "text": "C. The auditor can still issue a clean opinion"
+      },
+      {
+        "text": "D. The auditor will end the engagement immediately"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following is NOT an acceptable method for auditing the existence of accounts receivable?",
+    "options": [
+      {
+        "text": "A. Sending confirmation requests to customers",
+        "isCorrect": true
+      },
+      {
+        "text": "B. Reviewing sales orders and invoices"
+      },
+      {
+        "text": "C. Analyzing cash receipts after year-end"
+      },
+      {
+        "text": "D. Relying solely on management's internal reports"
+      }
+    ]
+  },
+  {
+    "text": "What type of analytical procedure is most useful for assessing the reasonableness of expenses?",
+    "options": [
+      {
+        "text": "A. Trend analysis over several years",
+        "isCorrect": true
+      },
+      {
+        "text": "B. Vertical analysis of the income statement"
+      },
+      {
+        "text": "C. Ratio analysis compared to industry benchmarks"
+      },
+      {
+        "text": "D. All of the above"
+      }
+    ]
+  },
+  {
+    "text": "Which standard governs the communication of internal control deficiencies to management?",
+    "options": [
+      {
+        "text": "A. AICPA Code of Conduct"
+      },
+      {
+        "text": "B. GAAS (Generally Accepted Auditing Standards)",
+        "isCorrect": true
+      },
+      {
+        "text": "C. SAS (Statements on Auditing Standards)"
+      },
+      {
+        "text": "D. IFRS (International Financial Reporting Standards)"
+      }
+    ]
+  },
+  {
+    "text": "Under which condition is it acceptable to use sampling in an audit?",
+    "options": [
+      {
+        "text": "A. When the population is small"
+      },
+      {
+        "text": "B. When evidence cannot be obtained by other means",
+        "isCorrect": true
+      },
+      {
+        "text": "C. When the population is homogeneous"
+      },
+      {
+        "text": "D. When there is a high level of assurance required"
+      }
+    ]
+  },
+  {
+    "text": "Which assertion is primarily tested by confirming accounts payable with suppliers?",
+    "options": [
+      {
+        "text": "A. Existence",
+        "isCorrect": true
+      },
+      {
+        "text": "B. Completeness"
+      },
+      {
+        "text": "C. Rights and obligations"
+      },
+      {
+        "text": "D. Valuation"
+      }
+    ]
+  },
+  {
+    "text": "What is the primary purpose of the governance communications letter issued to those charged with governance?",
+    "options": [
+      {
+        "text": "A. To summarize audit findings"
+      },
+      {
+        "text": "B. To outline management's responsibilities"
+      },
+      {
+        "text": "C. To communicate significant deficiencies in internal controls",
+        "isCorrect": true
+      },
+      {
+        "text": "D. To provide an overview of financial performance"
+      }
+    ]
+  },
+  {
+    "text": "What is the best approach for an auditor to manage a client relationship during a contentious audit?",
+    "options": [
+      {
+        "text": "A. Avoid direct communication to prevent conflict"
+      },
+      {
+        "text": "B. Engage in open and honest dialogue to discuss concerns",
+        "isCorrect": true
+      },
+      {
+        "text": "C. Rely on formal correspondence only"
+      },
+      {
+        "text": "D. Seek to minimize the client's involvement in the audit process"
+      }
+    ]
+  },
+  {
+    "text": "When a disagreement arises regarding accounting treatment, what is the auditor's best course of action?",
+    "options": [
+      {
+        "text": "A. Insist on their preferred method and refuse to compromise"
+      },
+      {
+        "text": "B. Document the disagreement and seek a resolution through discussion",
+        "isCorrect": true
+      },
+      {
+        "text": "C. Notify regulatory bodies immediately"
+      },
+      {
+        "text": "D. Ignore the disagreement if it is not material"
+      }
+    ]
+  },
+  {
+    "text": "What is a primary benefit of continuing professional education (CPE) for auditors?",
+    "options": [
+      {
+        "text": "A. To maintain personal connections with clients"
+      },
+      {
+        "text": "B. To ensure compliance with licensing requirements",
+        "isCorrect": true
+      },
+      {
+        "text": "C. To enhance the auditor's reputation in the community"
+      },
+      {
+        "text": "D. To reduce the cost of professional liability insurance"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following topics is most critical for auditors to include in their continuing professional education?",
+    "options": [
+      {
+        "text": "A. Office management skills"
+      },
+      {
+        "text": "B. Changes in accounting standards and regulations",
+        "isCorrect": true
+      },
+      {
+        "text": "C. Personal finance strategies"
+      },
+      {
+        "text": "D. Advanced technology trends unrelated to auditing"
+      }
+    ]
+  },
+  {
+    "text": "In resolving audit disputes, what role does effective communication play?",
+    "options": [
+      {
+        "text": "A. It is secondary to the technical resolution of the issue"
+      },
+      {
+        "text": "B. It can help clarify misunderstandings and build trust",
+        "isCorrect": true
+      },
+      {
+        "text": "C. It should be avoided to keep discussions professional"
+      },
+      {
+        "text": "D. It is only important if the dispute escalates"
+      }
+    ]
+  },
+  {
+    "text": "Which document is essential in managing client expectations throughout the audit process?",
+    "options": [
+      {
+        "text": "A. Management Representation Letter"
+      },
+      {
+        "text": "B. Engagement Letter",
+        "isCorrect": true
+      },
+      {
+        "text": "C. Audit Report"
+      },
+      {
+        "text": "D. Governance Communications Letter"
+      }
+    ]
+  },
+  {
+    "text": "How should an auditor handle a client who consistently disputes audit findings?",
+    "options": [
+      {
+        "text": "A. Concede to the client's viewpoint to maintain goodwill"
+      },
+      {
+        "text": "B. Provide thorough documentation and rationale for findings",
+        "isCorrect": true
+      },
+      {
+        "text": "C. Withdraw from the engagement"
+      },
+      {
+        "text": "D. Stop communication and escalate to management"
+      }
+    ]
+  },
+  {
+    "text": "Which is a key principle of effective client management for auditors?",
+    "options": [
+      {
+        "text": "A. Prioritize compliance over relationship building",
+        "isCorrect": true
+      },
+      {
+        "text": "B. Be responsive and accessible to client inquiries"
+      },
+      {
+        "text": "C. Focus solely on completing the audit efficiently"
+      },
+      {
+        "text": "D. Minimize interaction with the client until the audit is complete"
+      }
+    ]
+  },
+  {
+    "text": "What is the primary objective of resolving audit disputes before the final report is issued?",
+    "options": [
+      {
+        "text": "A. To ensure that the auditor's opinion is not affected",
+        "isCorrect": true
+      },
+      {
+        "text": "B. To foster a better working relationship with the client"
+      },
+      {
+        "text": "C. To prevent potential legal disputes in the future"
+      },
+      {
+        "text": "D. To enhance the auditor's professional reputation"
+      }
+    ]
+  },
+  {
+    "text": "What type of audit report is typically issued for a nonprofit organization?",
+    "options": [
+      {
+        "text": "A. Review report"
+      },
+      {
+        "text": "B. Compilation report",
+        "isCorrect": true
+      },
+      {
+        "text": "C. Audit report"
+      },
+      {
+        "text": "D. All of the above"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following client types is subject to the highest level of scrutiny during an audit?",
+    "options": [
+      {
+        "text": "A. Homeowners Associations",
+        "isCorrect": true
+      },
+      {
+        "text": "B. S Corporations"
+      },
+      {
+        "text": "C. C Corporations"
+      },
+      {
+        "text": "D. Partnerships"
+      }
+    ]
+  },
+  {
+    "text": "Which type of entity is often required to provide annual financial statements to its members?",
+    "options": [
+      {
+        "text": "A. Nonprofit Organization"
+      },
+      {
+        "text": "B. Homeowners Association",
+        "isCorrect": true
+      },
+      {
+        "text": "C. S Corporation"
+      },
+      {
+        "text": "D. Partnership"
+      }
+    ]
+  },
+  {
+    "text": "In which type of organization is the income typically not taxed at the entity level?",
+    "options": [
+      {
+        "text": "A. C Corporation"
+      },
+      {
+        "text": "B. S Corporation"
+      },
+      {
+        "text": "C. Partnership"
+      },
+      {
+        "text": "D. Both B and C",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "text": "What is the primary purpose of an audit for a nonprofit organization?",
+    "options": [
+      {
+        "text": "A. To reduce tax liability",
+        "isCorrect": true
+      },
+      {
+        "text": "B. To provide assurance on the accuracy of financial statements"
+      },
+      {
+        "text": "C. To evaluate management performance"
+      },
+      {
+        "text": "D. To increase revenue"
+      }
+    ]
+  },
+  {
+    "text": "Which client type often has members rather than shareholders?",
+    "options": [
+      {
+        "text": "A. C Corporation"
+      },
+      {
+        "text": "B. Homeowners Association",
+        "isCorrect": true
+      },
+      {
+        "text": "C. S Corporation"
+      },
+      {
+        "text": "D. Partnership"
+      }
+    ]
+  },
+  {
+    "text": "What distinguishes an S Corporation from a C Corporation?",
+    "options": [
+      {
+        "text": "A. Number of shareholders"
+      },
+      {
+        "text": "B. Tax treatment of income"
+      },
+      {
+        "text": "C. A&B",
+        "isCorrect": true
+      },
+      {
+        "text": "D. State of incorporation"
+      }
+    ]
+  },
+  {
+    "text": "When auditing a partnership, what is a key focus for the auditor?",
+    "options": [
+      {
+        "text": "A. Evaluating the partnership agreement",
+        "isCorrect": true
+      },
+      {
+        "text": "B. Reviewing individual partners' tax returns"
+      },
+      {
+        "text": "C. Analyzing the entity's overall revenue"
+      },
+      {
+        "text": "D. Ensuring compliance with GAAP"
+      }
+    ]
+  },
+  {
+    "text": "For which of the following client types is a compilation engagement least rigorous?",
+    "options": [
+      {
+        "text": "A. Nonprofit Organizations"
+      },
+      {
+        "text": "B. C Corporations"
+      },
+      {
+        "text": "C. Partnerships"
+      },
+      {
+        "text": "D. Homeowners Associations",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "text": "What is the main characteristic of a 501(c)(3) organization?",
+    "options": [
+      {
+        "text": "A. It operates for profit."
+      },
+      {
+        "text": "B. It is a tax-exempt charitable organization.",
+        "isCorrect": true
+      },
+      {
+        "text": "C. It is subject to corporate taxes."
+      },
+      {
+        "text": "D. It can distribute profits to members."
+      }
+    ]
+  },
+  {
+    "text": "Which of the following is NOT typically a requirement for a C Corporation?",
+    "options": [
+      {
+        "text": "A. Holding annual shareholder meetings"
+      },
+      {
+        "text": "B. Issuing stock to shareholders",
+        "isCorrect": true
+      },
+      {
+        "text": "C. Maintaining detailed records of partner contributions"
+      },
+      {
+        "text": "D. Filing Form 1120 with the IRS"
+      }
+    ]
+  },
+  {
+    "text": "In a homeowners association, what is the primary source of revenue?",
+    "options": [
+      {
+        "text": "A. Grants"
+      },
+      {
+        "text": "B. Member assessments",
+        "isCorrect": true
+      },
+      {
+        "text": "C. Sales of assets"
+      },
+      {
+        "text": "D. Donations"
+      }
+    ]
+  },
+  {
+    "text": "What is a common financial statement requirement for S Corporations?",
+    "options": [
+      {
+        "text": "A. Consolidated financial statements"
+      },
+      {
+        "text": "B. Financial statements prepared according to GAAP",
+        "isCorrect": true
+      },
+      {
+        "text": "C. No financial statements required"
+      },
+      {
+        "text": "D. Statements prepared solely for tax purposes"
+      }
+    ]
+  },
+  {
+    "text": "What type of assurance is provided by a review engagement?",
+    "options": [
+      {
+        "text": "A. High level of assurance"
+      },
+      {
+        "text": "B. Moderate level of assurance",
+        "isCorrect": true
+      },
+      {
+        "text": "C. No assurance"
+      },
+      {
+        "text": "D. Complete assurance"
+      }
+    ]
+  },
+  {
+    "text": "For which client type would an auditor typically assess the adherence to specific regulations governing nonprofit activities?",
+    "options": [
+      {
+        "text": "A. C Corporation"
+      },
+      {
+        "text": "B. Nonprofit Organization",
+        "isCorrect": true
+      },
+      {
+        "text": "C. S Corporation"
+      },
+      {
+        "text": "D. Homeowners Association"
+      }
+    ]
+  },
+  {
+    "text": "What distinguishes a C Corporation from an S Corporation regarding ownership?",
+    "options": [
+      {
+        "text": "A. C Corporations can have unlimited shareholders; S Corporations cannot."
+      },
+      {
+        "text": "B. S Corporations can issue multiple classes of stock; C Corporations cannot."
+      },
+      {
+        "text": "C. C Corporations have no restrictions on foreign ownership; S Corporations do."
+      },
+      {
+        "text": "D. A & C"
+      }
+    ]
+  },
+  {
+    "text": "Which client type typically has its income reported on the individual tax returns of its owners?",
+    "options": [
+      {
+        "text": "A. C Corporation"
+      },
+      {
+        "text": "B. S Corporation",
+        "isCorrect": true
+      },
+      {
+        "text": "C. Homeowners Association"
+      },
+      {
+        "text": "D. Nonprofit Organization"
+      }
+    ]
+  },
+  {
+    "text": "In a partnership, how is the income typically allocated among partners?",
+    "options": [
+      {
+        "text": "A. Based on ownership percentage",
+        "isCorrect": true
+      },
+      {
+        "text": "B. Equally among all partners"
+      },
+      {
+        "text": "C. According to the partnership agreement"
+      },
+      {
+        "text": "D. Based on the amount of capital contributed"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following statements is true regarding the audit requirements for 501(c)(3) organizations?",
+    "options": [
+      {
+        "text": "A. They are exempt from audits regardless of revenue."
+      },
+      {
+        "text": "B. They must conduct an annual audit if their revenue exceeds a certain threshold.",
+        "isCorrect": true
+      },
+      {
+        "text": "C. They only require internal audits."
+      },
+      {
+        "text": "D. Audits are optional for all nonprofit organizations."
+      }
+    ]
+  },
+  {
+    "text": "What is a common reason for conducting a compilation engagement for a small business?",
+    "options": [
+      {
+        "text": "A. To provide a high level of assurance on financial statements."
+      },
+      {
+        "text": "B. To meet bank loan requirements.",
+        "isCorrect": true
+      },
+      {
+        "text": "C. To comply with GAAP."
+      },
+      {
+        "text": "D. To prepare for a federal audit."
+      }
+    ]
+  },
+  {
+    "text": "What is the main purpose of an Employee Benefit Plan audit?",
+    "options": [
+      {
+        "text": "To ensure employees receive the correct benefits"
+      },
+      {
+        "text": "To detect fraud in the plan"
+      },
+      {
+        "text": "To ensure compliance with ERISA and DOL regulations",
+        "isCorrect": true
+      },
+      {
+        "text": "To analyze employee participation levels"
+      }
+    ]
+  },
+  {
+    "text": "Which organization typically requires an Employee Benefit Plan to undergo an audit?",
+    "options": [
+      {
+        "text": "IRS"
+      },
+      {
+        "text": "Department of Labor (DOL)",
+        "isCorrect": true
+      },
+      {
+        "text": "Securities and Exchange Commission (SE"
+      },
+      {
+        "text": "Internal Revenue Service (IRS)"
+      }
+    ]
+  },
+  {
+    "text": "What is the threshold for the number of eligible participants that typically triggers the requirement for an Employee Benefit Plan audit?",
+    "options": [
+      {
+        "text": "100 participants",
+        "isCorrect": true
+      },
+      {
+        "text": "50 participants"
+      },
+      {
+        "text": "250 participants"
+      },
+      {
+        "text": "500 participants"
+      }
+    ]
+  },
+  {
+    "text": "Which form is filed with the Department of Labor that may require an audit attachment?",
+    "options": [
+      {
+        "text": "Form 1099"
+      },
+      {
+        "text": "Form 5500",
+        "isCorrect": true
+      },
+      {
+        "text": "Form W-2"
+      },
+      {
+        "text": "Form 940"
+      }
+    ]
+  },
+  {
+    "text": "What is the focus of a \"limited-scope\" Employee Benefit Plan audit?",
+    "options": [
+      {
+        "text": "Investments certified by a qualified institution",
+        "isCorrect": true
+      },
+      {
+        "text": "Administrative expenses"
+      },
+      {
+        "text": "Contributions made by employees"
+      },
+      {
+        "text": "Plan participant data"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following is a common error detected during Employee Benefit Plan audits?",
+    "options": [
+      {
+        "text": "Overreporting of employee salaries"
+      },
+      {
+        "text": "Incorrect calculation of participant benefits",
+        "isCorrect": true
+      },
+      {
+        "text": "Excessive 401(k) contributions"
+      },
+      {
+        "text": "Incomplete Form 1099 filings"
+      }
+    ]
+  },
+  {
+    "text": "What is the role of the plan administrator in an Employee Benefit Plan audit?",
+    "options": [
+      {
+        "text": "To provide records and ensure compliance",
+        "isCorrect": true
+      },
+      {
+        "text": "To audit the plan internally"
+      },
+      {
+        "text": "To oversee participant eligibility"
+      },
+      {
+        "text": "To invest plan assets"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following plans is subject to audit requirements?",
+    "options": [
+      {
+        "text": "401(k) plans with more than 100 participants",
+        "isCorrect": true
+      },
+      {
+        "text": "Health reimbursement arrangements"
+      },
+      {
+        "text": "SIMPLE IRAs"
+      },
+      {
+        "text": "Non-qualified deferred compensation plans"
+      }
+    ]
+  },
+  {
+    "text": "Which organization sets the auditing standards for Employee Benefit Plan audits?",
+    "options": [
+      {
+        "text": "Internal Revenue Service (IRS)"
+      },
+      {
+        "text": "Financial Accounting Standards Board (FAS"
+      },
+      {
+        "text": "American Institute of Certified Public Accountants (AICP"
+      },
+      {
+        "text": "Securities and Exchange Commission (SE"
+      }
+    ]
+  },
+  {
+    "text": "What is the most common issue found during audits of employee benefit plans?",
+    "options": [
+      {
+        "text": "Overstating participant account balances"
+      },
+      {
+        "text": "Inaccurate reporting of contributions",
+        "isCorrect": true
+      },
+      {
+        "text": "Failing to properly distribute plan benefits"
+      },
+      {
+        "text": "Lack of participant communications"
+      }
+    ]
+  },
+  {
+    "text": "What type of audit opinion is issued if there are material misstatements or deficiencies in an Employee Benefit Plan audit?",
+    "options": [
+      {
+        "text": "Unqualified opinion"
+      },
+      {
+        "text": "Adverse opinion",
+        "isCorrect": true
+      },
+      {
+        "text": "Limited-scope opinion"
+      },
+      {
+        "text": "Disclaimer of opinion"
+      }
+    ]
+  },
+  {
+    "text": "How often must large employee benefit plans be audited?",
+    "options": [
+      {
+        "text": "Annually",
+        "isCorrect": true
+      },
+      {
+        "text": "Every two years"
+      },
+      {
+        "text": "Every five years"
+      },
+      {
+        "text": "When significant changes are made to the plan"
+      }
+    ]
+  },
+  {
+    "text": "Who is primarily responsible for the accuracy of Form 5500?",
+    "options": [
+      {
+        "text": "The auditor"
+      },
+      {
+        "text": "The plan administrator",
+        "isCorrect": true
+      },
+      {
+        "text": "The DOL"
+      },
+      {
+        "text": "The plan sponsor"
+      }
+    ]
+  },
+  {
+    "text": "What is a key area of focus in defined contribution plan audits?",
+    "options": [
+      {
+        "text": "Insurance benefits"
+      },
+      {
+        "text": "Participant contributions and account balances",
+        "isCorrect": true
+      },
+      {
+        "text": "Retiree medical benefits"
+      },
+      {
+        "text": "Pension obligations"
+      }
+    ]
+  },
+  {
+    "text": "What is the penalty for not filing a required audit with Form 5500?",
+    "options": [
+      {
+        "text": "$100"
+      },
+      {
+        "text": "$500"
+      },
+      {
+        "text": "Up to $2,500 per day",
+        "isCorrect": true
+      },
+      {
+        "text": "$1,000 annually"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following is typically reviewed during an Employee Benefit Plan audit?",
+    "options": [
+      {
+        "text": "Plan financial statements",
+        "isCorrect": true
+      },
+      {
+        "text": "Participant job performance"
+      },
+      {
+        "text": "Marketing strategies"
+      },
+      {
+        "text": "Employee satisfaction surveys"
+      }
+    ]
+  },
+  {
+    "text": "Which type of plan may be subject to excise tax penalties if it fails compliance tests?",
+    "options": [
+      {
+        "text": "Simple IRA"
+      },
+      {
+        "text": "401(k) plan",
+        "isCorrect": true
+      },
+      {
+        "text": "Non-qualified deferred compensation"
+      },
+      {
+        "text": "Health savings account"
+      }
+    ]
+  },
+  {
+    "text": "What is the main objective of testing participant data in Employee Benefit Plan audits?",
+    "options": [
+      {
+        "text": "To evaluate investment performance"
+      },
+      {
+        "text": "To ensure participant eligibility and contributions are accurate",
+        "isCorrect": true
+      },
+      {
+        "text": "To determine plan profitability"
+      },
+      {
+        "text": "To track employee satisfaction with the plan"
+      }
+    ]
+  },
+  {
+    "text": "What happens if a \"qualified opinion\" is issued for an Employee Benefit Plan audit?",
+    "options": [
+      {
+        "text": "There are minor issues that do not materially affect the plan's financial reporting",
+        "isCorrect": true
+      },
+      {
+        "text": "The plan failed to meet DOL requirements"
+      },
+      {
+        "text": "The audit was incomplete"
+      },
+      {
+        "text": "The audit found no issues"
+      }
+    ]
+  },
+  {
+    "text": "What is the impact of a \"limited-scope\" audit?",
+    "options": [
+      {
+        "text": "The audit covers all plan areas"
+      },
+      {
+        "text": "The plan's investments are audited by the DOL"
+      },
+      {
+        "text": "The auditor is not responsible for auditing certified investment information",
+        "isCorrect": true
+      },
+      {
+        "text": "The audit only covers participant data"
+      }
+    ]
+  },
+  {
+    "text": "What is the primary focus of SAS 136?",
+    "options": [
+      {
+        "text": "Tax audits for small businesses"
+      },
+      {
+        "text": "Auditing standards for Employee Benefit Plans",
+        "isCorrect": true
+      },
+      {
+        "text": "Procedures for forensic audits"
+      },
+      {
+        "text": "Internal control assessments for corporations"
+      }
+    ]
+  },
+  {
+    "text": "Which governing body issued SAS 136?",
+    "options": [
+      {
+        "text": "Department of Labor (DOL)"
+      },
+      {
+        "text": "American Institute of Certified Public Accountants (AICP"
+      },
+      {
+        "text": "Financial Accounting Standards Board (FAS"
+      },
+      {
+        "text": "Securities and Exchange Commission (SE"
+      }
+    ]
+  },
+  {
+    "text": "SAS 136 modifies the auditor's report for Employee Benefit Plan audits to explicitly require what?",
+    "options": [
+      {
+        "text": "Testing of participant contributions"
+      },
+      {
+        "text": "A statement of the auditor's responsibilities",
+        "isCorrect": true
+      },
+      {
+        "text": "Detailed review of benefit disbursements"
+      },
+      {
+        "text": "A comparison of investment performances"
+      }
+    ]
+  },
+  {
+    "text": "Under SAS 136, who is responsible for ensuring the accuracy of the information used in the audit?",
+    "options": [
+      {
+        "text": "Plan management",
+        "isCorrect": true
+      },
+      {
+        "text": "The auditor"
+      },
+      {
+        "text": "The Department of Labor"
+      },
+      {
+        "text": "Plan participants"
+      }
+    ]
+  },
+  {
+    "text": "What major change does SAS 136 introduce regarding \"limited-scope\" audits?",
+    "options": [
+      {
+        "text": "Limited-scope audits are eliminated"
+      },
+      {
+        "text": "They are now referred to as \"ERISA Section 103((3)(C) audits\""
+      },
+      {
+        "text": "The auditor must review all plan assets"
+      },
+      {
+        "text": "Limited-scope audits now include participant interviews"
+      }
+    ]
+  },
+  {
+    "text": "Under SAS 136, what must the auditor include in the audit report for ERISA Section 103(a)(3)(C) audits?",
+    "options": [
+      {
+        "text": "A disclaimer of opinion"
+      },
+      {
+        "text": "A qualified opinion"
+      },
+      {
+        "text": "A description of the procedures performed on certified investment information",
+        "isCorrect": true
+      },
+      {
+        "text": "A complete review of all participant accounts"
+      }
+    ]
+  },
+  {
+    "text": "What new responsibility does SAS 136 place on plan management during the audit process?",
+    "options": [
+      {
+        "text": "Plan management must acknowledge its responsibility for maintaining plan records",
+        "isCorrect": true
+      },
+      {
+        "text": "Plan management must audit the plan themselves"
+      },
+      {
+        "text": "Plan management must certify participant data"
+      },
+      {
+        "text": "Plan management must submit tax returns along with the audit"
+      }
+    ]
+  },
+  {
+    "text": "SAS 136 requires auditors to assess which of the following for Employee Benefit Plans?",
+    "options": [
+      {
+        "text": "Investment performance"
+      },
+      {
+        "text": "Employer match contributions"
+      },
+      {
+        "text": "Compliance with plan provisions and ERISA requirements",
+        "isCorrect": true
+      },
+      {
+        "text": "Plan participant satisfaction"
+      }
+    ]
+  },
+  {
+    "text": "Under SAS 136, what is one key area where the auditor must communicate findings to those charged with governance?",
+    "options": [
+      {
+        "text": "Plan fees"
+      },
+      {
+        "text": "Internal control deficiencies",
+        "isCorrect": true
+      },
+      {
+        "text": "Participant complaints"
+      },
+      {
+        "text": "Investment portfolio adjustments"
+      }
+    ]
+  },
+  {
+    "text": "What is the effective date of SAS 136 for audits of Employee Benefit Plans?",
+    "options": [
+      {
+        "text": "Periods beginning after December 15, 2019"
+      },
+      {
+        "text": "Periods ending on or after December 15, 2021",
+        "isCorrect": true
+      },
+      {
+        "text": "Periods ending before December 31, 2022"
+      },
+      {
+        "text": "Periods beginning before January 1, 2021"
+      }
+    ]
+  },
+  {
+    "text": "SAS 136 emphasizes which type of written representation from plan management?",
+    "options": [
+      {
+        "text": "Employee demographic data"
+      },
+      {
+        "text": "Compliance with health and safety standards"
+      },
+      {
+        "text": "Acknowledgement of responsibility for the plan's financial statements",
+        "isCorrect": true
+      },
+      {
+        "text": "Benefit calculations for participants"
+      }
+    ]
+  },
+  {
+    "text": "What additional opinion does SAS 136 require auditors to provide in ERISA Section 103(a)(3)(C) audits?",
+    "options": [
+      {
+        "text": "Whether the audit complies with ERISA and DOL requirements",
+        "isCorrect": true
+      },
+      {
+        "text": "Whether participant accounts are fully funded"
+      },
+      {
+        "text": "Whether plan participants understand their rights"
+      },
+      {
+        "text": "Whether the plan's fees are reasonable"
+      }
+    ]
+  },
+  {
+    "text": "SAS 136 requires the auditor to gain an understanding of which element of the Employee Benefit Plan?",
+    "options": [
+      {
+        "text": "The investment strategies"
+      },
+      {
+        "text": "The plan's internal control structure",
+        "isCorrect": true
+      },
+      {
+        "text": "The number of participants"
+      },
+      {
+        "text": "The employer's financial condition"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following must be communicated by the auditor to those charged with governance according to SAS 136?",
+    "options": [
+      {
+        "text": "Significant risks identified during the audit",
+        "isCorrect": true
+      },
+      {
+        "text": "Projected participant contributions"
+      },
+      {
+        "text": "Retirement age of all participants"
+      },
+      {
+        "text": "Expected rate of return on plan assets"
+      }
+    ]
+  },
+  {
+    "text": "What specific documentation must auditors obtain from plan management under SAS 136?",
+    "options": [
+      {
+        "text": "Historical investment returns"
+      },
+      {
+        "text": "A management representation letter",
+        "isCorrect": true
+      },
+      {
+        "text": "Participant feedback surveys"
+      },
+      {
+        "text": "Health and safety reports"
+      }
+    ]
+  },
+  {
+    "text": "How does SAS 136 affect auditors' communication with governance bodies?",
+    "options": [
+      {
+        "text": "It mandates increased communication of audit findings and deficiencies",
+        "isCorrect": true
+      },
+      {
+        "text": "It reduces the communication burden"
+      },
+      {
+        "text": "It eliminates the need for management letters"
+      },
+      {
+        "text": "It limits the auditor's responsibility to financial findings only"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following is required under SAS 136 for ERISA Section 103(a)(3)(C) audits?",
+    "options": [
+      {
+        "text": "A description of the audit scope and any limitations",
+        "isCorrect": true
+      },
+      {
+        "text": "A complete audit of all non-certified assets"
+      },
+      {
+        "text": "Testing of 100% of participant transactions"
+      },
+      {
+        "text": "A formal management interview process"
+      }
+    ]
+  },
+  {
+    "text": "What must an auditor evaluate in relation to participant transactions under SAS 136?",
+    "options": [
+      {
+        "text": "The timing of benefit payouts"
+      },
+      {
+        "text": "The number of loans taken by participants"
+      },
+      {
+        "text": "Whether participant transactions comply with plan terms",
+        "isCorrect": true
+      },
+      {
+        "text": "Whether all participants received equal benefits"
+      }
+    ]
+  },
+  {
+    "text": "What is the auditor's responsibility in determining plan compliance under SAS 136?",
+    "options": [
+      {
+        "text": "To evaluate whether the plan complies with ERISA and regulatory requirements",
+        "isCorrect": true
+      },
+      {
+        "text": "To ensure plan participants receive timely benefits"
+      },
+      {
+        "text": "To recommend changes to plan investments"
+      },
+      {
+        "text": "To verify the plan's tax-exempt status"
+      }
+    ]
+  },
+  {
+    "text": "Under SAS 136, the auditor must obtain an understanding of which aspect of the Employee Benefit Plan's operations?",
+    "options": [
+      {
+        "text": "The employer's financial performance"
+      },
+      {
+        "text": "Plan participants' satisfaction with the plan"
+      },
+      {
+        "text": "The plan's eligibility and contribution requirements",
+        "isCorrect": true
+      },
+      {
+        "text": "The employer's pension obligation"
+      }
+    ]
+  },
+  {
+    "text": "What is the key objective of SAS 134?",
+    "options": [
+      {
+        "text": "To eliminate auditor's responsibility for going concern"
+      },
+      {
+        "text": "To improve the transparency and clarity of the auditor's report",
+        "isCorrect": true
+      },
+      {
+        "text": "To limit auditor's liability in the event of financial misstatements"
+      },
+      {
+        "text": "To merge financial and compliance audits"
+      }
+    ]
+  },
+  {
+    "text": "In SAS 134, the auditor's opinion is now positioned in which part of the auditor's report?",
+    "options": [
+      {
+        "text": "At the beginning of the report",
+        "isCorrect": true
+      },
+      {
+        "text": "At the end of the report"
+      },
+      {
+        "text": "In the middle after the scope paragraph"
+      },
+      {
+        "text": "Before the management responsibilities"
+      }
+    ]
+  },
+  {
+    "text": "What significant change regarding \"going concern\" was introduced in SAS 134?",
+    "options": [
+      {
+        "text": "Removal of auditor's responsibility for going concern"
+      },
+      {
+        "text": "Clarification of the auditor's responsibility for evaluating going concern",
+        "isCorrect": true
+      },
+      {
+        "text": "Requirement for an audit client to certify its financial stability"
+      },
+      {
+        "text": "Adding a new section for material weaknesses"
+      }
+    ]
+  },
+  {
+    "text": "Under SAS 134, what key area of responsibility is explicitly detailed for management in the audit report?",
+    "options": [
+      {
+        "text": "Financial statement preparation only"
+      },
+      {
+        "text": "Financial statement preparation and internal control",
+        "isCorrect": true
+      },
+      {
+        "text": "External audit procedures"
+      },
+      {
+        "text": "Legal compliance"
+      }
+    ]
+  },
+  {
+    "text": "Which new section is introduced under SAS 134 for disclosing the basis of the audit opinion?",
+    "options": [
+      {
+        "text": "Basis for Opinion section",
+        "isCorrect": true
+      },
+      {
+        "text": "Compliance with regulations section"
+      },
+      {
+        "text": "Significant Audit Findings section"
+      },
+      {
+        "text": "Materiality Discussion section"
+      }
+    ]
+  },
+  {
+    "text": "What is the auditor's responsibility regarding disclosures under SAS 134?",
+    "options": [
+      {
+        "text": "Ensure the disclosure of proprietary information"
+      },
+      {
+        "text": "Evaluate whether disclosures are reasonable and clear",
+        "isCorrect": true
+      },
+      {
+        "text": "Recommend additional disclosures"
+      },
+      {
+        "text": "Prepare all required disclosures"
+      }
+    ]
+  },
+  {
+    "text": "Which part of the audit report requires auditors to state that they are independent?",
+    "options": [
+      {
+        "text": "Basis for Opinion section",
+        "isCorrect": true
+      },
+      {
+        "text": "Auditor Responsibilities section"
+      },
+      {
+        "text": "Scope of Audit section"
+      },
+      {
+        "text": "Management Representation section"
+      }
+    ]
+  },
+  {
+    "text": "What type of audit opinion is required if there are material misstatements in financial disclosures?",
+    "options": [
+      {
+        "text": "Adverse opinion"
+      },
+      {
+        "text": "Disclaimer of opinion"
+      },
+      {
+        "text": "Qualified or adverse opinion",
+        "isCorrect": true
+      },
+      {
+        "text": "Unqualified opinion"
+      }
+    ]
+  },
+  {
+    "text": "Which two key areas does SAS 135 amend from earlier standards?",
+    "options": [
+      {
+        "text": "Asset valuation and related-party transactions"
+      },
+      {
+        "text": "Communication with those charged with governance and related-party transactions",
+        "isCorrect": true
+      },
+      {
+        "text": "Auditor's legal liability and materiality"
+      },
+      {
+        "text": "Documentation of the audit process and client contracts"
+      }
+    ]
+  },
+  {
+    "text": "Under SAS 135, what is the primary auditor responsibility regarding related-party transactions?",
+    "options": [
+      {
+        "text": "Ensure the legality of related-party transactions"
+      },
+      {
+        "text": "Evaluate the financial impact of related-party transactions",
+        "isCorrect": true
+      },
+      {
+        "text": "Remove related-party transactions from financial statements"
+      },
+      {
+        "text": "Disclose all related-party transactions to the SEC"
+      }
+    ]
+  }
+]

@@ -1,0 +1,4609 @@
+[
+  {
+    "text": "SAS 135 updates the definition of which key governance-related term?",
+    "options": [
+      {
+        "text": "Fiduciary responsibility"
+      },
+      {
+        "text": "Those charged with governance",
+        "isCorrect": true
+      },
+      {
+        "text": "Internal audit function"
+      },
+      {
+        "text": "Whistleblower compliance"
+      }
+    ]
+  },
+  {
+    "text": "According to SAS 135, which of the following must be communicated to those charged with governance?",
+    "options": [
+      {
+        "text": "Compensation of the audit partner"
+      },
+      {
+        "text": "Auditor's views on significant qualitative aspects of accounting practices",
+        "isCorrect": true
+      },
+      {
+        "text": "The auditor's legal standing in potential lawsuits"
+      },
+      {
+        "text": "Investment strategies of the company"
+      }
+    ]
+  },
+  {
+    "text": "Which responsibility does SAS 135 emphasize in relation to accounting estimates?",
+    "options": [
+      {
+        "text": "Removing accounting estimates from financial statements"
+      },
+      {
+        "text": "Evaluating the reasonableness of accounting estimates",
+        "isCorrect": true
+      },
+      {
+        "text": "Delegating accounting estimates to an independent firm"
+      },
+      {
+        "text": "Ignoring estimates unless they affect cash flow"
+      }
+    ]
+  },
+  {
+    "text": "SAS 135 includes guidance on what specific communication with governance regarding uncorrected misstatements?",
+    "options": [
+      {
+        "text": "The auditor must decide whether to correct all misstatements"
+      },
+      {
+        "text": "Auditors must disclose all uncorrected misstatements",
+        "isCorrect": true
+      },
+      {
+        "text": "Auditors must document whether management was informed of misstatements"
+      },
+      {
+        "text": "Auditors must disregard trivial misstatements"
+      }
+    ]
+  },
+  {
+    "text": "What major change did SAS 136 make regarding limited-scope audits for Employee Benefit Plans?",
+    "options": [
+      {
+        "text": "Limited-scope audits are now called ERISA Section 103((3)(C) audits"
+      },
+      {
+        "text": "Limited-scope audits are now banned"
+      },
+      {
+        "text": "Auditors must review every participant transaction"
+      },
+      {
+        "text": "Plan management must personally perform the audit"
+      }
+    ]
+  },
+  {
+    "text": "Which responsibility did SAS 136 place on Employee Benefit Plan management during the audit process?",
+    "options": [
+      {
+        "text": "Acknowledging responsibility for maintaining plan records",
+        "isCorrect": true
+      },
+      {
+        "text": "Personally reviewing all participant accounts"
+      },
+      {
+        "text": "Conducting plan participant interviews"
+      },
+      {
+        "text": "Disclosing all personal investments"
+      }
+    ]
+  },
+  {
+    "text": "What opinion must the auditor provide if the audit client fails to provide sufficient audit evidence, according to SAS 136?",
+    "options": [
+      {
+        "text": "Disclaimer of opinion",
+        "isCorrect": true
+      },
+      {
+        "text": "Unqualified opinion"
+      },
+      {
+        "text": "Qualified opinion"
+      },
+      {
+        "text": "Adverse opinion"
+      }
+    ]
+  },
+  {
+    "text": "In SAS 136, what is the primary responsibility of the auditor when assessing a plan's compliance with ERISA regulations?",
+    "options": [
+      {
+        "text": "Testing participant satisfaction"
+      },
+      {
+        "text": "Reviewing employer contributions"
+      },
+      {
+        "text": "Evaluating whether the plan complies with ERISA and regulatory requirements",
+        "isCorrect": true
+      },
+      {
+        "text": "Auditing tax returns filed by the plan"
+      }
+    ]
+  },
+  {
+    "text": "What additional responsibility did SAS 136 emphasize for auditors when performing ERISA Section 103(a)(3)(C) audits?",
+    "options": [
+      {
+        "text": "Review of certified investment information",
+        "isCorrect": true
+      },
+      {
+        "text": "Calculation of employee benefits"
+      },
+      {
+        "text": "Verification of contribution rates"
+      },
+      {
+        "text": "Analysis of employer match programs"
+      }
+    ]
+  },
+  {
+    "text": "What type of information does SAS 137 address?",
+    "options": [
+      {
+        "text": "Other information included in annual reports",
+        "isCorrect": true
+      },
+      {
+        "text": "Employee benefits and payroll data"
+      },
+      {
+        "text": "Personal financial information of stakeholders"
+      },
+      {
+        "text": "Investment portfolio performance data"
+      }
+    ]
+  },
+  {
+    "text": "What responsibility does SAS 137 place on the auditor in relation to other information in an annual report?",
+    "options": [
+      {
+        "text": "Ignore it unless it affects cash flow"
+      },
+      {
+        "text": "Consider whether it is materially inconsistent with the financial statements",
+        "isCorrect": true
+      },
+      {
+        "text": "Disclose it to the SEC"
+      },
+      {
+        "text": "Review it only if requested by management"
+      }
+    ]
+  },
+  {
+    "text": "Which part of the financial statement does SAS 137 require the auditor to compare with other information in the annual report?",
+    "options": [
+      {
+        "text": "The tax provision"
+      },
+      {
+        "text": "The auditor's opinion on financial statements",
+        "isCorrect": true
+      },
+      {
+        "text": "The budget forecasts"
+      },
+      {
+        "text": "The retained earnings balance"
+      }
+    ]
+  },
+  {
+    "text": "SAS 137 requires the auditor to take what action if material inconsistencies are found between the financial statements and other information?",
+    "options": [
+      {
+        "text": "Request management to correct the other information",
+        "isCorrect": true
+      },
+      {
+        "text": "Withdraw from the engagement"
+      },
+      {
+        "text": "Ignore the inconsistency if it is less than 10%"
+      },
+      {
+        "text": "Modify the auditor's opinion to reflect the inconsistency"
+      }
+    ]
+  },
+  {
+    "text": "What is the auditor's responsibility if they identify a material misstatement of fact in other information, according to SAS 137?",
+    "options": [
+      {
+        "text": "Notify the SEC"
+      },
+      {
+        "text": "Issue an adverse opinion"
+      },
+      {
+        "text": "Discuss the misstatement with management",
+        "isCorrect": true
+      },
+      {
+        "text": "Ignore unless material to the audit"
+      }
+    ]
+  },
+  {
+    "text": "How should the auditor respond if management refuses to correct a material misstatement of fact in other information, per SAS 137?",
+    "options": [
+      {
+        "text": "Withdraw from the audit"
+      },
+      {
+        "text": "Include a statement in the audit report describing the misstatement",
+        "isCorrect": true
+      },
+      {
+        "text": "Disregard the misstatement if not significant to revenue"
+      },
+      {
+        "text": "Report the issue to external regulators"
+      }
+    ]
+  },
+  {
+    "text": "How did SAS 138 update the definition of materiality?",
+    "options": [
+      {
+        "text": "By lowering the threshold for significant risks"
+      },
+      {
+        "text": "By aligning the description of materiality with international standards",
+        "isCorrect": true
+      },
+      {
+        "text": "By including new qualitative factors"
+      },
+      {
+        "text": "By eliminating immaterial disclosures"
+      }
+    ]
+  },
+  {
+    "text": "What is the primary concept of materiality emphasized in SAS 138?",
+    "options": [
+      {
+        "text": "Materiality is only related to revenue"
+      },
+      {
+        "text": "Information is material if its omission could influence the decisions of users",
+        "isCorrect": true
+      },
+      {
+        "text": "Materiality relates solely to the financial health of the entity"
+      },
+      {
+        "text": "Auditors can determine materiality without input from management"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following factors does SAS 138 suggest auditors consider when assessing materiality?",
+    "options": [
+      {
+        "text": "Market share of the company"
+      },
+      {
+        "text": "Both quantitative and qualitative factors",
+        "isCorrect": true
+      },
+      {
+        "text": "Compensation of the audit committee"
+      },
+      {
+        "text": "Only quantitative factors"
+      }
+    ]
+  },
+  {
+    "text": "SAS 138 aligns its description of materiality with which key framework?",
+    "options": [
+      {
+        "text": "International Financial Reporting Standards (IFRS)",
+        "isCorrect": true
+      },
+      {
+        "text": "Federal Accounting Standards Advisory Board (FASA"
+      },
+      {
+        "text": "Internal Revenue Service (IRS) guidelines"
+      },
+      {
+        "text": "Generally Accepted Government Auditing Standards (GAGAS)"
+      }
+    ]
+  },
+  {
+    "text": "What is the auditor's responsibility if information is immaterial but still requires disclosure?",
+    "options": [
+      {
+        "text": "Remove the information from the audit report"
+      },
+      {
+        "text": "Disclose the information clearly without affecting materiality judgment",
+        "isCorrect": true
+      },
+      {
+        "text": "Ignore the information altogether"
+      },
+      {
+        "text": "Highlight immaterial disclosures to regulators"
+      }
+    ]
+  },
+  {
+    "text": "Does SAS 138 require changes in how auditors assess risks of material misstatement?",
+    "options": [
+      {
+        "text": "No, but it emphasizes the need for clarity in describing materiality",
+        "isCorrect": true
+      },
+      {
+        "text": "Yes, auditors must apply new quantitative thresholds"
+      },
+      {
+        "text": "No, it allows auditors to apply prior standards"
+      },
+      {
+        "text": "Yes, but only for large entities"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following actions can be affected by the auditor's judgment of materiality under SAS 138?",
+    "options": [
+      {
+        "text": "The audit fee schedule"
+      },
+      {
+        "text": "The issuance of stock dividends"
+      },
+      {
+        "text": "The nature, timing, and extent of audit procedures",
+        "isCorrect": true
+      },
+      {
+        "text": "The calculation of corporate taxes"
+      }
+    ]
+  },
+  {
+    "text": "What concept of materiality is emphasized in both SAS 138 and IFRS?",
+    "options": [
+      {
+        "text": "Materiality is a subjective audit concept"
+      },
+      {
+        "text": "Information is material if it could influence users' decisions",
+        "isCorrect": true
+      },
+      {
+        "text": "Materiality is only quantitative"
+      },
+      {
+        "text": "Materiality relates to historical cost accounting"
+      }
+    ]
+  },
+  {
+    "text": "What did SAS 139 primarily do regarding the effective dates of SAS Nos. 134-138?",
+    "options": [
+      {
+        "text": "Cancelled their implementation indefinitely"
+      },
+      {
+        "text": "Delayed their effective dates due to the impact of the COVID-19 pandemic",
+        "isCorrect": true
+      },
+      {
+        "text": "Merged them into a single standard"
+      },
+      {
+        "text": "Accelerated their implementation by one year"
+      }
+    ]
+  },
+  {
+    "text": "When was the new effective date for SAS 134-138 as per SAS 139?",
+    "options": [
+      {
+        "text": "Fiscal years beginning after June 15, 2021"
+      },
+      {
+        "text": "Fiscal years ending on or after December 15, 2021",
+        "isCorrect": true
+      },
+      {
+        "text": "Fiscal years starting January 1, 2021"
+      },
+      {
+        "text": "Fiscal years beginning after September 30, 2020"
+      }
+    ]
+  },
+  {
+    "text": "What was the primary reason for delaying the implementation of SAS 134-138?",
+    "options": [
+      {
+        "text": "The COVID-19 pandemic and related disruptions",
+        "isCorrect": true
+      },
+      {
+        "text": "Lack of readiness in the audit profession"
+      },
+      {
+        "text": "Financial crises in key markets"
+      },
+      {
+        "text": "Overlap with PCAOB standards"
+      }
+    ]
+  },
+  {
+    "text": "What impact did SAS 139 have on audits for fiscal years ending before December 15, 2021?",
+    "options": [
+      {
+        "text": "No audits were affected"
+      },
+      {
+        "text": "Audits could apply earlier versions of SAS standards",
+        "isCorrect": true
+      },
+      {
+        "text": "Auditors had to adopt new standards for all engagements"
+      },
+      {
+        "text": "Financial statements had to be restated"
+      }
+    ]
+  },
+  {
+    "text": "Was early implementation of SAS Nos. 134-138 allowed under SAS 139?",
+    "options": [
+      {
+        "text": "Yes, auditors were permitted to early implement the standards",
+        "isCorrect": true
+      },
+      {
+        "text": "No, early implementation was not allowed"
+      },
+      {
+        "text": "Only for certain industries"
+      },
+      {
+        "text": "Only for audits conducted outside the U.S."
+      }
+    ]
+  },
+  {
+    "text": "Which industries were most affected by the delayed effective dates in SAS 139?",
+    "options": [
+      {
+        "text": "Industries heavily impacted by COVID-19, such as hospitality and retail",
+        "isCorrect": true
+      },
+      {
+        "text": "High-tech and finance industries"
+      },
+      {
+        "text": "Government and non-profit organizations"
+      },
+      {
+        "text": "Manufacturing and construction sectors"
+      }
+    ]
+  },
+  {
+    "text": "SAS 140 primarily makes amendments to which areas?",
+    "options": [
+      {
+        "text": "Audit procedures and fraud detection"
+      },
+      {
+        "text": "Supplementary information and compliance audits",
+        "isCorrect": true
+      },
+      {
+        "text": "Tax audit procedures and investment portfolios"
+      },
+      {
+        "text": "Global auditing standards"
+      }
+    ]
+  },
+  {
+    "text": "What is the focus of the amendments to AU-C 725 under SAS 140?",
+    "options": [
+      {
+        "text": "Disclosure of international operations"
+      },
+      {
+        "text": "Auditing of supplementary information in relation to the financial statements",
+        "isCorrect": true
+      },
+      {
+        "text": "Reviewing off-balance sheet transactions"
+      },
+      {
+        "text": "Establishing tax liabilities"
+      }
+    ]
+  },
+  {
+    "text": "SAS 140 amends which AU-C section related to compliance audits?",
+    "options": [
+      {
+        "text": "AU-C 500"
+      },
+      {
+        "text": "AU-C 935",
+        "isCorrect": true
+      },
+      {
+        "text": "AU-C 320"
+      },
+      {
+        "text": "AU-C 850"
+      }
+    ]
+  },
+  {
+    "text": "What key amendment does SAS 140 introduce for AU-C 730 (Required Supplementary Information)?",
+    "options": [
+      {
+        "text": "Clarifies auditor responsibilities for limited procedures on required supplementary information",
+        "isCorrect": true
+      },
+      {
+        "text": "Increases auditor responsibilities for comprehensive testing"
+      },
+      {
+        "text": "Eliminates auditor review of supplementary information"
+      },
+      {
+        "text": "Requires external review of supplementary information"
+      }
+    ]
+  },
+  {
+    "text": "What area does SAS 140 address regarding AU-C 930 (Interim Financial Information)?",
+    "options": [
+      {
+        "text": "Disclosures about derivative instruments"
+      },
+      {
+        "text": "Review of interim financial information for entities that issue public debt",
+        "isCorrect": true
+      },
+      {
+        "text": "Fair value measurement procedures"
+      },
+      {
+        "text": "Asset retirement obligations"
+      }
+    ]
+  },
+  {
+    "text": "SAS 140 amends AU-C 940 to address what key area?",
+    "options": [
+      {
+        "text": "Financial reporting of international subsidiaries"
+      },
+      {
+        "text": "Cash flow management"
+      },
+      {
+        "text": "The auditor's responsibility for evaluating internal control over financial reporting",
+        "isCorrect": true
+      },
+      {
+        "text": "Tax planning and reporting"
+      }
+    ]
+  },
+  {
+    "text": "What key responsibility does SAS 140 place on auditors for evaluating interim financial information under AU-C 930?",
+    "options": [
+      {
+        "text": "Ignoring the effects of subsequent events"
+      },
+      {
+        "text": "Reviewing whether significant events after the interim period affect the statements",
+        "isCorrect": true
+      },
+      {
+        "text": "Removing internal control disclosures"
+      },
+      {
+        "text": "Requiring clients to disclose related-party transactions"
+      }
+    ]
+  },
+  {
+    "text": "In SAS 140, the audit procedures related to internal control over financial reporting are aligned with which broader auditing framework?",
+    "options": [
+      {
+        "text": "GAGAS (Generally Accepted Government Auditing Standards)"
+      },
+      {
+        "text": "COSO (Committee of Sponsoring Organizations of the Treadway Commission) framework",
+        "isCorrect": true
+      },
+      {
+        "text": "SOX (Sarbanes-Oxley Act) requirements"
+      },
+      {
+        "text": "ISAs (International Standards on Auditing)"
+      }
+    ]
+  },
+  {
+    "text": "What specific guidance does SAS 140 give auditors regarding supplementary information and compliance audits?",
+    "options": [
+      {
+        "text": "They can exclude compliance audits from financial statements"
+      },
+      {
+        "text": "Supplementary information is optional for audit reports"
+      },
+      {
+        "text": "Auditors must clearly indicate whether supplementary information is fairly stated in relation to the financial statements as a whole",
+        "isCorrect": true
+      },
+      {
+        "text": "Compliance audits are only required for public entities"
+      }
+    ]
+  },
+  {
+    "text": "Why does SAS 140 emphasize the importance of internal control assessments during compliance audits?",
+    "options": [
+      {
+        "text": "To ensure that compliance risks are mitigated effectively",
+        "isCorrect": true
+      },
+      {
+        "text": "To reduce the audit scope in low-risk areas"
+      },
+      {
+        "text": "To expedite the audit process in smaller entities"
+      },
+      {
+        "text": "To focus on only financial transactions"
+      }
+    ]
+  },
+  {
+    "text": "Under SAS 140, how should auditors report on compliance when conducting audits of governmental entities?",
+    "options": [
+      {
+        "text": "Compliance audits are not required for governmental entities"
+      },
+      {
+        "text": "Auditors must include a separate compliance report or statement within the audit report",
+        "isCorrect": true
+      },
+      {
+        "text": "Compliance audits are treated the same as financial audits"
+      },
+      {
+        "text": "Auditors should ignore compliance issues unless required by law"
+      }
+    ]
+  },
+  {
+    "text": "What additional guidance does SAS 140 provide regarding AU-C 940 on internal control over financial reporting (ICFR)?",
+    "options": [
+      {
+        "text": "ICFR reviews are only required for large public companies"
+      },
+      {
+        "text": "ICFR reviews are optional for entities under $100 million in revenue"
+      },
+      {
+        "text": "Auditors must obtain a sufficient understanding of ICFR to assess the risk of material misstatement",
+        "isCorrect": true
+      },
+      {
+        "text": "ICFR reviews are the responsibility of management only"
+      }
+    ]
+  },
+  {
+    "text": "What is a significant outcome of non-compliance in relation to SAS 140's guidance on AU-C 930 for interim financial information?",
+    "options": [
+      {
+        "text": "Immaterial non-compliance has no consequences"
+      },
+      {
+        "text": "Significant non-compliance may lead to a qualified or adverse opinion",
+        "isCorrect": true
+      },
+      {
+        "text": "Auditors must always issue an unqualified opinion for interim financial statements"
+      },
+      {
+        "text": "Non-compliance is only material if it affects revenue"
+      }
+    ]
+  },
+  {
+    "text": "In SAS 140, what is the auditor's obligation regarding the evaluation of interim financial information for entities that issue public debt?",
+    "options": [
+      {
+        "text": "Review is optional"
+      },
+      {
+        "text": "Auditors must review whether significant events after the interim period affect the statements",
+        "isCorrect": true
+      },
+      {
+        "text": "Only review debt disclosures"
+      },
+      {
+        "text": "Review is not required unless requested by stakeholders"
+      }
+    ]
+  },
+  {
+    "text": "How does SAS 140 amend the auditor's responsibility for compliance audits related to AU-C 725 (Supplementary Information)?",
+    "options": [
+      {
+        "text": "Auditors no longer need to assess compliance"
+      },
+      {
+        "text": "Supplementary information can be excluded from the audit report"
+      },
+      {
+        "text": "Auditors must evaluate whether supplementary information is fairly stated in relation to the financial statements as a whole",
+        "isCorrect": true
+      },
+      {
+        "text": "Auditors are responsible for conducting detailed testing of all compliance information"
+      }
+    ]
+  },
+  {
+    "text": "Under SAS 140, how should auditors approach supplementary information that includes immaterial items?",
+    "options": [
+      {
+        "text": "Exclude it from the audit report"
+      },
+      {
+        "text": "Disclose it clearly without affecting the judgment of materiality",
+        "isCorrect": true
+      },
+      {
+        "text": "Ignore immaterial supplementary information"
+      },
+      {
+        "text": "Restate financial statements if immaterial items are present"
+      }
+    ]
+  },
+  {
+    "text": "What is the purpose of SAS 141?",
+    "options": [
+      {
+        "text": "To delay the effective date of SAS No. 136 due to implementation challenges",
+        "isCorrect": true
+      },
+      {
+        "text": "To revise audit procedures for public companies"
+      },
+      {
+        "text": "To increase auditor responsibilities for assessing fraud"
+      },
+      {
+        "text": "To remove certain disclosures from audit reports"
+      }
+    ]
+  },
+  {
+    "text": "What is the new effective date of SAS No. 136 as per SAS 141?",
+    "options": [
+      {
+        "text": "Fiscal years ending after June 30, 2021"
+      },
+      {
+        "text": "Fiscal years ending after December 31, 2020"
+      },
+      {
+        "text": "Fiscal years ending on or after December 15, 2021",
+        "isCorrect": true
+      },
+      {
+        "text": "Fiscal years beginning after September 30, 2021"
+      }
+    ]
+  },
+  {
+    "text": "Why did SAS 141 delay the effective date of SAS No. 136?",
+    "options": [
+      {
+        "text": "Auditors were not ready for implementation"
+      },
+      {
+        "text": "Stakeholders requested more time to adjust their processes"
+      },
+      {
+        "text": "The COVID-19 pandemic caused widespread disruptions in auditing",
+        "isCorrect": true
+      },
+      {
+        "text": "New regulatory requirements were introduced"
+      }
+    ]
+  },
+  {
+    "text": "Was early implementation of SAS No. 136 allowed under SAS 141?",
+    "options": [
+      {
+        "text": "Yes, early implementation was permitted",
+        "isCorrect": true
+      },
+      {
+        "text": "No, early implementation was prohibited"
+      },
+      {
+        "text": "Only for audits of governmental entities"
+      },
+      {
+        "text": "Only for audits conducted in 2022"
+      }
+    ]
+  },
+  {
+    "text": "What specific challenges did auditors face that led to the delay of SAS No. 136, as per SAS 141?",
+    "options": [
+      {
+        "text": "Difficulty in auditing international subsidiaries"
+      },
+      {
+        "text": "Disruptions caused by the COVID-19 pandemic and a lack of readiness in the profession",
+        "isCorrect": true
+      },
+      {
+        "text": "Technological issues in financial reporting systems"
+      },
+      {
+        "text": "Regulatory changes in the taxation system"
+      }
+    ]
+  },
+  {
+    "text": "What is the primary purpose of SAS 142?",
+    "options": [
+      {
+        "text": "To provide guidance on the audit procedures related to financial instruments"
+      },
+      {
+        "text": "To enhance the auditor's understanding of audit evidence and how it should be evaluated",
+        "isCorrect": true
+      },
+      {
+        "text": "To establish rules for the audit of inventory"
+      },
+      {
+        "text": "To define audit risk"
+      }
+    ]
+  },
+  {
+    "text": "How does SAS 142 redefine \"audit evidence\"?",
+    "options": [
+      {
+        "text": "It expands the types of audit evidence that can be considered sufficient and appropriate.",
+        "isCorrect": true
+      },
+      {
+        "text": "It restricts the types of audit evidence allowed."
+      },
+      {
+        "text": "It mandates that all evidence must be obtained through substantive testing."
+      },
+      {
+        "text": "It limits the use of external confirmations as audit evidence."
+      }
+    ]
+  },
+  {
+    "text": "Which of the following is NOT a factor affecting the sufficiency and appropriateness of audit evidence as per SAS 142?",
+    "options": [
+      {
+        "text": "The relevance of the evidence"
+      },
+      {
+        "text": "The reliability of the evidence"
+      },
+      {
+        "text": "The cost of obtaining the evidence",
+        "isCorrect": true
+      },
+      {
+        "text": "The persuasiveness of the evidence"
+      }
+    ]
+  },
+  {
+    "text": "SAS 142 introduces considerations for evaluating audit evidence. Which of the following is a new focus area for evaluating evidence?",
+    "options": [
+      {
+        "text": "Precision of audit estimates"
+      },
+      {
+        "text": "The process of inquiry as an audit procedure"
+      },
+      {
+        "text": "The need for corroborating evidence when relying on external sources",
+        "isCorrect": true
+      },
+      {
+        "text": "The sufficiency of audit documentation"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following procedures has been emphasized more in SAS 142 in relation to obtaining audit evidence?",
+    "options": [
+      {
+        "text": "Physical inventory counts"
+      },
+      {
+        "text": "Analytical procedures"
+      },
+      {
+        "text": "External confirmations",
+        "isCorrect": true
+      },
+      {
+        "text": "Substantive testing of revenue"
+      }
+    ]
+  },
+  {
+    "text": "Under SAS 142, which of the following is considered the most reliable source of audit evidence?",
+    "options": [
+      {
+        "text": "Evidence obtained through inquiry"
+      },
+      {
+        "text": "Evidence obtained from the entity's internal records"
+      },
+      {
+        "text": "Evidence obtained from external, independent sources",
+        "isCorrect": true
+      },
+      {
+        "text": "Evidence obtained from analytical procedures"
+      }
+    ]
+  },
+  {
+    "text": "What concept has SAS 142 reinforced regarding the use of external confirmations?",
+    "options": [
+      {
+        "text": "External confirmations are mandatory for every audit."
+      },
+      {
+        "text": "External confirmations are only necessary when materiality is at risk."
+      },
+      {
+        "text": "External confirmations are considered more reliable when corroborated by other evidence.",
+        "isCorrect": true
+      },
+      {
+        "text": "External confirmations can be replaced with inquiry when necessary."
+      }
+    ]
+  },
+  {
+    "text": "How does SAS 142 impact the auditor's judgment of the reliability of evidence obtained from management?",
+    "options": [
+      {
+        "text": "It requires all management-provided evidence to be confirmed externally."
+      },
+      {
+        "text": "It emphasizes professional skepticism when assessing evidence provided by management.",
+        "isCorrect": true
+      },
+      {
+        "text": "It mandates that all management-provided evidence be disregarded."
+      },
+      {
+        "text": "It prohibits reliance on management representations."
+      }
+    ]
+  },
+  {
+    "text": "Which of the following is a key factor that influences the auditor's judgment regarding the sufficiency of audit evidence under SAS 142?",
+    "options": [
+      {
+        "text": "The quality of evidence rather than the quantity",
+        "isCorrect": true
+      },
+      {
+        "text": "The number of documents inspected"
+      },
+      {
+        "text": "The time spent by the auditor on testing"
+      },
+      {
+        "text": "The level of client cooperation during the audit"
+      }
+    ]
+  },
+  {
+    "text": "What is the primary consideration for an auditor when using evidence obtained from an expert under SAS 142?",
+    "options": [
+      {
+        "text": "The auditor must independently verify the expert's qualifications."
+      },
+      {
+        "text": "The auditor should always rely on the expert's evidence without further review."
+      },
+      {
+        "text": "The auditor must assess the relevance and reliability of the expert's evidence.",
+        "isCorrect": true
+      },
+      {
+        "text": "The auditor should not use expert evidence unless required by law."
+      }
+    ]
+  },
+  {
+    "text": "According to SAS 142, when assessing the relevance of audit evidence, which of the following should the auditor consider?",
+    "options": [
+      {
+        "text": "Whether the evidence supports the auditor's original hypothesis"
+      },
+      {
+        "text": "Whether the evidence relates to the assertion being tested",
+        "isCorrect": true
+      },
+      {
+        "text": "Whether the evidence is derived from internal sources"
+      },
+      {
+        "text": "Whether the evidence was obtained within the last fiscal year"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following does SAS 142 emphasize as crucial in evaluating the sufficiency of audit evidence?",
+    "options": [
+      {
+        "text": "The materiality of the financial statement assertion",
+        "isCorrect": true
+      },
+      {
+        "text": "The reliability of the auditor's working papers"
+      },
+      {
+        "text": "The scope of the audit engagement"
+      },
+      {
+        "text": "The length of time taken to gather the evidence"
+      }
+    ]
+  },
+  {
+    "text": "How does SAS 142 define the term \"persuasive audit evidence\"?",
+    "options": [
+      {
+        "text": "Evidence that conclusively proves the financial statement assertions"
+      },
+      {
+        "text": "Evidence that is convincing enough to provide reasonable assurance",
+        "isCorrect": true
+      },
+      {
+        "text": "Evidence that complies with all audit regulations"
+      },
+      {
+        "text": "Evidence that supports all transactions tested"
+      }
+    ]
+  },
+  {
+    "text": "What is a key change in the audit procedures related to \"inquiry\" as outlined in SAS 142?",
+    "options": [
+      {
+        "text": "Inquiry alone is now sufficient as audit evidence."
+      },
+      {
+        "text": "Inquiry is only considered valid when documented in writing."
+      },
+      {
+        "text": "Inquiry must be corroborated by other forms of evidence.",
+        "isCorrect": true
+      },
+      {
+        "text": "Inquiry is no longer permitted as audit evidence."
+      }
+    ]
+  },
+  {
+    "text": "Under SAS 142, what is the auditor's responsibility when using evidence from analytical procedures?",
+    "options": [
+      {
+        "text": "The auditor must ensure that analytical procedures replace substantive testing."
+      },
+      {
+        "text": "The auditor must use analytical procedures only in the planning phase."
+      },
+      {
+        "text": "The auditor must corroborate results from analytical procedures with other audit evidence.",
+        "isCorrect": true
+      },
+      {
+        "text": "The auditor should disregard evidence from analytical procedures if it contradicts management representations."
+      }
+    ]
+  },
+  {
+    "text": "SAS 142 discusses the reliability of audit evidence based on its source. Which source is considered the least reliable?",
+    "options": [
+      {
+        "text": "External, independent confirmations"
+      },
+      {
+        "text": "Evidence obtained from the entity's internal records",
+        "isCorrect": true
+      },
+      {
+        "text": "Evidence obtained through observation"
+      },
+      {
+        "text": "Evidence obtained from legal counsel"
+      }
+    ]
+  },
+  {
+    "text": "According to SAS 142, what is the significance of audit documentation in the context of audit evidence?",
+    "options": [
+      {
+        "text": "Documentation is optional if the evidence is verbal."
+      },
+      {
+        "text": "Documentation is required only for material transactions."
+      },
+      {
+        "text": "Documentation must be sufficient to allow an experienced auditor to understand the nature of the evidence.",
+        "isCorrect": true
+      },
+      {
+        "text": "Documentation must be minimal to avoid disclosing confidential information."
+      }
+    ]
+  },
+  {
+    "text": "How does SAS 142 address the concept of \"bias\" in audit evidence?",
+    "options": [
+      {
+        "text": "It requires the auditor to disregard any evidence provided by biased parties."
+      },
+      {
+        "text": "It emphasizes that all evidence must be evaluated for potential bias.",
+        "isCorrect": true
+      },
+      {
+        "text": "It mandates that biased evidence be weighted more heavily."
+      },
+      {
+        "text": "It removes the auditor's responsibility to assess bias in evidence."
+      }
+    ]
+  },
+  {
+    "text": "What is one major focus of SAS 142 regarding evidence obtained electronically?",
+    "options": [
+      {
+        "text": "Electronic evidence is always considered reliable."
+      },
+      {
+        "text": "Electronic evidence must be manually verified."
+      },
+      {
+        "text": "The reliability of electronic evidence depends on the controls over its preparation and maintenance.",
+        "isCorrect": true
+      },
+      {
+        "text": "Electronic evidence can only be used for audit sampling."
+      }
+    ]
+  },
+  {
+    "text": "Under SAS 142, how should the auditor handle evidence that contradicts other evidence obtained?",
+    "options": [
+      {
+        "text": "The auditor should ignore contradictory evidence."
+      },
+      {
+        "text": "The auditor should seek additional evidence to resolve the inconsistency.",
+        "isCorrect": true
+      },
+      {
+        "text": "The auditor must immediately issue a qualified opinion."
+      },
+      {
+        "text": "The auditor should rely on management representations to resolve the contradiction."
+      }
+    ]
+  },
+  {
+    "text": "What is the primary objective of SAS 145?",
+    "options": [
+      {
+        "text": "To redefine the auditor's responsibility for detecting fraud"
+      },
+      {
+        "text": "To enhance the auditor's approach to understanding the entity and its environment, including its internal controls",
+        "isCorrect": true
+      },
+      {
+        "text": "To limit the auditor's responsibility for assessing risks of material misstatement"
+      },
+      {
+        "text": "To eliminate the need for substantive testing in low-risk audits"
+      }
+    ]
+  },
+  {
+    "text": "Which key risk assessment concept was significantly clarified under SAS 145?",
+    "options": [
+      {
+        "text": "The identification of significant risks",
+        "isCorrect": true
+      },
+      {
+        "text": "The auditor's responsibility for detecting fraud"
+      },
+      {
+        "text": "The classification of inherent risk versus control risk"
+      },
+      {
+        "text": "The materiality thresholds for various classes of transactions"
+      }
+    ]
+  },
+  {
+    "text": "How does SAS 145 redefine the concept of \"significant risk\"?",
+    "options": [
+      {
+        "text": "As any risk with a material effect on the financial statements"
+      },
+      {
+        "text": "As a risk requiring special audit attention due to its likelihood and magnitude of misstatement",
+        "isCorrect": true
+      },
+      {
+        "text": "As any risk related to fraud"
+      },
+      {
+        "text": "As a risk that can be mitigated through testing controls"
+      }
+    ]
+  },
+  {
+    "text": "What new focus does SAS 145 place on inherent risk factors?",
+    "options": [
+      {
+        "text": "It mandates that inherent risks be identified in all audit engagements."
+      },
+      {
+        "text": "It emphasizes the consideration of complexity, subjectivity, change, and uncertainty in risk assessment.",
+        "isCorrect": true
+      },
+      {
+        "text": "It suggests that inherent risks are less important than control risks."
+      },
+      {
+        "text": "It limits the auditor's consideration of inherent risk to fraud risk only."
+      }
+    ]
+  },
+  {
+    "text": "How does SAS 145 guide auditors to address risks arising from the entity's internal environment?",
+    "options": [
+      {
+        "text": "By requiring external confirmations for all key transactions"
+      },
+      {
+        "text": "By evaluating both design and implementation of relevant internal controls",
+        "isCorrect": true
+      },
+      {
+        "text": "By assuming that all internal environments are prone to fraud"
+      },
+      {
+        "text": "By reducing the focus on the control environment in the audit process"
+      }
+    ]
+  },
+  {
+    "text": "Under SAS 145, which of the following factors must be considered in the auditor's risk assessment process?",
+    "options": [
+      {
+        "text": "The financial health of the entity only"
+      },
+      {
+        "text": "External factors such as market and regulatory conditions",
+        "isCorrect": true
+      },
+      {
+        "text": "The timing of audit evidence collection"
+      },
+      {
+        "text": "The personal relationships between management and auditors"
+      }
+    ]
+  },
+  {
+    "text": "How does SAS 145 impact the auditor's assessment of control risk?",
+    "options": [
+      {
+        "text": "It allows the auditor to disregard control risk when materiality is low."
+      },
+      {
+        "text": "It requires the auditor to assess control risk separately from inherent risk.",
+        "isCorrect": true
+      },
+      {
+        "text": "It eliminates the need to assess control risk for small entities."
+      },
+      {
+        "text": "It mandates that control risk be treated as negligible if no significant risks are identified."
+      }
+    ]
+  },
+  {
+    "text": "Which of the following internal control components does SAS 145 emphasize when identifying risks of material misstatement?",
+    "options": [
+      {
+        "text": "Control activities"
+      },
+      {
+        "text": "Monitoring of controls"
+      },
+      {
+        "text": "The overall control environment",
+        "isCorrect": true
+      },
+      {
+        "text": "Communication and information systems"
+      }
+    ]
+  },
+  {
+    "text": "What is the auditor's responsibility under SAS 145 regarding the evaluation of the entity's IT environment?",
+    "options": [
+      {
+        "text": "The auditor must ignore the IT environment unless there are fraud risks."
+      },
+      {
+        "text": "The auditor is required to assess how the IT environment affects the risk of material misstatement.",
+        "isCorrect": true
+      },
+      {
+        "text": "The auditor should rely on management's assessment of IT risk."
+      },
+      {
+        "text": "The IT environment is not considered a factor in assessing audit risks."
+      }
+    ]
+  },
+  {
+    "text": "Under SAS 145, how should the auditor approach the identification of risks arising from significant changes in the entity's environment?",
+    "options": [
+      {
+        "text": "Only when the changes are directly related to financial reporting"
+      },
+      {
+        "text": "By considering the potential impact of any significant changes, regardless of their nature",
+        "isCorrect": true
+      },
+      {
+        "text": "By disregarding changes that occurred before the start of the audit period"
+      },
+      {
+        "text": "By focusing exclusively on changes in senior management"
+      }
+    ]
+  },
+  {
+    "text": "How does SAS 145 redefine the term \"relevant assertions\" in the context of risk assessment?",
+    "options": [
+      {
+        "text": "As all assertions in the financial statements, regardless of risk level"
+      },
+      {
+        "text": "As those assertions that have a reasonable possibility of containing a misstatement",
+        "isCorrect": true
+      },
+      {
+        "text": "As any assertion that management believes to be material"
+      },
+      {
+        "text": "As those that the auditor deems to be immaterial for testing"
+      }
+    ]
+  },
+  {
+    "text": "What does SAS 145 recommend as the auditor's next step after identifying significant risks?",
+    "options": [
+      {
+        "text": "The auditor should immediately issue a qualified opinion."
+      },
+      {
+        "text": "The auditor must perform specific procedures to address these risks, including tests of controls and substantive procedures.",
+        "isCorrect": true
+      },
+      {
+        "text": "The auditor should rely on management's representations to resolve these risks."
+      },
+      {
+        "text": "The auditor should perform a walk-through to confirm the presence of risks."
+      }
+    ]
+  },
+  {
+    "text": "How does SAS 145 affect the auditor's use of analytical procedures during the risk assessment phase?",
+    "options": [
+      {
+        "text": "Analytical procedures are no longer required for risk assessment."
+      },
+      {
+        "text": "Analytical procedures must be more thoroughly documented when used."
+      },
+      {
+        "text": "Analytical procedures should be used only at the completion of the audit."
+      },
+      {
+        "text": "Analytical procedures should be supplemented with other evidence when used in risk assessment.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "text": "How does SAS 145 impact the relationship between the auditor's understanding of internal controls and risk assessment?",
+    "options": [
+      {
+        "text": "The auditor may rely solely on substantive testing without considering internal controls."
+      },
+      {
+        "text": "The auditor is required to gain a deeper understanding of controls even if they do not intend to rely on them.",
+        "isCorrect": true
+      },
+      {
+        "text": "Internal controls are no longer relevant to the risk assessment process."
+      },
+      {
+        "text": "The auditor can now disregard control activities when assessing risk."
+      }
+    ]
+  },
+  {
+    "text": "Which key concept introduced in SAS 145 helps auditors assess risk more effectively?",
+    "options": [
+      {
+        "text": "The integration of inherent and control risk as one component"
+      },
+      {
+        "text": "The application of professional skepticism in the identification of risks",
+        "isCorrect": true
+      },
+      {
+        "text": "The exclusion of fraud risks from standard risk assessments"
+      },
+      {
+        "text": "The minimization of risk factors when assessing small entities"
+      }
+    ]
+  },
+  {
+    "text": "What does SAS 145 say about using prior period evidence to assess current period risks?",
+    "options": [
+      {
+        "text": "Prior period evidence should never be used for current period assessments."
+      },
+      {
+        "text": "Prior period evidence can be useful but must be reassessed for its current relevance and accuracy.",
+        "isCorrect": true
+      },
+      {
+        "text": "Prior period evidence is sufficient to assess risks for the current period."
+      },
+      {
+        "text": "Prior period evidence should be treated as the primary source of evidence."
+      }
+    ]
+  },
+  {
+    "text": "How does SAS 145 affect the auditor's consideration of fraud risk in the risk assessment process?",
+    "options": [
+      {
+        "text": "It separates fraud risk from other types of risks."
+      },
+      {
+        "text": "It mandates that fraud risk be considered in every audit, regardless of the entity's control environment.",
+        "isCorrect": true
+      },
+      {
+        "text": "Fraud risk is no longer considered significant unless there is direct evidence."
+      },
+      {
+        "text": "Fraud risk should only be considered when there are signs of management override."
+      }
+    ]
+  },
+  {
+    "text": "What does SAS 145 emphasize regarding the documentation of the risk assessment process?",
+    "options": [
+      {
+        "text": "Documentation is optional as long as the auditor has a verbal understanding of risks."
+      },
+      {
+        "text": "Documentation must include all identified risks and how they are addressed by audit procedures.",
+        "isCorrect": true
+      },
+      {
+        "text": "Documentation should focus on risks related to transactions over $1 million."
+      },
+      {
+        "text": "Documentation is only required for high-risk areas."
+      }
+    ]
+  },
+  {
+    "text": "Under SAS 145, what is the impact of the entity's use of third-party service organizations on the auditor's risk assessment?",
+    "options": [
+      {
+        "text": "The auditor must disregard the effect of third-party service organizations."
+      },
+      {
+        "text": "The auditor must assess how the use of third-party service organizations impacts the risks of material misstatement.",
+        "isCorrect": true
+      },
+      {
+        "text": "The auditor is required to test the controls at the third-party service organizations."
+      },
+      {
+        "text": "The auditor should treat third-party services as irrelevant to financial reporting."
+      }
+    ]
+  },
+  {
+    "text": "How does SAS 145 modify the treatment of \"unpredictability\" in the audit plan?",
+    "options": [
+      {
+        "text": "It requires the auditor to introduce unpredictability into every aspect of the audit."
+      },
+      {
+        "text": "It mandates the auditor to incorporate unpredictability in procedures related to fraud risk only.",
+        "isCorrect": true
+      },
+      {
+        "text": "It eliminates the need for unpredictable audit procedures."
+      },
+      {
+        "text": "It suggests limiting unpredictability to low-risk areas."
+      }
+    ]
+  },
+  {
+    "text": "What accounting method do CIRAs typically use to prepare financial statements?",
+    "options": [
+      {
+        "text": "Accrual method",
+        "isCorrect": true
+      },
+      {
+        "text": "Cash method"
+      },
+      {
+        "text": "Modified accrual method"
+      },
+      {
+        "text": "Hybrid method"
+      }
+    ]
+  },
+  {
+    "text": "What governing document is essential for auditors to review in a CIRA audit?",
+    "options": [
+      {
+        "text": "Bylaws"
+      },
+      {
+        "text": "Declarations of Covenants, Conditions, and Restrictions (CC&Rs)",
+        "isCorrect": true
+      },
+      {
+        "text": "Minutes of the meetings"
+      },
+      {
+        "text": "Reserve study"
+      }
+    ]
+  },
+  {
+    "text": "What is a critical audit consideration for CIRAs related to member assessments?",
+    "options": [
+      {
+        "text": "Allocation of tax liability"
+      },
+      {
+        "text": "Recognition of revenue based on when services are rendered"
+      },
+      {
+        "text": "Whether the assessments are sufficient to meet future obligations",
+        "isCorrect": true
+      },
+      {
+        "text": "Cash balances held in reserve accounts"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following is generally the largest asset on the balance sheet of a CIRA?",
+    "options": [
+      {
+        "text": "Cash"
+      },
+      {
+        "text": "Common property"
+      },
+      {
+        "text": "Reserve for replacement fund",
+        "isCorrect": true
+      },
+      {
+        "text": "Accounts receivable"
+      }
+    ]
+  },
+  {
+    "text": ". How should an auditor treat future major repairs and replacements for a CIRA audit?",
+    "options": [
+      {
+        "text": "Include them in liabilities"
+      },
+      {
+        "text": "Ignore them as they are not required for financial reporting"
+      },
+      {
+        "text": "Disclose them in supplementary information or footnotes",
+        "isCorrect": true
+      },
+      {
+        "text": "Recognize them as a contingent liability"
+      }
+    ]
+  },
+  {
+    "text": "Which standard governs the audit of CIRAs in the United States?",
+    "options": [
+      {
+        "text": "GAAP"
+      },
+      {
+        "text": "GASB"
+      },
+      {
+        "text": "AICPA Accounting and Audit Guide for Common Interest Realty Associations",
+        "isCorrect": true
+      },
+      {
+        "text": "FASB"
+      }
+    ]
+  },
+  {
+    "text": "What type of reserve should be included in CIRA financial statements?",
+    "options": [
+      {
+        "text": "Legal reserves"
+      },
+      {
+        "text": "Reserves for major repairs and replacements",
+        "isCorrect": true
+      },
+      {
+        "text": "Emergency contingency reserve"
+      },
+      {
+        "text": "Excessive income reserve"
+      }
+    ]
+  },
+  {
+    "text": "How are common area property assets typically accounted for in a CIRA's financial statements?",
+    "options": [
+      {
+        "text": "Capitalized and depreciated"
+      },
+      {
+        "text": "Expensed as incurred"
+      },
+      {
+        "text": "Recognized as an investment"
+      },
+      {
+        "text": "Not recorded on the balance sheet",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "text": "In a CIRA audit, what is the proper treatment of special assessments levied for specific projects?",
+    "options": [
+      {
+        "text": "Recognized as revenue when received",
+        "isCorrect": true
+      },
+      {
+        "text": "Deferred until the project is complete"
+      },
+      {
+        "text": "Allocated over multiple years"
+      },
+      {
+        "text": "Recorded as a liability"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following is a key responsibility of the auditor in a CIRA audit regarding reserves?",
+    "options": [
+      {
+        "text": "Ensure the reserves are fully funded"
+      },
+      {
+        "text": "Verify compliance with IRS guidelines for reserves"
+      },
+      {
+        "text": "Determine the adequacy of reserve balances for future expenditures",
+        "isCorrect": true
+      },
+      {
+        "text": "Allocate reserve funds to individual projects"
+      }
+    ]
+  },
+  {
+    "text": "What should the auditor consider when evaluating delinquent assessments in a CIRA audit?",
+    "options": [
+      {
+        "text": "Writing off delinquent accounts automatically after one year"
+      },
+      {
+        "text": "Creating an allowance for doubtful accounts based on historical trends",
+        "isCorrect": true
+      },
+      {
+        "text": "Ignoring delinquencies under $100"
+      },
+      {
+        "text": "Transferring delinquent accounts to the reserve fund"
+      }
+    ]
+  },
+  {
+    "text": "Which financial statement provides information on the adequacy of reserves in a CIRA audit?",
+    "options": [
+      {
+        "text": "Balance sheet"
+      },
+      {
+        "text": "Income statement"
+      },
+      {
+        "text": "Statement of cash flows"
+      },
+      {
+        "text": "Supplementary information on future major repairs and replacements",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "text": "What is the main risk related to common expenses in a CIRA audit?",
+    "options": [
+      {
+        "text": "Incorrect allocation of expenses between operational and reserve funds",
+        "isCorrect": true
+      },
+      {
+        "text": "Double counting expenses between different fiscal years"
+      },
+      {
+        "text": "Failure to record depreciation on common assets"
+      },
+      {
+        "text": "Misclassification of member dues as income"
+      }
+    ]
+  },
+  {
+    "text": "What is the primary focus of the audit of a CIRA's financial statements?",
+    "options": [
+      {
+        "text": "Compliance with state property laws"
+      },
+      {
+        "text": "The adequacy of member assessments for future repairs"
+      },
+      {
+        "text": "Reserve fund balances and adequacy",
+        "isCorrect": true
+      },
+      {
+        "text": "Timely payment of taxes"
+      }
+    ]
+  },
+  {
+    "text": "What must be disclosed in the financial statements regarding future major repairs and replacements in a CIRA audit?",
+    "options": [
+      {
+        "text": "A schedule of future projects"
+      },
+      {
+        "text": "A detailed estimate of costs for every repair needed over the next 30 years"
+      },
+      {
+        "text": "Supplementary information regarding the components, useful lives, and estimated costs",
+        "isCorrect": true
+      },
+      {
+        "text": "A mandatory list of vendors involved in repairs"
+      }
+    ]
+  },
+  {
+    "text": "How are excess member assessments typically treated in CIRA financial statements?",
+    "options": [
+      {
+        "text": "Recognized as taxable income"
+      },
+      {
+        "text": "Deferred to the following year or refunded to members",
+        "isCorrect": true
+      },
+      {
+        "text": "Allocated to a contingency fund"
+      },
+      {
+        "text": "Recorded as an expense"
+      }
+    ]
+  },
+  {
+    "text": "What internal control consideration is crucial in a CIRA audit?",
+    "options": [
+      {
+        "text": "Evaluation of governance structure and board decisions"
+      },
+      {
+        "text": "Review of the insurance policy of the association"
+      },
+      {
+        "text": "Segregation of duties in handling member assessments and reserves",
+        "isCorrect": true
+      },
+      {
+        "text": "The background check of board members"
+      }
+    ]
+  },
+  {
+    "text": "Which audit procedure is most relevant for evaluating reserve funds in a CIRA audit?",
+    "options": [
+      {
+        "text": "Inspecting physical common property"
+      },
+      {
+        "text": "Verifying the use of reserve funds for designated purposes",
+        "isCorrect": true
+      },
+      {
+        "text": "Reviewing the association's legal agreements"
+      },
+      {
+        "text": "Interviewing individual members about satisfaction with services"
+      }
+    ]
+  },
+  {
+    "text": "In a CIRA audit, how are member contributions for common area maintenance typically recognized?",
+    "options": [
+      {
+        "text": "As liabilities"
+      },
+      {
+        "text": "As equity"
+      },
+      {
+        "text": "As revenue when received",
+        "isCorrect": true
+      },
+      {
+        "text": "As deferred revenue"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following best describes the auditor's responsibility in a CIRA audit related to fraud risk?",
+    "options": [
+      {
+        "text": "The auditor must design procedures to detect all instances of fraud"
+      },
+      {
+        "text": "The auditor must inquire of the board members regarding fraud risk"
+      },
+      {
+        "text": "The auditor must evaluate the risk of fraud specifically related to member assessments and reserve accounts",
+        "isCorrect": true
+      },
+      {
+        "text": "Fraud is not considered a risk in CIRA audits"
+      }
+    ]
+  },
+  {
+    "text": "What is the primary accounting standard that governs the financial reporting for 501(c)(3) not-for-profit organizations?",
+    "options": [
+      {
+        "text": "FASB ASC 958",
+        "isCorrect": true
+      },
+      {
+        "text": "GASB 34"
+      },
+      {
+        "text": "AICPA SAS 99"
+      },
+      {
+        "text": "IRS Form 990 Instructions"
+      }
+    ]
+  },
+  {
+    "text": "Which financial statement is unique to not-for-profit organizations and presents net assets by category?",
+    "options": [
+      {
+        "text": "Statement of Financial Position"
+      },
+      {
+        "text": "Statement of Functional Expenses"
+      },
+      {
+        "text": "Statement of Activities",
+        "isCorrect": true
+      },
+      {
+        "text": "Statement of Net Assets"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following classifications of net assets are required to be disclosed in a not-for-profit's financial statements?",
+    "options": [
+      {
+        "text": "Temporary and Permanent Net Assets"
+      },
+      {
+        "text": "Restricted and Unrestricted Net Assets"
+      },
+      {
+        "text": "Net Assets Without Donor Restrictions and Net Assets With Donor Restrictions",
+        "isCorrect": true
+      },
+      {
+        "text": "Designated and Undesignated Net Assets"
+      }
+    ]
+  },
+  {
+    "text": "What is a major risk associated with the valuation of donated goods and services in a 501(c)(3) audit?",
+    "options": [
+      {
+        "text": "Misreporting unrelated business income"
+      },
+      {
+        "text": "Overstating or understating contributions in-kind",
+        "isCorrect": true
+      },
+      {
+        "text": "Recording income tax liabilities improperly"
+      },
+      {
+        "text": "Misclassifying functional expenses"
+      }
+    ]
+  },
+  {
+    "text": "What is the threshold for requiring a Single Audit under the Uniform Guidance for a not-for-profit organization?",
+    "options": [
+      {
+        "text": "$500,000 in federal awards"
+      },
+      {
+        "text": "$750,000 in gross revenue"
+      },
+      {
+        "text": "$750,000 in federal awards",
+        "isCorrect": true
+      },
+      {
+        "text": "$1 million in contributions"
+      }
+    ]
+  },
+  {
+    "text": "In a 501(c)(3) audit, which financial statement presents the organization's liquidity position?",
+    "options": [
+      {
+        "text": "Statement of Activities"
+      },
+      {
+        "text": "Statement of Functional Expenses"
+      },
+      {
+        "text": "Statement of Financial Position",
+        "isCorrect": true
+      },
+      {
+        "text": "Statement of Cash Flows"
+      }
+    ]
+  },
+  {
+    "text": "How should a not-for-profit organization report conditional promises to give in its financial statements?",
+    "options": [
+      {
+        "text": "As a contribution when received"
+      },
+      {
+        "text": "As a liability"
+      },
+      {
+        "text": "As revenue when the conditions are substantially met",
+        "isCorrect": true
+      },
+      {
+        "text": "As deferred revenue"
+      }
+    ]
+  },
+  {
+    "text": "Which type of expense allocation is required by FASB for 501(c)(3) organizations?",
+    "options": [
+      {
+        "text": "By cost center"
+      },
+      {
+        "text": "By function (Program, Management and General, Fundraising)",
+        "isCorrect": true
+      },
+      {
+        "text": "By department"
+      },
+      {
+        "text": "By donor restriction"
+      }
+    ]
+  },
+  {
+    "text": "What is the auditor's responsibility regarding the evaluation of internal controls over compliance in a Single Audit for a 501(c)(3)?",
+    "options": [
+      {
+        "text": "Test the controls extensively"
+      },
+      {
+        "text": "Assess whether the internal controls over compliance are designed and operating effectively",
+        "isCorrect": true
+      },
+      {
+        "text": "Create new controls for the organization"
+      },
+      {
+        "text": "Ensure all expenses are approved by the Board of Directors"
+      }
+    ]
+  },
+  {
+    "text": "How should a not-for-profit organization recognize pledges receivable in its financial statements?",
+    "options": [
+      {
+        "text": "As revenue when cash is received"
+      },
+      {
+        "text": "As a liability until collected"
+      },
+      {
+        "text": "As revenue when the pledge is made, if it is unconditional",
+        "isCorrect": true
+      },
+      {
+        "text": "Only as cash when it is used for a restricted purpose"
+      }
+    ]
+  },
+  {
+    "text": "What are the key compliance concerns for 501(c)(3) organizations receiving government grants?",
+    "options": [
+      {
+        "text": "Reporting program accomplishments accurately"
+      },
+      {
+        "text": "Meeting unrelated business income tax (UBIT) rules"
+      },
+      {
+        "text": "Ensuring compliance with grant restrictions and Uniform Guidance requirements",
+        "isCorrect": true
+      },
+      {
+        "text": "Avoiding private inurement and excess benefit transactions"
+      }
+    ]
+  },
+  {
+    "text": "What is a common audit risk related to the recognition of contributions with donor restrictions?",
+    "options": [
+      {
+        "text": "Incorrectly classifying donations as unrestricted",
+        "isCorrect": true
+      },
+      {
+        "text": "Failing to follow IRS regulations"
+      },
+      {
+        "text": "Misstating unrelated business income"
+      },
+      {
+        "text": "Inappropriately capitalizing donated property"
+      }
+    ]
+  },
+  {
+    "text": "How should a not-for-profit organization account for expenses related to fundraising activities?",
+    "options": [
+      {
+        "text": "Allocate the expenses entirely to program services"
+      },
+      {
+        "text": "Classify all fundraising activities as a liability"
+      },
+      {
+        "text": "Allocate expenses between fundraising and other functions based on time and effort",
+        "isCorrect": true
+      },
+      {
+        "text": "Classify fundraising expenses as an asset"
+      }
+    ]
+  },
+  {
+    "text": "In a 501(c)(3) audit, how should an auditor assess whether a not-for-profit's revenue recognition policies for grants and contributions are appropriate?",
+    "options": [
+      {
+        "text": "Confirm grant amounts with donors"
+      },
+      {
+        "text": "Review revenue recognition timing in accordance with ASC 958 and ASC 606 for exchange transactions",
+        "isCorrect": true
+      },
+      {
+        "text": "Verify that all grants are treated as revenue without conditions"
+      },
+      {
+        "text": "Record all grants in the year they are pledged"
+      }
+    ]
+  },
+  {
+    "text": "Which is an indicator that an organization may be improperly classified as 501(c)(3)?",
+    "options": [
+      {
+        "text": "Excessive compensation of key employees"
+      },
+      {
+        "text": "Presence of unrelated business income"
+      },
+      {
+        "text": "Misclassification of donor-restricted net assets"
+      },
+      {
+        "text": "Private inurement or benefiting private individuals",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "text": "What additional disclosures are required for endowment funds in 501(c)(3) organizations under UPMIFA (Uniform Prudent Management of Institutional Funds Act)?",
+    "options": [
+      {
+        "text": "Nature and types of investments held"
+      },
+      {
+        "text": "Detailed spending policy and related investment strategy",
+        "isCorrect": true
+      },
+      {
+        "text": "Grantor information"
+      },
+      {
+        "text": "Names of all beneficiaries of the endowment"
+      }
+    ]
+  },
+  {
+    "text": "How should a not-for-profit organization account for restricted contributions that are expected to be used in future periods?",
+    "options": [
+      {
+        "text": "As a liability"
+      },
+      {
+        "text": "As net assets with donor restrictions",
+        "isCorrect": true
+      },
+      {
+        "text": "As revenue in the current period"
+      },
+      {
+        "text": "As deferred revenue"
+      }
+    ]
+  },
+  {
+    "text": "What is a key control risk specific to a 501(c)(3) organization that auditors must evaluate?",
+    "options": [
+      {
+        "text": "Control over cash receipts from fundraising events",
+        "isCorrect": true
+      },
+      {
+        "text": "Adequacy of Board minutes"
+      },
+      {
+        "text": "Allocation of employee compensation"
+      },
+      {
+        "text": "Frequency of Board meetings"
+      }
+    ]
+  },
+  {
+    "text": "When should a not-for-profit organization disclose related-party transactions in its financial statements?",
+    "options": [
+      {
+        "text": "Only if the amount exceeds $1,000,000"
+      },
+      {
+        "text": "If it involves Board members or key employees and the transaction is material",
+        "isCorrect": true
+      },
+      {
+        "text": "Never, as related-party transactions are prohibited"
+      },
+      {
+        "text": "Only if they result in revenue for the organization"
+      }
+    ]
+  },
+  {
+    "text": "What are the requirements for reporting functional expenses in the financial statements of a 501(c)(3) organization?",
+    "options": [
+      {
+        "text": "Only organizations with over $1 million in revenue must report functional expenses"
+      },
+      {
+        "text": "The statement of functional expenses is required for all not-for-profit entities"
+      },
+      {
+        "text": "Not-for-profits must report the breakdown of expenses between program, management, and fundraising functions",
+        "isCorrect": true
+      },
+      {
+        "text": "Functional expenses should be disclosed as a footnote, not as a separate statement"
+      }
+    ]
+  },
+  {
+    "text": "What is the key purpose of IRS Regulation 122286-18 regarding forfeitures in retirement plans?",
+    "options": [
+      {
+        "text": "To limit the use of forfeitures to certain plan expenses only"
+      },
+      {
+        "text": "To provide clear guidance on how forfeitures can be applied by qualified retirement plans",
+        "isCorrect": true
+      },
+      {
+        "text": "To allow plans to use forfeitures to reduce administrative fees"
+      },
+      {
+        "text": "To eliminate the use of forfeitures entirely from qualified plans"
+      }
+    ]
+  },
+  {
+    "text": "Under IRS Regulation 122286-18, what are the three main permissible uses of forfeitures by qualified retirement plans?",
+    "options": [
+      {
+        "text": "Payment of plan expenses, allocation to participants' accounts, and reduction of employer contributions",
+        "isCorrect": true
+      },
+      {
+        "text": "Purchase of plan assets, increase in plan reserves, and funding administrative costs"
+      },
+      {
+        "text": "Reimbursement of plan expenses, forfeiture redistribution, and loan repayment"
+      },
+      {
+        "text": "Purchase of insurance policies, distribution to beneficiaries, and reducing participant contributions"
+      }
+    ]
+  },
+  {
+    "text": "According to IRS Regulation 122286-18, when must forfeitures be used by a plan?",
+    "options": [
+      {
+        "text": "Within the year they occur"
+      },
+      {
+        "text": "Within 24 months of the forfeiture event"
+      },
+      {
+        "text": "By the end of the plan year in which the forfeiture occurs or as soon as administratively possible thereafter",
+        "isCorrect": true
+      },
+      {
+        "text": "There is no deadline for using forfeitures"
+      }
+    ]
+  },
+  {
+    "text": "What significant change does IRS Regulation 122286-18 propose regarding the use of forfeitures?",
+    "options": [
+      {
+        "text": "Plans can now use forfeitures to fund employee loans"
+      },
+      {
+        "text": "Plans are prohibited from using forfeitures for administrative expenses"
+      },
+      {
+        "text": "Plans must allocate forfeitures to participants' accounts by the end of the year or reduce employer contributions",
+        "isCorrect": true
+      },
+      {
+        "text": "Forfeitures can now be held in reserve indefinitely"
+      }
+    ]
+  },
+  {
+    "text": "How does IRS Regulation 122286-18 impact the treatment of excess contributions under retirement plans?",
+    "options": [
+      {
+        "text": "Forfeitures can no longer be used to correct excess contributions"
+      },
+      {
+        "text": "Forfeitures may be used to correct excess contributions, provided they are applied within the plan year",
+        "isCorrect": true
+      },
+      {
+        "text": "Excess contributions must be refunded directly to participants and cannot be offset by forfeitures"
+      },
+      {
+        "text": "Forfeitures must be used to increase future contributions for participants"
+      }
+    ]
+  },
+  {
+    "text": "Under the proposed rules of IRS Regulation 122286-18, what limitations are placed on using forfeitures to pay plan administrative expenses?",
+    "options": [
+      {
+        "text": "Forfeitures can only be used for administrative expenses if expressly stated in the plan document",
+        "isCorrect": true
+      },
+      {
+        "text": "Forfeitures cannot be used for any administrative expenses"
+      },
+      {
+        "text": "Administrative expenses must exceed a minimum threshold before forfeitures can be applied"
+      },
+      {
+        "text": "Only non-qualified expenses can be paid using forfeitures"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following is not an allowed use of forfeitures under IRS Regulation 122286-18?",
+    "options": [
+      {
+        "text": "Allocation to participants' accounts"
+      },
+      {
+        "text": "Payment of plan administrative expenses"
+      },
+      {
+        "text": "Purchase of employer stock",
+        "isCorrect": true
+      },
+      {
+        "text": "Reduction of future employer contributions"
+      }
+    ]
+  },
+  {
+    "text": "How does IRS Regulation 122286-18 affect the correction of employer contributions in a plan with forfeitures?",
+    "options": [
+      {
+        "text": "Employer contributions cannot be reduced by forfeitures under any circumstances"
+      },
+      {
+        "text": "Forfeitures may be used to offset future employer contributions but only for that plan year",
+        "isCorrect": true
+      },
+      {
+        "text": "Employer contributions can only be corrected through participant salary reductions"
+      },
+      {
+        "text": "Forfeitures must be returned to the employer to correct excess contributions"
+      }
+    ]
+  },
+  {
+    "text": "What documentation is required for the use of forfeitures under IRS Regulation 122286-18?",
+    "options": [
+      {
+        "text": "A detailed report filed with the IRS on an annual basis"
+      },
+      {
+        "text": "A written allocation procedure in the plan document specifying the permissible use of forfeitures",
+        "isCorrect": true
+      },
+      {
+        "text": "A board resolution for each forfeiture allocation"
+      },
+      {
+        "text": "No documentation is required as long as forfeitures are used properly"
+      }
+    ]
+  },
+  {
+    "text": "What is the deadline for plans to amend their documents to comply with IRS Regulation 122286-18?",
+    "options": [
+      {
+        "text": "By the end of the next calendar year"
+      },
+      {
+        "text": "Before the first plan year beginning on or after January 1, 2024",
+        "isCorrect": true
+      },
+      {
+        "text": "Within 30 days after the regulation is finalized"
+      },
+      {
+        "text": "Plan documents do not need to be amended under this regulation"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following is the most common error related to Schedule H on Form 5500, as noted by the DOL?",
+    "options": [
+      {
+        "text": "Incorrect reporting of plan assets at year-end"
+      },
+      {
+        "text": "Failing to include the required independent auditor's report",
+        "isCorrect": true
+      },
+      {
+        "text": "Misreporting the plan's contributions receivable"
+      },
+      {
+        "text": "Overstating administrative expenses"
+      }
+    ]
+  },
+  {
+    "text": "What is a frequent mistake observed by the DOL regarding participant counts on Form 5500?",
+    "options": [
+      {
+        "text": "Underreporting the number of highly compensated employees (HCEs)"
+      },
+      {
+        "text": "Overreporting the total participant count, leading to incorrect small plan status"
+      },
+      {
+        "text": "Incorrect classification of terminated participants with vested benefits",
+        "isCorrect": true
+      },
+      {
+        "text": "Failing to update participant counts in the summary plan description"
+      }
+    ]
+  },
+  {
+    "text": "Which error related to Schedule C (Service Provider Information) is often cited by the DOL during Form 5500 reviews?",
+    "options": [
+      {
+        "text": "Failure to report indirect compensation received by service providers",
+        "isCorrect": true
+      },
+      {
+        "text": "Overreporting direct compensation paid to trustees"
+      },
+      {
+        "text": "Misclassification of service providers as fiduciaries"
+      },
+      {
+        "text": "Incorrectly listing plan auditors as service providers"
+      }
+    ]
+  },
+  {
+    "text": "What is a common issue that the DOL identifies with plan compliance reporting on Form 5500?",
+    "options": [
+      {
+        "text": "Failing to check the box indicating the plan is subject to ERISA"
+      },
+      {
+        "text": "Not properly reporting the plan's tax qualification status"
+      },
+      {
+        "text": "Failure to include all related party transactions"
+      },
+      {
+        "text": "Errors in reporting prohibited transactions with parties-in-interest",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "text": "The DOL often finds errors in the financial information section of Form 5500. Which of the following is a frequent issue?",
+    "options": [
+      {
+        "text": "Reporting forfeitures as plan assets"
+      },
+      {
+        "text": "Misreporting the fair value of plan investments",
+        "isCorrect": true
+      },
+      {
+        "text": "Overstating the plan's net assets available for benefits"
+      },
+      {
+        "text": "Reporting assets that are no longer part of the plan"
+      }
+    ]
+  },
+  {
+    "text": "What is the most common deficiency noted in peer review reports related to not-for-profit organizations' financial statements?",
+    "options": [
+      {
+        "text": "Failure to properly account for net assets with donor restrictions"
+      },
+      {
+        "text": "Misclassification of functional expenses"
+      },
+      {
+        "text": "Incomplete disclosures related to liquidity and availability of resources",
+        "isCorrect": true
+      },
+      {
+        "text": "Overstatement of contributions receivable"
+      }
+    ]
+  },
+  {
+    "text": "In not-for-profit audits, which of the following is a common issue related to auditing contributions and grants noted in peer review reports?",
+    "options": [
+      {
+        "text": "Failure to verify the existence of donor restrictions"
+      },
+      {
+        "text": "Incorrectly classifying in-kind contributions as cash equivalents"
+      },
+      {
+        "text": "Not properly recognizing conditional grants as revenue",
+        "isCorrect": true
+      },
+      {
+        "text": "Misreporting of pledges receivable at fair value"
+      }
+    ]
+  },
+  {
+    "text": "Peer review reports frequently highlight issues with functional expense allocations in not-for-profit audits. What is the primary concern?",
+    "options": [
+      {
+        "text": "Incorrect allocation of joint costs between program services and supporting activities",
+        "isCorrect": true
+      },
+      {
+        "text": "Overstatement of fundraising expenses"
+      },
+      {
+        "text": "Misclassification of general and administrative costs"
+      },
+      {
+        "text": "Failure to include program service expenses in the statement of activities"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following is a common error found in peer review reports regarding financial statement disclosures for endowments in not-for-profit audits?",
+    "options": [
+      {
+        "text": "Failure to disclose the spending policy and investment return objectives for endowments",
+        "isCorrect": true
+      },
+      {
+        "text": "Overstating permanently restricted endowment funds"
+      },
+      {
+        "text": "Incorrect classification of investment income as unrestricted"
+      },
+      {
+        "text": "Misreporting the unrealized gains on endowment investments"
+      }
+    ]
+  },
+  {
+    "text": "Peer reviewers often flag errors related to accounting for contributed services in not-for-profit audits. Which is a typical mistake?",
+    "options": [
+      {
+        "text": "Failing to recognize contributed services that meet recognition criteria",
+        "isCorrect": true
+      },
+      {
+        "text": "Overestimating the fair value of contributed services"
+      },
+      {
+        "text": "Misclassifying volunteer hours as in-kind donations"
+      },
+      {
+        "text": "Not recording all donated materials and services"
+      }
+    ]
+  },
+  {
+    "text": "What is the primary purpose of evaluating subsequent events in an audit?",
+    "options": [
+      {
+        "text": "To determine the adequacy of internal controls"
+      },
+      {
+        "text": "To assess the going concern assumption"
+      },
+      {
+        "text": "To provide evidence for the financial statements"
+      },
+      {
+        "text": "To identify material misstatements"
+      },
+      {
+        "text": "Answer: To provide evidence for the financial statements"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following is NOT a type of subsequent event?",
+    "options": [
+      {
+        "text": "Recognized subsequent events"
+      },
+      {
+        "text": "Non-recognized subsequent events"
+      },
+      {
+        "text": "Adjusting subsequent events"
+      },
+      {
+        "text": "Immaterial subsequent events"
+      },
+      {
+        "text": "Answer: Immaterial subsequent events"
+      }
+    ]
+  },
+  {
+    "text": "How should an entity account for a subsequent event that provides evidence about conditions that existed at the date of the financial statements?",
+    "options": [
+      {
+        "text": "It should be disclosed in the footnotes"
+      },
+      {
+        "text": "It should result in an adjustment to the financial statements"
+      },
+      {
+        "text": "It should be ignored in the financial statements"
+      },
+      {
+        "text": "It should be treated as a non-recognized event"
+      },
+      {
+        "text": "Answer: It should result in an adjustment to the financial statements"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following is an example of a non-recognized subsequent event?",
+    "options": [
+      {
+        "text": "A lawsuit settlement that occurs after the year-end but pertains to an event that occurred before the year-end"
+      },
+      {
+        "text": "A natural disaster occurring after the year-end that causes significant losses"
+      },
+      {
+        "text": "An acquisition of another company before the financial statements are issued"
+      },
+      {
+        "text": "A change in the fair value of investments after the year-end"
+      },
+      {
+        "text": "Answer: A natural disaster occurring after the year-end that causes significant losses"
+      }
+    ]
+  },
+  {
+    "text": "What is the auditor's responsibility concerning subsequent events after the balance sheet date?",
+    "options": [
+      {
+        "text": "To ensure that all subsequent events are disclosed in the footnotes"
+      },
+      {
+        "text": "To conduct procedures to identify any events that may affect the financial statements",
+        "isCorrect": true
+      },
+      {
+        "text": "To assess the internal control over financial reporting"
+      },
+      {
+        "text": "To confirm with management that no subsequent events occurred"
+      }
+    ]
+  },
+  {
+    "text": "In which section of the financial statements should subsequent events typically be disclosed?",
+    "options": [
+      {
+        "text": "Management discussion and analysis"
+      },
+      {
+        "text": "Notes to the financial statements"
+      },
+      {
+        "text": "Auditor's report"
+      },
+      {
+        "text": "Statement of cash flows"
+      },
+      {
+        "text": "Answer: Notes to the financial statements"
+      }
+    ]
+  },
+  {
+    "text": "If a company declares bankruptcy after the fiscal year-end, how should this be treated in the financial statements?",
+    "options": [
+      {
+        "text": "As a recognized subsequent event"
+      },
+      {
+        "text": "As a non-recognized subsequent event"
+      },
+      {
+        "text": "No disclosure is required"
+      },
+      {
+        "text": "As an adjusting journal entry"
+      },
+      {
+        "text": "Answer: As a non-recognized subsequent event"
+      }
+    ]
+  },
+  {
+    "text": "What time period is generally covered by the auditor's procedures for identifying subsequent events?",
+    "options": [
+      {
+        "text": "Until the issuance of the financial statements"
+      },
+      {
+        "text": "Until the end of the fiscal year"
+      },
+      {
+        "text": "Until the completion of the audit fieldwork"
+      },
+      {
+        "text": "Until the completion of the management's review"
+      },
+      {
+        "text": "Answer: Until the issuance of the financial statements"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following assertions is most directly related to the evaluation of subsequent events?",
+    "options": [
+      {
+        "text": "Existence"
+      },
+      {
+        "text": "Completeness"
+      },
+      {
+        "text": "Valuation"
+      },
+      {
+        "text": "Presentation and disclosure"
+      },
+      {
+        "text": "Answer: Presentation and disclosure"
+      }
+    ]
+  },
+  {
+    "text": "How should an auditor document the evaluation of subsequent events?",
+    "options": [
+      {
+        "text": "By preparing a separate report"
+      },
+      {
+        "text": "By including a summary in the engagement letter"
+      },
+      {
+        "text": "By documenting findings in the working papers"
+      },
+      {
+        "text": "By communicating with the client's management only"
+      },
+      {
+        "text": "Answer: By documenting findings in the working papers"
+      }
+    ]
+  },
+  {
+    "text": "If a subsequent event occurs after the financial statements are issued but before the audit report is released, what action should the auditor take?",
+    "options": [
+      {
+        "text": "Issue a new set of financial statements"
+      },
+      {
+        "text": "Withdraw the audit report"
+      },
+      {
+        "text": "Consider the impact on the audit report"
+      },
+      {
+        "text": "Notify the Securities and Exchange Commission"
+      },
+      {
+        "text": "Answer: Consider the impact on the audit report"
+      }
+    ]
+  },
+  {
+    "text": "What type of subsequent event requires the financial statements to be adjusted?",
+    "options": [
+      {
+        "text": "An event that occurs after the balance sheet date but before the issuance of the financial statements"
+      },
+      {
+        "text": "An event that provides additional information about conditions that existed at the date of the financial statements"
+      },
+      {
+        "text": "An event that is merely disclosed in the footnotes"
+      },
+      {
+        "text": "An event that does not impact the current year's financial results"
+      },
+      {
+        "text": "Answer: An event that provides additional information about conditions that existed at the date of the financial statements"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following would most likely require disclosure in the notes to the financial statements as a subsequent event?",
+    "options": [
+      {
+        "text": "A significant drop in stock price after year-end"
+      },
+      {
+        "text": "An employee theft that occurred during the year but was discovered after year-end"
+      },
+      {
+        "text": "A new accounting standard announced after the year-end"
+      },
+      {
+        "text": "A major customer declaring bankruptcy after the fiscal year-end"
+      },
+      {
+        "text": "Answer: A major customer declaring bankruptcy after the fiscal year-end"
+      }
+    ]
+  },
+  {
+    "text": "When evaluating subsequent events, which party is primarily responsible for identifying events?",
+    "options": [
+      {
+        "text": "The auditor"
+      },
+      {
+        "text": "Management"
+      },
+      {
+        "text": "The board of directors"
+      },
+      {
+        "text": "The external regulator"
+      },
+      {
+        "text": "Answer: Management"
+      }
+    ]
+  },
+  {
+    "text": "What is the required response if a recognized subsequent event has a material impact on the financial statements?",
+    "options": [
+      {
+        "text": "No action is necessary as long as it is disclosed"
+      },
+      {
+        "text": "The financial statements must be adjusted to reflect the event"
+      },
+      {
+        "text": "The event must be communicated to the audit committee only"
+      },
+      {
+        "text": "A separate report must be issued"
+      },
+      {
+        "text": "Answer: The financial statements must be adjusted to reflect the event"
+      }
+    ]
+  },
+  {
+    "text": "Which standard governs the audit procedures related to subsequent events?",
+    "options": [
+      {
+        "text": "SAS 134"
+      },
+      {
+        "text": "SAS 135"
+      },
+      {
+        "text": "SAS 142"
+      },
+      {
+        "text": "SAS 141"
+      },
+      {
+        "text": "Answer: SAS 134"
+      }
+    ]
+  },
+  {
+    "text": "If a significant event occurs after the balance sheet date but before the financial statements are issued, what should the auditor do?",
+    "options": [
+      {
+        "text": "Report the event to the shareholders"
+      },
+      {
+        "text": "Evaluate whether the event needs to be disclosed in the financial statements"
+      },
+      {
+        "text": "Adjust the financial statements to reflect the event"
+      },
+      {
+        "text": "Ignore the event if it is not material"
+      },
+      {
+        "text": "Answer: Evaluate whether the event needs to be disclosed in the financial statements"
+      }
+    ]
+  },
+  {
+    "text": "How does an auditor typically gather evidence regarding subsequent events?",
+    "options": [
+      {
+        "text": "By interviewing employees only"
+      },
+      {
+        "text": "By reviewing subsequent board meeting minutes and other documents"
+      },
+      {
+        "text": "By relying solely on management representations"
+      },
+      {
+        "text": "By performing analytical procedures"
+      },
+      {
+        "text": "Answer: By reviewing subsequent board meeting minutes and other documents"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following is true regarding the subsequent events period?",
+    "options": [
+      {
+        "text": "It ends on the last day of the fiscal year."
+      },
+      {
+        "text": "It ends on the date the financial statements are approved for issuance."
+      },
+      {
+        "text": "It begins on the last day of the fiscal year."
+      },
+      {
+        "text": "It is only relevant for publicly traded companies."
+      },
+      {
+        "text": "Answer: It ends on the date the financial statements are approved for issuance."
+      }
+    ]
+  },
+  {
+    "text": "Which type of subsequent event requires disclosure in the financial statements if it does not require adjustment?",
+    "options": [
+      {
+        "text": "Adjusting events"
+      },
+      {
+        "text": "Non-adjusting events"
+      },
+      {
+        "text": "Material misstatements"
+      },
+      {
+        "text": "Audit deficiencies"
+      },
+      {
+        "text": "Answer: Non-adjusting events"
+      }
+    ]
+  },
+  {
+    "text": "What is an Agreed-Upon Procedures engagement?",
+    "options": [
+      {
+        "text": "An engagement where a practitioner provides an opinion."
+      },
+      {
+        "text": "An engagement where a practitioner performs specific procedures and reports findings."
+      },
+      {
+        "text": "An engagement that focuses solely on compliance."
+      },
+      {
+        "text": "Answer: An engagement where a practitioner performs specific procedures and reports findings."
+      }
+    ]
+  },
+  {
+    "text": "What are the governing standards for AUP engagements?",
+    "options": [
+      {
+        "text": "Generally Accepted Auditing Standards (GAAS)"
+      },
+      {
+        "text": "Statements on Standards for Attestation Engagements (SSAE)"
+      },
+      {
+        "text": "International Financial Reporting Standards (IFRS)"
+      },
+      {
+        "text": "Answer: Statements on Standards for Attestation Engagements (SSAE)"
+      }
+    ]
+  },
+  {
+    "text": "What is the main distinction between AUP and consulting engagements?",
+    "options": [
+      {
+        "text": "AUP engagements provide an opinion, while consulting does not."
+      },
+      {
+        "text": "AUP engagements are more flexible than consulting engagements."
+      },
+      {
+        "text": "AUP engagements report findings without an opinion, while consulting develops recommendations."
+      },
+      {
+        "text": "Answer: AUP engagements report findings without an opinion, while consulting develops recommendations."
+      }
+    ]
+  },
+  {
+    "text": "What preconditions must be met before conducting an AUP engagement?",
+    "options": [
+      {
+        "text": "The practitioner must be independent."
+      },
+      {
+        "text": "The engagement must involve a written contract."
+      },
+      {
+        "text": "Both A and B"
+      },
+      {
+        "text": "Answer: Both A and B"
+      }
+    ]
+  },
+  {
+    "text": "Can a practitioner accept an AUP engagement if they lack independence?",
+    "options": [
+      {
+        "text": "Yes, with proper disclosures."
+      },
+      {
+        "text": "No, independence is mandatory."
+      },
+      {
+        "text": "Yes, only for public entities."
+      },
+      {
+        "text": "Answer: Yes, with proper disclosures."
+      }
+    ]
+  },
+  {
+    "text": "What types of procedures are suitable for an AUP engagement?",
+    "options": [
+      {
+        "text": "Subjective analysis of operations."
+      },
+      {
+        "text": "Confirming information, comparisons, and mathematical computations."
+      },
+      {
+        "text": "Only financial statement audits."
+      },
+      {
+        "text": "Answer: Confirming information, comparisons, and mathematical computations."
+      }
+    ]
+  },
+  {
+    "text": "What is required in the practitioner's report for an AUP engagement?",
+    "options": [
+      {
+        "text": "An opinion on the findings."
+      },
+      {
+        "text": "Presentation of the results of procedures applied."
+      },
+      {
+        "text": "A summary of best practices."
+      },
+      {
+        "text": "Answer: Presentation of the results of procedures applied."
+      }
+    ]
+  },
+  {
+    "text": "What is the role of the engaging party in an AUP engagement?",
+    "options": [
+      {
+        "text": "To provide funding for the engagement."
+      },
+      {
+        "text": "To agree to the procedures and acknowledge their appropriateness."
+      },
+      {
+        "text": "To conduct the procedures themselves."
+      },
+      {
+        "text": "Answer: To agree to the procedures and acknowledge their appropriateness."
+      }
+    ]
+  },
+  {
+    "text": "What is the definition of consulting services according to AICPA standards?",
+    "options": [
+      {
+        "text": "Services that provide an audit opinion."
+      },
+      {
+        "text": "Professional services utilizing the practitioner's skills to provide tailored findings and recommendations."
+      },
+      {
+        "text": "Services limited to tax preparation."
+      },
+      {
+        "text": "Answer: Professional services utilizing the practitioner's skills to provide tailored findings and recommendations."
+      }
+    ]
+  },
+  {
+    "text": "Which services are excluded from the definition of consulting services?",
+    "options": [
+      {
+        "text": "Internal audits."
+      },
+      {
+        "text": "Tax return preparation."
+      },
+      {
+        "text": "Both A and B."
+      },
+      {
+        "text": "Answer: Both A and B."
+      }
+    ]
+  },
+  {
+    "text": "What types of services can fall under consulting engagements?",
+    "options": [
+      {
+        "text": "Audit services."
+      },
+      {
+        "text": "Implementation services and staff support."
+      },
+      {
+        "text": "Only financial advisory."
+      },
+      {
+        "text": "Answer: Implementation services and staff support."
+      }
+    ]
+  },
+  {
+    "text": "Is a written report required for consulting engagements?",
+    "options": [
+      {
+        "text": "Yes, always."
+      },
+      {
+        "text": "No, it is not mandatory."
+      },
+      {
+        "text": "Only for large projects."
+      },
+      {
+        "text": "Answer: No, it is not mandatory."
+      }
+    ]
+  },
+  {
+    "text": "What are the basic requirements embodied in the consulting standards?",
+    "options": [
+      {
+        "text": "Competency, integrity, objectivity, and professional care."
+      },
+      {
+        "text": "Independence and objectivity only."
+      },
+      {
+        "text": "Formal education in finance."
+      },
+      {
+        "text": "Answer: Competency, integrity, objectivity, and professional care."
+      }
+    ]
+  },
+  {
+    "text": "What are Matters for Further Consideration (MFCs) in AUP engagements?",
+    "options": [
+      {
+        "text": "Suggestions for improvement."
+      },
+      {
+        "text": "Issues identified by peer reviewers regarding engagement execution."
+      },
+      {
+        "text": "Recommendations for future audits."
+      },
+      {
+        "text": "Answer: Issues identified by peer reviewers regarding engagement execution."
+      }
+    ]
+  },
+  {
+    "text": "How does the intended user differ between AUP and consulting engagements?",
+    "options": [
+      {
+        "text": "AUP findings are for the public, consulting for private use."
+      },
+      {
+        "text": "AUP findings are for the engaging party, consulting for the client's benefit."
+      },
+      {
+        "text": "There is no difference."
+      },
+      {
+        "text": "Answer: AUP findings are for the engaging party, consulting for the client's benefit."
+      }
+    ]
+  },
+  {
+    "text": "What should practitioners avoid when defining procedures in an AUP engagement?",
+    "options": [
+      {
+        "text": "Using clear and objective language."
+      },
+      {
+        "text": "Using vague or ambiguous language."
+      },
+      {
+        "text": "Specifying the scope of the engagement."
+      },
+      {
+        "text": "Answer: Using vague or ambiguous language."
+      }
+    ]
+  },
+  {
+    "text": "Can a practitioner conduct an AUP engagement if the intended purpose is unclear?",
+    "options": [
+      {
+        "text": "Yes, as long as they communicate it."
+      },
+      {
+        "text": "No, the intended purpose must be clear."
+      },
+      {
+        "text": "Yes, if the client agrees."
+      },
+      {
+        "text": "Answer: No, the intended purpose must be clear."
+      }
+    ]
+  },
+  {
+    "text": "What factors should practitioners consider when reporting findings in an AUP engagement?",
+    "options": [
+      {
+        "text": "The engagement's profitability."
+      },
+      {
+        "text": "Clarity of the report and reporting all findings."
+      },
+      {
+        "text": "How to promote their services."
+      },
+      {
+        "text": "Answer: Clarity of the report and reporting all findings."
+      }
+    ]
+  },
+  {
+    "text": "What is a consulting service's primary focus?",
+    "options": [
+      {
+        "text": "Providing financial audits."
+      },
+      {
+        "text": "Delivering actionable insights and recommendations."
+      },
+      {
+        "text": "Ensuring regulatory compliance."
+      },
+      {
+        "text": "Answer: Delivering actionable insights and recommendations."
+      }
+    ]
+  },
+  {
+    "text": "What is the significance of the engagement letter in both AUP and consulting engagements?",
+    "options": [
+      {
+        "text": "It outlines payment terms."
+      },
+      {
+        "text": "It establishes mutual understanding of responsibilities, scope, and terms."
+      },
+      {
+        "text": "It serves as a marketing tool."
+      },
+      {
+        "text": "Answer: It establishes mutual understanding of responsibilities, scope, and terms."
+      }
+    ]
+  },
+  {
+    "text": "What was the primary purpose of ASU 2016-02 issued by the FASB?",
+    "options": [
+      {
+        "text": "To simplify revenue recognition"
+      },
+      {
+        "text": "To establish new lease accounting standards"
+      },
+      {
+        "text": "To improve the transparency of financial reporting"
+      },
+      {
+        "text": "To reduce financial statement disclosures"
+      },
+      {
+        "text": "Correct Answer: B",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "text": "For which reporting periods is the new lease standard effective for nonpublic entities?",
+    "options": [
+      {
+        "text": "Beginning after December 31, 2020"
+      },
+      {
+        "text": "Beginning after December 15, 2021"
+      },
+      {
+        "text": "Beginning after December 31, 2022"
+      },
+      {
+        "text": "Beginning after January 1, 2023"
+      },
+      {
+        "text": "Correct Answer: B",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "text": "What is the impact of FASB ASC 842 primarily on?",
+    "options": [
+      {
+        "text": "Lenders"
+      },
+      {
+        "text": "Lessees"
+      },
+      {
+        "text": "Equity investors"
+      },
+      {
+        "text": "Credit rating agencies"
+      },
+      {
+        "text": "Correct Answer: B",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "text": "What must lessees recognize under the new lease standard?",
+    "options": [
+      {
+        "text": "Only operating leases"
+      },
+      {
+        "text": "A right-of-use asset and a lease liability"
+      },
+      {
+        "text": "Only finance leases"
+      },
+      {
+        "text": "None of the above"
+      },
+      {
+        "text": "Correct Answer: B",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "text": "What distinguishes operating leases from financing leases under the new standard?",
+    "options": [
+      {
+        "text": "The duration of the lease"
+      },
+      {
+        "text": "The classification criteria and expense recognition pattern"
+      },
+      {
+        "text": "The type of asset involved"
+      },
+      {
+        "text": "The entity's financial position"
+      },
+      {
+        "text": "Correct Answer: B",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "text": "Which of the following is NOT a required transition method for FASB ASC 842?",
+    "options": [
+      {
+        "text": "Comparative method"
+      },
+      {
+        "text": "Effective date method"
+      },
+      {
+        "text": "Full retrospective method"
+      },
+      {
+        "text": "Modified retrospective method"
+      },
+      {
+        "text": "Correct Answer: C",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "text": "What does AR-C section 80 state regarding compilation engagements?",
+    "options": [
+      {
+        "text": "They require a high level of assurance"
+      },
+      {
+        "text": "They involve obtaining evidence for an opinion"
+      },
+      {
+        "text": "They do not require the practitioner to verify client information"
+      },
+      {
+        "text": "They must always include an audit report"
+      },
+      {
+        "text": "Correct Answer: C",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "text": "In a compilation engagement, what should the accountant do if they find information from the client incomplete or inaccurate?",
+    "options": [
+      {
+        "text": "Ignore the discrepancies"
+      },
+      {
+        "text": "Issue a standard compilation report regardless"
+      },
+      {
+        "text": "Discuss the matter with management and request additional information"
+      },
+      {
+        "text": "Automatically issue a disclaimer"
+      },
+      {
+        "text": "Correct Answer: C",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "text": "What does FASB ASC 842 require for all leases?",
+    "options": [
+      {
+        "text": "Capitalization of only finance leases"
+      },
+      {
+        "text": "Recognition of lease assets and liabilities"
+      },
+      {
+        "text": "Only disclosure of operating leases"
+      },
+      {
+        "text": "Immediate recognition of lease expenses"
+      },
+      {
+        "text": "Correct Answer: B",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "text": "What should practitioners assess regarding a client's implementation of FASB ASC 842?",
+    "options": [
+      {
+        "text": "The financial performance of the entity"
+      },
+      {
+        "text": "The appropriateness of lease accounting policies"
+      },
+      {
+        "text": "The independence of the accountant"
+      },
+      {
+        "text": "The overall revenue growth"
+      },
+      {
+        "text": "Correct Answer: B",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "text": "What is a key difference between FASB ASC 840 and FASB ASC 842?",
+    "options": [
+      {
+        "text": "ASC 840 requires both operating and finance leases to be recorded"
+      },
+      {
+        "text": "ASC 842 requires all leases to be recognized on the balance sheet"
+      },
+      {
+        "text": "ASC 840 does not require any disclosures"
+      },
+      {
+        "text": "ASC 842 eliminates the need for lease classifications"
+      },
+      {
+        "text": "Correct Answer: B",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "text": "What do the disclosures required under FASB ASC 842 primarily include?",
+    "options": [
+      {
+        "text": "Only the balance sheet impact"
+      },
+      {
+        "text": "Detailed information on lease arrangements and liabilities"
+      },
+      {
+        "text": "Only the cash flow implications"
+      },
+      {
+        "text": "The entity's total revenues"
+      },
+      {
+        "text": "Correct Answer: B",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "text": "What does the transition adjustment involve when implementing FASB ASC 842?",
+    "options": [
+      {
+        "text": "Adjusting only cash flows"
+      },
+      {
+        "text": "Recording lease liabilities and right-of-use assets"
+      },
+      {
+        "text": "Reducing equity by the total lease payments"
+      },
+      {
+        "text": "Eliminating all operating lease disclosures"
+      },
+      {
+        "text": "Correct Answer: B",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "text": "What aspect of a compilation engagement does independence relate to according to AR-C 80?",
+    "options": [
+      {
+        "text": "It is not required but should be assessed"
+      },
+      {
+        "text": "It is mandatory for all engagements"
+      },
+      {
+        "text": "It is only necessary if audits are performed"
+      },
+      {
+        "text": "Independence does not apply to compilation engagements"
+      },
+      {
+        "text": "Correct Answer: A",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "text": "What is the role of practical expedients in the implementation of FASB ASC 842?",
+    "options": [
+      {
+        "text": "They simplify the recognition of revenues"
+      },
+      {
+        "text": "They are optional methods that reduce compliance burden"
+      },
+      {
+        "text": "They require more disclosures"
+      },
+      {
+        "text": "They eliminate the need for lease assessments"
+      },
+      {
+        "text": "Correct Answer: B",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "text": "Which of the following is an important aspect for practitioners to understand regarding client leases?",
+    "options": [
+      {
+        "text": "The historical lease arrangements under ASC 840"
+      },
+      {
+        "text": "Only the financial performance of the client"
+      },
+      {
+        "text": "The competitive landscape of the industry"
+      },
+      {
+        "text": "The client's external auditors' opinions"
+      },
+      {
+        "text": "Correct Answer: A",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "text": "What kind of framework may clients choose to use as an alternative to adopting FASB ASC 842?",
+    "options": [
+      {
+        "text": "A modified cash basis framework"
+      },
+      {
+        "text": "A tax basis framework"
+      },
+      {
+        "text": "A special purpose framework"
+      },
+      {
+        "text": "An accrual basis framework"
+      },
+      {
+        "text": "Correct Answer: C",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "text": "When might an accountant issue a compilation report that is modified?",
+    "options": [
+      {
+        "text": "If the client has not implemented ASC 842"
+      },
+      {
+        "text": "If the financial statements are exceptionally well-prepared"
+      },
+      {
+        "text": "If the client has numerous unrelated transactions"
+      },
+      {
+        "text": "If no leases are present in the financial statements"
+      },
+      {
+        "text": "Correct Answer: A",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "text": "What is the expected outcome of FASB ASC 842 on a company's balance sheet?",
+    "options": [
+      {
+        "text": "Reduction in total assets"
+      },
+      {
+        "text": "Increase in total liabilities and assets"
+      },
+      {
+        "text": "No change to the balance sheet"
+      },
+      {
+        "text": "Only liabilities will increase"
+      },
+      {
+        "text": "Correct Answer: B",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "text": "Which of the following best describes the nature of a compilation engagement?",
+    "options": [
+      {
+        "text": "Assurance service with full verification"
+      },
+      {
+        "text": "Nonassurance service requiring independence"
+      },
+      {
+        "text": "Nonassurance service without the need for independence"
+      },
+      {
+        "text": "Independent audit with minimal client input"
+      },
+      {
+        "text": "Correct Answer: C",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "text": "What is a potential risk for accountants when helping clients implement FASB ASC 842?",
+    "options": [
+      {
+        "text": "Not understanding the client's business model"
+      },
+      {
+        "text": "The client may refuse to comply"
+      },
+      {
+        "text": "Possible loss of independence"
+      },
+      {
+        "text": "Lack of financial resources"
+      },
+      {
+        "text": "Correct Answer: C",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "text": "Under the new lease standard, what must clients do with their lease portfolio?",
+    "options": [
+      {
+        "text": "Discard old leases"
+      },
+      {
+        "text": "Record them on the income statement"
+      },
+      {
+        "text": "Evaluate and classify leases according to ASC 842"
+      },
+      {
+        "text": "Report only finance leases"
+      },
+      {
+        "text": "Correct Answer: C",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "text": "What should practitioners ensure before discussing lease standard implementation with clients?",
+    "options": [
+      {
+        "text": "They have a team of auditors available"
+      },
+      {
+        "text": "They possess sufficient knowledge of ASC 842"
+      },
+      {
+        "text": "They have reviewed all client contracts"
+      },
+      {
+        "text": "They have completed all continuing education requirements"
+      },
+      {
+        "text": "Correct Answer: B",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "text": "Which method allows clients to apply transition provisions as per FASB ASC 842?",
+    "options": [
+      {
+        "text": "Retrospective method"
+      },
+      {
+        "text": "Historical method"
+      },
+      {
+        "text": "Modified retrospective method"
+      },
+      {
+        "text": "Prospective method"
+      },
+      {
+        "text": "Correct Answer: C",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "text": "What is the accountant's obligation when a client fails to comply with ASC 842?",
+    "options": [
+      {
+        "text": "To report to regulatory authorities"
+      },
+      {
+        "text": "To issue a clean opinion"
+      },
+      {
+        "text": "To determine an appropriate course of action"
+      },
+      {
+        "text": "To ignore the noncompliance"
+      },
+      {
+        "text": "Correct Answer: C",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "text": "Why might some clients prefer a special purpose framework?",
+    "options": [
+      {
+        "text": "It requires no disclosures"
+      },
+      {
+        "text": "It may be more cost-effective"
+      },
+      {
+        "text": "It is easier to understand"
+      },
+      {
+        "text": "It avoids balance sheet adjustments"
+      },
+      {
+        "text": "Correct Answer: B",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "text": "What is the impact of the new lease standard on the income statement?",
+    "options": [
+      {
+        "text": "Only finance leases are recorded"
+      },
+      {
+        "text": "Both finance and operating leases are recorded as expenses"
+      },
+      {
+        "text": "Operating leases result in straight-line expense"
+      },
+      {
+        "text": "No leases are reflected in the income statement"
+      },
+      {
+        "text": "Correct Answer: C",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "text": "What constitutes a critical determination under the new standard?",
+    "options": [
+      {
+        "text": "The type of assets owned"
+      },
+      {
+        "text": "Whether a contract is or contains a lease"
+      },
+      {
+        "text": "The revenue generated from leases"
+      },
+      {
+        "text": "The duration of the lease"
+      },
+      {
+        "text": "Correct Answer: B",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "text": "What is the key challenge facing nonpublic entities under the new lease standard?",
+    "options": [
+      {
+        "text": "Increased competition in their industry"
+      },
+      {
+        "text": "Difficulty in understanding the requirements of ASC 842"
+      },
+      {
+        "text": "Reduced access to credit markets"
+      },
+      {
+        "text": "Increased regulatory scrutiny"
+      },
+      {
+        "text": "Correct Answer: B",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "text": "What should accountants maintain throughout the implementation process of FASB ASC 842?",
+    "options": [
+      {
+        "text": "Detailed records of client communications"
+      },
+      {
+        "text": "An awareness of potential changes in the regulatory environment"
+      },
+      {
+        "text": "An ongoing dialogue with the client's management"
+      },
+      {
+        "text": "A constant review of their own independence"
+      },
+      {
+        "text": "Correct Answer: C",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "text": "What is a significant factor contributing to the high vacancy rates in office spaces?",
+    "options": [
+      {
+        "text": "Increased demand for office space"
+      },
+      {
+        "text": "Permanent shifts to remote work",
+        "isCorrect": true
+      },
+      {
+        "text": "Higher property valuations"
+      },
+      {
+        "text": "Government incentives for office leasing"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following is NOT a major risk currently facing the CRE industry?",
+    "options": [
+      {
+        "text": "Liquidity risks"
+      },
+      {
+        "text": "Interest rate fluctuations"
+      },
+      {
+        "text": "Increased foot traffic in retail",
+        "isCorrect": true
+      },
+      {
+        "text": "Credit risks"
+      }
+    ]
+  },
+  {
+    "text": "How are rising interest rates expected to affect CRE entities?",
+    "options": [
+      {
+        "text": "Lower refinancing costs"
+      },
+      {
+        "text": "Increased borrowing costs",
+        "isCorrect": true
+      },
+      {
+        "text": "Higher property valuations"
+      },
+      {
+        "text": "Greater demand for office space"
+      }
+    ]
+  },
+  {
+    "text": "What impact do declining property valuations have on CRE entities?",
+    "options": [
+      {
+        "text": "Improved cash flow"
+      },
+      {
+        "text": "Increased asset liquidity"
+      },
+      {
+        "text": "Heightened refinancing risks",
+        "isCorrect": true
+      },
+      {
+        "text": "Enhanced investor confidence"
+      }
+    ]
+  },
+  {
+    "text": "What challenge do auditors face when assessing financial statements of CRE entities?",
+    "options": [
+      {
+        "text": "Lack of access to financial data"
+      },
+      {
+        "text": "Resistance from management"
+      },
+      {
+        "text": "Historical bias in assumptions",
+        "isCorrect": true
+      },
+      {
+        "text": "Increased audit costs"
+      }
+    ]
+  },
+  {
+    "text": "Which bias is particularly emphasized for auditors to be aware of when evaluating client management?",
+    "options": [
+      {
+        "text": "Automation bias"
+      },
+      {
+        "text": "Overconfidence bias"
+      },
+      {
+        "text": "Confirmation bias",
+        "isCorrect": true
+      },
+      {
+        "text": "Anchoring bias"
+      }
+    ]
+  },
+  {
+    "text": "What is the primary reason for the tightening credit conditions in the CRE sector?",
+    "options": [
+      {
+        "text": "Increased investment in commercial properties"
+      },
+      {
+        "text": "Deteriorating asset values and credit concerns",
+        "isCorrect": true
+      },
+      {
+        "text": "Favorable economic forecasts"
+      },
+      {
+        "text": "Rising demand for loans"
+      }
+    ]
+  },
+  {
+    "text": "What is the expected outcome for many CRE entities with maturing debt in a high-interest environment?",
+    "options": [
+      {
+        "text": "Easier refinancing options"
+      },
+      {
+        "text": "Higher profits from increased rent"
+      },
+      {
+        "text": "Potential loan modifications and defaults",
+        "isCorrect": true
+      },
+      {
+        "text": "Decreased demand for refinancing"
+      }
+    ]
+  },
+  {
+    "text": "Which demographic trend is affecting the office space market?",
+    "options": [
+      {
+        "text": "Migration to urban centers"
+      },
+      {
+        "text": "Population shifts to affordable suburbs",
+        "isCorrect": true
+      },
+      {
+        "text": "Increase in population density"
+      },
+      {
+        "text": "Decrease in remote working arrangements"
+      }
+    ]
+  },
+  {
+    "text": "How should auditors adjust their methodologies when dealing with CRE financial statements?",
+    "options": [
+      {
+        "text": "Rely on historical audit programs"
+      },
+      {
+        "text": "Use standardized procedures only"
+      },
+      {
+        "text": "Heighten professional skepticism and modify procedures",
+        "isCorrect": true
+      },
+      {
+        "text": "Eliminate risk assessments altogether"
+      }
+    ]
+  },
+  {
+    "text": "What is a key consideration when identifying financial statement level risks in the CRE industry?",
+    "options": [
+      {
+        "text": "Cash flow projections"
+      },
+      {
+        "text": "Tightening lending conditions",
+        "isCorrect": true
+      },
+      {
+        "text": "Tenant satisfaction"
+      },
+      {
+        "text": "Lease terms"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following factors is most likely to indicate a significant risk of material misstatement?",
+    "options": [
+      {
+        "text": "High tenant retention rates"
+      },
+      {
+        "text": "Increasing property valuations"
+      },
+      {
+        "text": "Diminished property asset valuations",
+        "isCorrect": true
+      },
+      {
+        "text": "Lower interest rates"
+      }
+    ]
+  },
+  {
+    "text": "According to AU-C 315, risks at the financial statement level may arise from:",
+    "options": [
+      {
+        "text": "Internal control failures"
+      },
+      {
+        "text": "External events or conditions",
+        "isCorrect": true
+      },
+      {
+        "text": "Employee misconduct"
+      },
+      {
+        "text": "Technology failures"
+      }
+    ]
+  },
+  {
+    "text": "What should an auditor assess when a financial statement level risk is identified?",
+    "options": [
+      {
+        "text": "Historical financial performance"
+      },
+      {
+        "text": "Impact on internal controls"
+      },
+      {
+        "text": "Nature and extent of pervasive effect on the financial statements",
+        "isCorrect": true
+      },
+      {
+        "text": "Market competition"
+      }
+    ]
+  },
+  {
+    "text": "In the context of going concern considerations, which situation is most concerning?",
+    "options": [
+      {
+        "text": "Strong cash reserves"
+      },
+      {
+        "text": "Upcoming debt maturity with no lender support",
+        "isCorrect": true
+      },
+      {
+        "text": "Positive industry trends"
+      },
+      {
+        "text": "Increased property demand"
+      }
+    ]
+  },
+  {
+    "text": "What does FASB ASC 205-40 require management to evaluate?",
+    "options": [
+      {
+        "text": "Compliance with tax regulations"
+      },
+      {
+        "text": "Ability to maintain cash flow"
+      },
+      {
+        "text": "Ability to continue as a going concern within one year",
+        "isCorrect": true
+      },
+      {
+        "text": "Performance against budget"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following is NOT a factor that may indicate a need for impairment testing of CRE assets?",
+    "options": [
+      {
+        "text": "Market prices have decreased"
+      },
+      {
+        "text": "High occupancy rates",
+        "isCorrect": true
+      },
+      {
+        "text": "CRE properties generating less cash flow than debt service cash outflows"
+      },
+      {
+        "text": "Recent market activity indicates discounting on similar properties"
+      }
+    ]
+  },
+  {
+    "text": "According to AU-C 570, an auditor's responsibility related to going concern involves:",
+    "options": [
+      {
+        "text": "Preparing the financial statements"
+      },
+      {
+        "text": "Evaluating the entity's ability to continue as a going concern",
+        "isCorrect": true
+      },
+      {
+        "text": "Managing the company's cash flow"
+      },
+      {
+        "text": "Conducting market research"
+      }
+    ]
+  },
+  {
+    "text": "What should practitioners be vigilant about regarding asset impairment in the CRE sector?",
+    "options": [
+      {
+        "text": "Tenant complaints"
+      },
+      {
+        "text": "Increased lease duration"
+      },
+      {
+        "text": "Indicators of impairment in long-lived assets",
+        "isCorrect": true
+      },
+      {
+        "text": "Upgrades to property"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following is a common result of violating loan covenants?",
+    "options": [
+      {
+        "text": "Increased property values"
+      },
+      {
+        "text": "Enhanced liquidity"
+      },
+      {
+        "text": "Potential impact on the entity's going concern status",
+        "isCorrect": true
+      },
+      {
+        "text": "Lower interest rates"
+      }
+    ]
+  },
+  {
+    "text": "What is a \"cross default\" provision?",
+    "options": [
+      {
+        "text": "A clause allowing refinancing at lower rates"
+      },
+      {
+        "text": "A provision that can trigger defaults across multiple loans",
+        "isCorrect": true
+      },
+      {
+        "text": "A benefit to borrowers for timely payments"
+      },
+      {
+        "text": "A requirement for increased collateral"
+      }
+    ]
+  },
+  {
+    "text": "In the context of debt modifications, which accounting standard primarily addresses troubled debt restructurings?",
+    "options": [
+      {
+        "text": "FASB ASC 360"
+      },
+      {
+        "text": "FASB ASC 470-60",
+        "isCorrect": true
+      },
+      {
+        "text": "FASB ASC 405-20"
+      },
+      {
+        "text": "FASB ASC 840"
+      }
+    ]
+  },
+  {
+    "text": "What may aggressive accounting practices in the CRE sector affect?",
+    "options": [
+      {
+        "text": "Management salary"
+      },
+      {
+        "text": "Financial statement accuracy",
+        "isCorrect": true
+      },
+      {
+        "text": "Tenant relationships"
+      },
+      {
+        "text": "Market reputation"
+      }
+    ]
+  },
+  {
+    "text": "Which standard addresses auditor responsibilities regarding accounting estimates?",
+    "options": [
+      {
+        "text": "AU-C 540",
+        "isCorrect": true
+      },
+      {
+        "text": "AU-C 500"
+      },
+      {
+        "text": "AU-C 320"
+      },
+      {
+        "text": "AU-C 315"
+      }
+    ]
+  },
+  {
+    "text": "Under which circumstance should auditors heighten their alert for fraud risks?",
+    "options": [
+      {
+        "text": "Improved property performance"
+      },
+      {
+        "text": "Stable economic conditions"
+      },
+      {
+        "text": "Increased pressure on management due to financial instability",
+        "isCorrect": true
+      },
+      {
+        "text": "Lower vacancy rates"
+      }
+    ]
+  },
+  {
+    "text": "What does FASB ASC 275 require disclosures about?",
+    "options": [
+      {
+        "text": "Internal control systems"
+      },
+      {
+        "text": "Risks and uncertainties affecting financial statement amounts",
+        "isCorrect": true
+      },
+      {
+        "text": "Market trends"
+      },
+      {
+        "text": "Employee benefits"
+      }
+    ]
+  },
+  {
+    "text": "In the CRE sector, which of the following could signify a concentration of credit risk?",
+    "options": [
+      {
+        "text": "Diverse tenant base"
+      },
+      {
+        "text": "High vacancy rates in multiple properties"
+      },
+      {
+        "text": "Rental revenues concentrated in a specific region",
+        "isCorrect": true
+      },
+      {
+        "text": "Balanced portfolio across various markets"
+      }
+    ]
+  },
+  {
+    "text": "What could be an appropriate response if a significant audit risk is identified?",
+    "options": [
+      {
+        "text": "Conducting a regular review without modifications"
+      },
+      {
+        "text": "Designing and implementing additional audit procedures",
+        "isCorrect": true
+      },
+      {
+        "text": "Ignoring the risk as it may resolve itself"
+      },
+      {
+        "text": "Reducing sample sizes to save costs"
+      }
+    ]
+  },
+  {
+    "text": "What must auditors communicate to those charged with governance?",
+    "options": [
+      {
+        "text": "Changes in property management"
+      },
+      {
+        "text": "Findings regarding compliance with loan covenants",
+        "isCorrect": true
+      },
+      {
+        "text": "Only the final financial statements"
+      },
+      {
+        "text": "Management's salary adjustments"
+      }
+    ]
+  },
+  {
+    "text": "An auditor may include which type of paragraph in their report to emphasize a significant matter?",
+    "options": [
+      {
+        "text": "Opinion paragraph"
+      },
+      {
+        "text": "Management representation paragraph"
+      },
+      {
+        "text": "Emphasis-of-matter paragraph",
+        "isCorrect": true
+      },
+      {
+        "text": "Summary paragraph"
+      }
+    ]
+  }
+]
